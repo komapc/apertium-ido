@@ -617,6 +617,10 @@
       <i>agap</i>
       <par n="o__n"/>
     </e>
+    <e lm="agar">
+      <i>ag</i>
+      <par n="ar__vblex"/>
+    </e>
     <e lm="agato">
       <i>agat</i>
       <par n="o__n"/>
@@ -13233,6 +13237,10 @@
       <i>rol</i>
       <par n="o__n"/>
     </e>
+    <e lm="rolar">
+      <i>rol</i>
+      <par n="ar__vblex"/>
+    </e>
     <e lm="romano">
       <i>roman</i>
       <par n="o__n"/>
@@ -19920,7 +19928,7 @@
     </e>
     <e lm="havar">
       <i>hav</i>
-      <par n="a__adj"/>
+      <par n="ar__vblex"/>
     </e>
     <e lm="hazarda">
       <i>hazard</i>
@@ -22428,7 +22436,7 @@
     </e>
     <e lm="naskar">
       <i>nask</i>
-      <par n="a__adj"/>
+      <par n="ar__vblex"/>
     </e>
     <e lm="natar">
       <i>nat</i>
