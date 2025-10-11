@@ -96,6 +96,48 @@
         </p>
       </e>
     </pardef>
+    <pardef n="o__np">
+      <e>
+        <p>
+          <l>o</l>
+          <r>
+            <s n="np"/>
+            <s n="sg"/>
+            <s n="nom"/>
+          </r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>
+            <s n="np"/>
+            <s n="pl"/>
+            <s n="nom"/>
+          </r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>on</l>
+          <r>
+            <s n="np"/>
+            <s n="sg"/>
+            <s n="acc"/>
+          </r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>in</l>
+          <r>
+            <s n="np"/>
+            <s n="pl"/>
+            <s n="acc"/>
+          </r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="e__adv">
       <e>
         <p>
@@ -264,6 +306,10 @@
     <e lm="Kristo">
       <i>Krist</i>
       <par n="o__n"/>
+    </e>
+    <e lm="Petro">
+      <i>Petr</i>
+      <par n="o__np"/>
     </e>
     <e lm="Kroniki">
       <i>kronik|Kronik</i>
