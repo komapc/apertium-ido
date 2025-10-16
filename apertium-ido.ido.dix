@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</alphabet>
+  <alphabet>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</alphabet>
   <sdefs>
     <sdef n="n"/>
     <sdef n="adj"/>
@@ -10,6 +10,8 @@
     <sdef n="prn"/>
     <sdef n="det"/>
     <sdef n="num"/>
+    <sdef n="ciph"/>
+    <sdef n="percent"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
     <sdef n="ij"/>
@@ -38,6 +40,37 @@
     <sdef n="al"/>
   </sdefs>
   <pardefs>
+    <!-- Number recognition (digits and percentages) -->
+    <pardef n="numeros">
+      <e>
+        <re>[0-9]+([.,][0-9]+)*</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="ciph"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9]+([.,][0-9]+)*</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="ciph"/><s n="sp"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9]+([.,][0-9]+)*%</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="percent"/><s n="sp"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <re>[0-9]+([.,][0-9]+)*%</re>
+        <p>
+          <l/>
+          <r><s n="num"/><s n="percent"/><s n="sp"/><s n="acc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="o__n">
       <e>
         <p>
@@ -4573,10 +4606,6 @@
     <e lm="nule">
       <i>nul</i>
       <par n="e__adv"/>
-    </e>
-    <e lm="nuna">
-      <i>nun</i>
-      <par n="a__adj"/>
     </e>
     <e lm="nuntempe">
       <i>nuna|nun(.a)</i>
@@ -16434,6 +16463,10 @@
       <i>militarism</i>
       <par n="o__n"/>
     </e>
+    <e lm="milito">
+      <i>milit</i>
+      <par n="o__n"/>
+    </e>
     <e lm="miluno">
       <i>mi.</i>
       <par n="o__n"/>
@@ -19858,6 +19891,10 @@
       <i>restrikt</i>
       <par n="o__n"/>
     </e>
+    <e lm="resulto">
+      <i>result</i>
+      <par n="o__n"/>
+    </e>
     <e lm="resurso">
       <i>resurs</i>
       <par n="o__n"/>
@@ -22204,10 +22241,6 @@
     </e>
     <e lm="termoterapio">
       <i>termoterapi</i>
-      <par n="o__n"/>
-    </e>
-    <e lm="teritorio">
-      <i>teritori</i>
       <par n="o__n"/>
     </e>
     <e lm="terotremo">
@@ -30738,6 +30771,10 @@
       <i>me</i>
       <par n="__adv"/>
     </e>
+    <e lm="me">
+      <i>me</i>
+      <par n="__prn"/>
+    </e>
     <e lm="mil">
       <i>mil</i>
       <par n="__adv"/>
@@ -31489,6 +31526,11 @@
     <e lm="vu">
       <i>vu</i>
       <par n="__vblex"/>
+    </e>
+  </section>
+  <section id="final" type="inconditional">
+    <e>
+      <par n="numeros"/>
     </e>
   </section>
 </dictionary>
