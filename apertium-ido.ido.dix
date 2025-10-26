@@ -37,7 +37,6 @@
     <sdef n="top" />
     <sdef n="al" />
     <sdef n="ciph" />
-    <sdef n="percent" />
   </sdefs>
   <pardefs>
     <pardef n="o__n">
@@ -62,108 +61,12 @@
         </p>
       </e>
     </pardef>
-    <pardef n="ala__adj">
-      <e>
-        <p>
-          <l>ala</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ale</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="oza__adj">
-      <e>
-        <p>
-          <l>oza</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>oze</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="iva__adj">
-      <e>
-        <p>
-          <l>iva</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ive</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-    </pardef>
     <pardef n="e__adv">
       <e>
         <p>
           <l>e</l>
           <r>
             <s n="adv" />
-          </r>
-        </p>
-      </e>
-    </pardef>
-    <pardef n="ajo__n">
-      <e>
-        <p>
-          <l>ajo</l>
-          <r>
-            <s n="n" />
-            <s n="sg" />
-            <s n="nom" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>aji</l>
-          <r>
-            <s n="n" />
-            <s n="pl" />
-            <s n="nom" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ajon</l>
-          <r>
-            <s n="n" />
-            <s n="sg" />
-            <s n="acc" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ajin</l>
-          <r>
-            <s n="n" />
-            <s n="pl" />
-            <s n="acc" />
           </r>
         </p>
       </e>
@@ -175,155 +78,6 @@
           <r>
             <s n="vblex" />
             <s n="inf" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>as</l>
-          <r>
-            <s n="vblex" />
-            <s n="pri" />
-            <s n="p3" />
-            <s n="sg" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r>
-            <s n="vblex" />
-            <s n="pii" />
-            <s n="p3" />
-            <s n="sg" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>os</l>
-          <r>
-            <s n="vblex" />
-            <s n="fti" />
-            <s n="p3" />
-            <s n="sg" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ez</l>
-          <r>
-            <s n="vblex" />
-            <s n="imp" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>us</l>
-          <r>
-            <s n="vblex" />
-            <s n="cni" />
-            <s n="p3" />
-            <s n="sg" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>anta</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ante</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>inta</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>inte</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>onta</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>onte</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ata</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ate</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ita</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ite</l>
-          <r>
-            <s n="adv" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ota</l>
-          <r>
-            <s n="adj" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ote</l>
-          <r>
-            <s n="adv" />
           </r>
         </p>
       </e>
@@ -348,42 +102,6 @@
             <s n="ciph" />
             <s n="sp" />
             <s n="nom" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <re>[0-9]+([.,][0-9]+)*</re>
-        <p>
-          <l />
-          <r>
-            <s n="num" />
-            <s n="ciph" />
-            <s n="sp" />
-            <s n="acc" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <re>[0-9]+([.,][0-9]+)*%</re>
-        <p>
-          <l />
-          <r>
-            <s n="num" />
-            <s n="percent" />
-            <s n="sp" />
-            <s n="nom" />
-          </r>
-        </p>
-      </e>
-      <e>
-        <re>[0-9]+([.,][0-9]+)*%</re>
-        <p>
-          <l />
-          <r>
-            <s n="num" />
-            <s n="percent" />
-            <s n="sp" />
-            <s n="acc" />
           </r>
         </p>
       </e>
@@ -438,5014 +156,998 @@
         </p>
       </e>
     </pardef>
-        <pardef n="default">
-          <e>
-            <p>
-              <l />
-              <r />
-            </p>
-          </e>
-        </pardef>
-        <pardef n="numeros">
-          <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/><s n="ciph"/><s n="sp"/><s n="nom"/></r></p></e>
-          <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/><s n="ciph"/><s n="sp"/><s n="acc"/></r></p></e>
-          <e><re>[0-9]+([.,][0-9]+)*%</re><p><l></l><r><s n="num"/><s n="percent"/><s n="sp"/><s n="nom"/></r></p></e>
-          <e><re>[0-9]+([.,][0-9]+)*%</re><p><l></l><r><s n="num"/><s n="percent"/><s n="sp"/><s n="acc"/></r></p></e>
-        </pardef>
-      </pardefs>
+  </pardefs>
   <section id="main" type="standard">
     <e>
-      <i>Afrika</i>
-      <par n="default" />
+      <par n="num_regex" />
     </e>
-    <e>
-      <i>Aljer</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Aljeria</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Aljeria</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Aljeriana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Amerika</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Andora</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Andora</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Angola</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Angola</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Arjentinia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Arjentinia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Arjentiniana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Australia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Australiana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Austria</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Austria</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Austria-Hungaria</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Austria-Hungariana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Austriana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Azerbaijan</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Azia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Aziana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Bangladesh</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Bangladesh</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Belgia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Belgia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Belgiana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Belize</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Benin</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Berlin</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Bolivia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Boliviana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Brazilia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Braziliana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Burma</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Butan</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Chipro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Danubio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Dominika</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Dominika Republiko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Egiptia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Egiptiana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Equador</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Equador</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Esperanto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Europa</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Europa</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Filipini</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Finlando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Franciana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Gabon</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Gabon</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Gambia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Germania</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Germania</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Germaniana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Ghana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Grenada</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Guatemala</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Guinea</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Guyana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Haiti</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Honduras</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>India</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Irlando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Islando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Italia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Italiana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Ivora Rivo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Jamaika</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Jupitero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Kanada</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Katar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Klingona linguo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Lesoto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Libana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Libano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Liechtenstein</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Luxemburg</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Macedonia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Madagaskar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Madrid</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Malaizia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Malawi</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Mali</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Malta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Monako</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Montenegro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nauru</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nederlando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nederlando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nepal</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Neptuno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nijer</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nikaragua</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Nova-Kaledonia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Pakistan</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Panama</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Paraguay</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Paris</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Prusia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Prusiana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Ruanda</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Rusia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Rusiana</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Samoa</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Saturno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Senegal</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Singapur</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Skandinavia</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Surinam</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Urano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Usano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>Zimbabwe</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="a">
       <i>a</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>abadeyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abasar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abdikar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abdomino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abeluyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abieto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abiso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ablaciono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abortigo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aboyar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abrikoto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abrogar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>absinto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abstrakta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abundar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>abundo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>acensar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aceptar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>acerba</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="acero">
       <i>acero</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>acero</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ad">
       <i>ad</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>adepto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>adherar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="adjektivo">
       <i>adjektivo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>adjektivo</i>
-      <par n="default" />
+    <e lm="Afrika">
+      <i>Afrika</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>adrenalino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>adverbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>advokato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aerodromo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>agar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="aglo">
       <i>aglo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>aglo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="agosto">
       <i>agosto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>agosto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>agreabla</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aklamar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>akra</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>akrido</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="akushisto">
       <i>akushisto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="akuta">
       <i>akuta</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>alabastro</i>
-      <par n="default" />
+    <e lm="Aljer">
+      <i>Aljer</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>alburno</i>
-      <par n="default" />
+    <e lm="Aljeria">
+      <i>Aljeria</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>alfabeto</i>
-      <par n="default" />
+    <e lm="Aljeriana">
+      <i>Aljeriana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>alio</i>
-      <par n="default" />
+    <e lm="Andora">
+      <i>Andora</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>alterar</i>
-      <par n="default" />
+    <e lm="Angola">
+      <i>Angola</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>amaso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ambasadisto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>amiko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ampero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>anado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>analoga</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>angulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>animalo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ante">
       <i>ante</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>anteno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>antimonio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>antipatio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>apene</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aperitivo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>apetito</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>apogeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>apostolo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>apostrofo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>apro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aquario</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aquirar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>aquo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="arab">
       <i>arab</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>arboro</i>
-      <par n="default" />
+    <e lm="Arjentinia">
+      <i>Arjentinia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>arbusto</i>
-      <par n="default" />
+    <e lm="Arjentiniana">
+      <i>Arjentiniana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>arieto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>arjento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>arketo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>armaro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>artiklo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>asaltar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>asasinar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="asno">
       <i>asno</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>asno</i>
-      <par n="default" />
+    <e lm="Australia">
+      <i>Australia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>asparago</i>
-      <par n="default" />
+    <e lm="Australiana">
+      <i>Australiana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>astro</i>
-      <par n="default" />
+    <e lm="Austria">
+      <i>Austria</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>astronomiala</i>
-      <par n="default" />
+    <e lm="Austria-Hungaria">
+      <i>Austria-Hungaria</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>atakar</i>
-      <par n="default" />
+    <e lm="Austria-Hungariana">
+      <i>Austria-Hungariana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>atestar</i>
-      <par n="default" />
+    <e lm="Austriana">
+      <i>Austriana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>atesto</i>
-      <par n="default" />
+    <e lm="Azia">
+      <i>Azia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>atomo</i>
-      <par n="default" />
+    <e lm="Aziana">
+      <i>Aziana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>audado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>audar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>autobuso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>autuno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>avalancho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>avantajo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>averso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>avino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>avokado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>avulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>axelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bagatelo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="balalaiko">
       <i>balalaiko</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>balayar</i>
-      <par n="default" />
+    <e lm="Bangladesh">
+      <i>Bangladesh</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>baleno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>baletistino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>balifo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>balnar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>balono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>banano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bandajo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>barbarajo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>barbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>barko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>barometro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>barono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>batelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>baterio</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="bear">
       <i>bear</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>bestio</i>
-      <par n="default" />
+    <e lm="Belgia">
+      <i>Belgia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>betono</i>
-      <par n="default" />
+    <e lm="Belgiana">
+      <i>Belgiana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>biblioteko</i>
-      <par n="default" />
+    <e lm="Berlin">
+      <i>Berlin</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>bifurkilo</i>
-      <par n="default" />
+    <e lm="Bolivia">
+      <i>Bolivia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>bilorno</i>
-      <par n="default" />
+    <e lm="Boliviana">
+      <i>Boliviana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>biro</i>
-      <par n="default" />
+    <e lm="Brazilia">
+      <i>Brazilia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>bitrajo</i>
-      <par n="default" />
+    <e lm="Braziliana">
+      <i>Braziliana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>blato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>blinda</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>blindo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>blonda</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>blua</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bofratulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>boko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>boliar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bomatro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bombo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bona</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>boneto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>borar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bov-karno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bovo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bovyuno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>brancho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bretelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>brizanto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bronzo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>brueto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>bruna</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="bubo">
       <i>bubo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>bubo</i>
-      <par n="default" />
+    <e lm="Burma">
+      <i>Burma</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>buketo</i>
-      <par n="default" />
+    <e lm="Butan">
+      <i>Butan</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>burdono</i>
-      <par n="default" />
+    <e lm="Chipro">
+      <i>Chipro</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>burso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>busto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>butano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>butro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>buxo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cedro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>celiba</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>centimetro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cerebro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cesar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>chagrenigar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>chambelano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>chambro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>chasero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>chefurbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ciel-arko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="cienco">
       <i>cienco</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>ciencoza</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cigno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cikado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cilindro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cilio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cimo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>cinabro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="cirkoncizar">
       <i>cirkoncizar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
+    <e lm="cis">
       <i>cis</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>citohoketo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>citrono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="da">
       <i>da</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
+    <e lm="damzelo">
       <i>damzelo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>damzelo</i>
-      <par n="default" />
+    <e lm="Danubio">
+      <i>Danubio</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>danko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dansar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>daxo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="de">
       <i>de</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>debetigar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>deceptar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>decimetro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>definar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dekimo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="deklinometro">
       <i>deklinometro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>dekreto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="delirar">
       <i>delirar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>demandar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>desegnar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>desordinar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dextra-uzero</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="di">
       <i>di</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>diala</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="diamanto">
       <i>diamanto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>dicar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="dicionario">
       <i>dicionario</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>digestar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>diligenta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dindino</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="dio">
       <i>dio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>dio</i>
-      <par n="default" />
+    <e lm="Dominika">
+      <i>Dominika</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>diskreta</i>
-      <par n="default" />
+    <e lm="Dominika Republiko">
+      <i>Dominika Republiko</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>disputar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>domeno</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="domo">
       <i>domo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>domo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dorlotar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dormar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>dormo-chambro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>du</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="duesma">
       <i>duesma</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>duktar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="dum">
       <i>dum</i>
-      <par n="default" />
+      <par n="__cnjsub" />
     </e>
-    <e>
+    <e lm="e">
       <i>e</i>
-      <par n="default" />
+      <par n="__cnjcoo" />
     </e>
-    <e>
-      <i>ecitar</i>
-      <par n="default" />
+    <e lm="Egiptia">
+      <i>Egiptia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>edukar</i>
-      <par n="default" />
+    <e lm="Egiptiana">
+      <i>Egiptiana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>eduko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>efemera</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="eklipso">
       <i>eklipso</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="el">
       <i>el</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="ela">
       <i>ela</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>elfo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>emblema</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>empirikero</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="en">
       <i>en</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>enciklopedio</i>
-      <par n="default" />
+    <e lm="Equador">
+      <i>Equador</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>enduktar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>enigmo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>enoyiganta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>epika</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>episkopo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>equaciono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="esar">
       <i>esar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>esar</i>
-      <par n="default" />
+    <e lm="Esperanto">
+      <i>Esperanto</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>eshafodo</i>
-      <par n="default" />
+    <e lm="Europa">
+      <i>Europa</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>eskapar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>establisar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>estribo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>esvanar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>eterneso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>etuyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>evaluar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>evitar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>exhaustanta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>exkavar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>expreso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>extenso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>extingar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fairo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fakta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fakturo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>falar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>falchar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>faldar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>falo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>familiala</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fantazio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>farmacio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fatigita</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="fekifar">
       <i>fekifar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>feko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="felacar">
       <i>felacar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>felto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="femina">
       <i>femina</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>feminismo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fendar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fenestro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ferio">
       <i>ferio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>fermo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fiancito</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>figo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fiktivajo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="filiino">
       <i>filiino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>filiino</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="filio">
       <i>filio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>filio</i>
-      <par n="default" />
+    <e lm="Filipini">
+      <i>Filipini</i>
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="filiulo">
       <i>filiulo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>filiulo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="filo">
       <i>filo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>filo</i>
-      <par n="default" />
+    <e lm="Finlando">
+      <i>Finlando</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>filozofio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fingro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fisho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fiziko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>flako</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>flamo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>flatar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>flava</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>flecho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>flogilo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>florkaulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>floro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fluoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fola</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>foleso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>folio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fore</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>foresto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>forketo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>formiko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>foso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>foxo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>foyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fragmento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frago</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frakasar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frambo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="frato">
       <i>frato</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="fregato">
       <i>fregato</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>freno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fresha</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="frigorizilo">
       <i>frigorizilo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="frigorizivo">
       <i>frigorizivo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>fritar</i>
-      <par n="default" />
+    <e lm="Gabon">
+      <i>Gabon</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>fronto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frue</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frugala</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frukto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>frumento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fulmino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fumar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>funciono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fundo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fungo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>furio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>furtanto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>furtar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>fuzesar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="galaxio">
       <i>galaxio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>galeno</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="galio">
       <i>galio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>gambo</i>
-      <par n="default" />
+    <e lm="Germania">
+      <i>Germania</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>ganeto</i>
-      <par n="default" />
+    <e lm="Germaniana">
+      <i>Germaniana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>ganso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gansyuno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ganto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gardar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gardeno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>generala</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>genuo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gipso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>glaciero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>glacio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>glata</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gluo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>golfo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gracioza</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>grenado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>griza</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>grondar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>gropo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>grunar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>grupo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hafnio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hanino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hanulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hararo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>havar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hazardo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>heliko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="heliopauzo">
       <i>heliopauzo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="heliosfero">
       <i>heliosfero</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>hemo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>herbario</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>herbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>herisono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hermetika</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="heterosexuala">
       <i>heterosexuala</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
+    <e lm="heterosexualino">
       <i>heterosexualino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="heterosexualo">
       <i>heterosexualo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>hezitar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hiato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hidrogeno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hiere</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hipar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hirundo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>holmio</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="homeosexuala">
       <i>homeosexuala</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
+    <e lm="homeosexualino">
       <i>homeosexualino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="homeosexualo">
       <i>homeosexualo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="hordeo">
       <i>hordeo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>horo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hororar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hosto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>hotelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>humanismo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="hundo">
       <i>hundo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>hundo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="hundyuno">
       <i>hundyuno</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>ibe</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="idisto">
       <i>idisto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="il">
       <i>il</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>imaginado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>imbecila</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>impedar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>importanta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>imprimuro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>indikativo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>indio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>infanteto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>infanto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>inklinar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>inkubo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>inkunablo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>inquestar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>insidio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>insulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>intensa</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="inter">
       <i>inter</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>interjeciono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>interna</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>invitar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="iodo">
       <i>iodo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="ipsa">
       <i>ipsa</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>ja</i>
-      <par n="default" />
+    <e lm="Italia">
+      <i>Italia</i>
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="Italiana">
+      <i>Italiana</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="januaro">
       <i>januaro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="jemelo">
       <i>jemelo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>jenar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>jendarmo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>jerar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>jibeto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>jorno</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="jovdio">
       <i>jovdio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>jovdio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>juntita</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>jurar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ka</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kad">
       <i>kad</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>kafeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kakao</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kalamitato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kalkulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kameleono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kamelo">
       <i>kamelo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="kande">
       <i>kande</i>
-      <par n="default" />
+      <par n="__cnjsub" />
     </e>
-    <e>
-      <i>kandelabro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kankro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kanon-batelo">
       <i>kanon-batelo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>kantino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kantono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kapo">
       <i>kapo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>kaprino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kaprulo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="karasino">
       <i>karasino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>karcero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>karno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>karoto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>karpo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kaseto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kastano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>katarakto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kateto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>katulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kaudo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kaulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavaleyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavalino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavalkar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavalo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavalulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavalyuno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kavo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kazerno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kelero</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kelka">
       <i>kelka</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
-      <i>kilio</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kin">
       <i>kin</i>
-      <par n="default" />
+      <par n="num" />
     </e>
-    <e>
-      <i>kin</i>
-      <par n="default" />
+    <e lm="Klingona linguo">
+      <i>Klingona linguo</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>klareso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>klasifikar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>klaso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>klifo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>klimar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kloro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>klosho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>klozar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kochenilo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kocinelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kokono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kolego</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kolombo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kolono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kolumo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kombato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komenco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komercajo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komforto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komoda</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kompleta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komputero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komuna</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>komuneso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kondensar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>konduto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>konektar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>konfesar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>konfidar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>konflikto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>konjunciono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="konkurso">
       <i>konkurso</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>konservar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="konspiro">
       <i>konspiro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>konsputar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kontestar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kontinento</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kontre">
       <i>kontre</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>koqueyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kordio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>koridoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>korko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>korsajo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>korto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>korvo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kosto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kovar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>krakar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>krayono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kreveto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kriblagar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kritikar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kritiko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kromo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kromosomo">
       <i>kromosomo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>krono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>krucagar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>krucho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kuafisto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kudo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kuko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kuliero</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kulo">
       <i>kulo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>kulo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kun">
       <i>kun</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>kun</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kuniklo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kupro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kuro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>kurta</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="kustumala">
       <i>kustumala</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>kuzo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="la">
       <i>la</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
-      <i>labio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>labor-benko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>laboro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lacerto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>laco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lago</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lakrimo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lakto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="lando">
       <i>lando</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>lango</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>larvo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lasta</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="lavomashino">
       <i>lavomashino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="le">
       <i>le</i>
-      <par n="default" />
+      <par n="e__adv" />
     </e>
-    <e>
-      <i>leda</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="lego">
       <i>lego</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>lego</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>legumo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lenso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>leono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>leporo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="li">
       <i>li</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>libereso</i>
-      <par n="default" />
+    <e lm="Libana">
+      <i>Libana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>libro</i>
-      <par n="default" />
+    <e lm="Libano">
+      <i>Libano</i>
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="ligar">
       <i>ligar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>lineo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="linguo">
       <i>linguo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>linguo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>liquido</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lito</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lojar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lojeyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lokusto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>longa</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="lu">
       <i>lu</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>lu</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lucio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>lumo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="luno">
       <i>luno</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>luno</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ma">
       <i>ma</i>
-      <par n="default" />
+      <par n="__cnjcoo" />
     </e>
-    <e>
-      <i>macerar</i>
-      <par n="default" />
+    <e lm="Madrid">
+      <i>Madrid</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>magazino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mago</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mala</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>maladeso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>malediko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>maligna</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mama</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mandato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mandolino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mango</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="manjajo">
       <i>manjajo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>manjar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>manuale</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="manuo">
       <i>manuo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>manuo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>marala</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>marchandar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>marmoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>maro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>marsho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>martelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>marto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="maskula">
       <i>maskula</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>maskula</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="materio">
       <i>materio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>matino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mato</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="matriochka">
       <i>matriochka</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
+    <e lm="matro">
       <i>matro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>matro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="me">
       <i>me</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>me</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mediacanta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>medikamento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mediko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>medio</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="mem">
       <i>mem</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>memore</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>menajerio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mentiar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="merkovorto">
       <i>merkovorto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>merlo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mestiero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>metro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mezo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="mideo">
       <i>mideo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>mielo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mikra</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>milito</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ministro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>minuto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mito</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="monato">
       <i>monato</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>monato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>monet-peco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>monotona</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>monstro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="mopso">
       <i>mopso</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>mortar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>morto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>moskito</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="muelilo">
       <i>muelilo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="muelodisko">
       <i>muelodisko</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="muelopetro">
       <i>muelopetro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>muevo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mujar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>muliero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mulo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="multa">
       <i>multa</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
-      <i>muro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>musho</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="musketiero">
       <i>musketiero</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>muso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mutonino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>mutono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="nam">
       <i>nam</i>
-      <par n="default" />
+      <par n="__cnjcoo" />
     </e>
-    <e>
-      <i>naraco</i>
-      <par n="default" />
+    <e lm="Nederlando">
+      <i>Nederlando</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>narciso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>natar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>navigar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>navo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>naz-truo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nazo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>neglijeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nekredebla</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nepotulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nervo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nesto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>neurono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ni">
       <i>ni</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>ni</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nigra</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="nigra truo">
       <i>nigra truo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>nikelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nimfo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nivo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>no</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nodo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nokto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>noktuo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nominativo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nomo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>non</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="nonesma">
       <i>nonesma</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>notario</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="novembro">
       <i>novembro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>nubo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>nuko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="nula">
       <i>nula</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
+    <e lm="nultempe">
       <i>nultempe</i>
-      <par n="default" />
+      <par n="e__adv" />
     </e>
-    <e>
+    <e lm="o">
       <i>o</i>
-      <par n="default" />
+      <par n="__cnjcoo" />
     </e>
-    <e>
-      <i>obsoleta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>obstinanta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>obtenar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="od">
       <i>od</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="odiar">
       <i>odiar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>odoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ogro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ok</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>oktavo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>okulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>okupar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ol">
       <i>ol</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>olivo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="olu">
       <i>olu</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="omna">
       <i>omna</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
-      <i>omna</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="omnu">
       <i>omnu</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>onklino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>onomatopeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>oranjea</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>oranjo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>orelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>organo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>orluro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ornivo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>oro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>osto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>otuso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>oxo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>paco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pagar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>palato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>paleto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>palmiero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>palmo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>palpebro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pano</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="papagayo">
       <i>papagayo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>papagayo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>paper-klovo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>papiliono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>paplo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>papo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>para</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>parapeto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>parentezo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>parento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pariar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pasero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pasinta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pasto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>patreto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="patria">
       <i>patria</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="patriana">
       <i>patriana</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
+    <e lm="patro">
       <i>patro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>pavono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pavoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pecho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ped-fingro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ped-vesto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pedo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pektoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pekunio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pelo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="per">
       <i>per</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>pergameno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>perihelio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>peroneo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>persiko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>persono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>persuadar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>petrisar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>petro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>piano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pigo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pikar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pilo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pinselo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pinta</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="pinyino">
       <i>pinyino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>piro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>planeto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>planko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>planto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plata</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plena</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plezuro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plombo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plorar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plumo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>plura</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pluvo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="po">
       <i>po</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>polita</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pomo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ponto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="poplo">
       <i>poplo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>populala</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="por">
       <i>por</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>pordo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>porelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>porkino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>porko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>porkulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>porkyuno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>portfolio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>portuo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="pos">
       <i>pos</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>posedar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>posibla</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="posto">
       <i>posto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>povar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>preco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>predikar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>preferar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>prefixo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>prenomo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="prepuco">
       <i>prepuco</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>presar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>preso</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="pri">
       <i>pri</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
+    <e lm="prima">
       <i>prima</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>printempo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>privilejo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>prizar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="pro quo">
       <i>pro quo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>pro quo</i>
-      <par n="default" />
+    <e lm="Prusia">
+      <i>Prusia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>proceduro</i>
-      <par n="default" />
+    <e lm="Prusiana">
+      <i>Prusiana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>progreso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>promisar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pronta</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>proverbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pruda</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pruino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pugno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pulsado</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="pulsar">
       <i>pulsar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>pupeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>pureo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="putanino">
       <i>putanino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>puteo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="qua">
       <i>qua</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>qua</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="quale">
       <i>quale</i>
-      <par n="default" />
+      <par n="__cnjsub" />
     </e>
-    <e>
-      <i>quale</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>qualeso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>qualio</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="quankam">
       <i>quankam</i>
-      <par n="default" />
+      <par n="__cnjsub" />
     </e>
-    <e>
+    <e lm="quar">
       <i>quar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
+    <e lm="quaresma">
       <i>quaresma</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>quaresma</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>querko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>questionar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>questiono</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="qui">
       <i>qui</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="quin">
       <i>quin</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="quo">
       <i>quo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="quon">
       <i>quon</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>rano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rapideso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rara</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>raskalo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>raso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>raupo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>realismo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="reda">
       <i>reda</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>regardar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="rejo">
       <i>rejo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>rejo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rekompenso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rekurso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rentiro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>repozar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>reprocho</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>reptar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>respirar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="respondo">
       <i>respondo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>respondo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>reto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="reumatismo">
       <i>reumatismo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>revelar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>revenuo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="rezumar">
       <i>rezumar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>ribo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ridar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rigo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="rinocero">
       <i>rinocero</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>ripasar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>riprodukto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rivero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rivo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>robo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>roboto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ronronar">
       <i>ronronar</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>rostro</i>
-      <par n="default" />
+    <e lm="Rusia">
+      <i>Rusia</i>
+      <par n="o__n" />
     </e>
-    <e>
-      <i>rot-sulko</i>
-      <par n="default" />
+    <e lm="Rusiana">
+      <i>Rusiana</i>
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>rozea</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rugo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rumo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>ruptar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>rusto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sabordo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>salamandro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>saldo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>saliko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>salizita</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>salmono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>salo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>saltar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>salto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>saluto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>saneso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sango</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sanguisugo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sarko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="se">
       <i>se</i>
-      <par n="default" />
+      <par n="__cnjsub" />
     </e>
-    <e>
+    <e lm="sed">
       <i>sed</i>
-      <par n="default" />
+      <par n="__cnjcoo" />
     </e>
-    <e>
-      <i>segun</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sekretajo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sekretario</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>selo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>semblar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sempre</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="sen">
       <i>sen</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>sen</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>senco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>senso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sep</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>serchar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>serpento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sexuo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>shamo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="sharko">
       <i>sharko</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>sharko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>shikanar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>shultro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="shuo">
       <i>shuo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>shutro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>siflar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>simio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>simpla</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="singular">
       <i>singular</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>singularo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>siorino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sis</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sisesma</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>skafandro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>skarabeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sklavo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>skolo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>skorpiono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>skribar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>skrubino</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="smeraldo">
       <i>smeraldo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="societo">
       <i>societo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>sociseto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sociso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>soldar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>solena</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>solvar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>somero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sorgo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sparar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>specaleso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spegulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spektaklo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spensar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spico</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spinato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spionero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spleno</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="spozino">
       <i>spozino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>spozo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="spozulo">
       <i>spozulo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>spricar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>spumo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stalo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stando</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stano</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stelaro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stertorar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stipito</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stonagar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stopilo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>strado</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>strandar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>stranjera</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>strigo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>striko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="strucho">
       <i>strucho</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>stulo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="sub">
       <i>sub</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>sub</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="submersonavo">
       <i>submersonavo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>sucesar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sufixo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>suflar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sugar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sukoza</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>sukro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="sundio">
       <i>sundio</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>sundio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>suolo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>supozar</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="sur">
       <i>sur</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
+    <e lm="ta">
       <i>ta</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>tablo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>taliisto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>talpo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tamburo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tamen</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>taso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>taxio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>teatro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tegulo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tekto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>telefonar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>telefonilo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tempesto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>templo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tempo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tenar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>teo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>terbio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>terpoma skarabeo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>terpomo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="tigrino">
       <i>tigrino</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="tigro">
       <i>tigro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>tigro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="tigrulo">
       <i>tigrulo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="til">
       <i>til</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>tilio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>timar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>timo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>titilar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tolo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tomato</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tombeyo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>torso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tortugo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="tota">
       <i>tota</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
+    <e lm="tra">
       <i>tra</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>trabo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tradukar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tradukuro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>transitiva</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>treno</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tresto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>trezoro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tri</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="triesma">
       <i>triesma</i>
-      <par n="default" />
+      <par n="a__adj" />
     </e>
-    <e>
-      <i>trista</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>triturar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>tro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>trono</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>truflo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>trumpeto</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>truo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="tu">
       <i>tu</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
-      <i>tubo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="turo">
       <i>turo</i>
-      <par n="default" />
+      <par n="ar__vblex" />
     </e>
-    <e>
-      <i>turturo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ucelo">
       <i>ucelo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>ucelo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ula">
       <i>ula</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
+    <e lm="ulo">
       <i>ulo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>ultimato</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ultra">
       <i>ultra</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>umbiliko</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="un">
       <i>un</i>
-      <par n="default" />
+      <par n="__det" />
     </e>
-    <e>
-      <i>un</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>universo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>urbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>urso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>utensilo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>uzar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>uzurpar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vakanco</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>valo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vampiro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vanelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vango</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>varma</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vazo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>veko</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>venerdio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vento</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>verbo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>verda</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vereso</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vermo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vespero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vestio</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vesto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="vesto-lavilo">
       <i>vesto-lavilo</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
+    <e lm="vi">
       <i>vi</i>
-      <par n="default" />
+      <par n="__prn" />
     </e>
-    <e>
+    <e lm="vice">
       <i>vice</i>
-      <par n="default" />
+      <par n="e__adv" />
     </e>
-    <e>
-      <i>vidar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>videbla</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>violino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vito</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vitro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vitrokarelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vizelo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>volar</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>volfo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>vortaro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="vorto">
       <i>vorto</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>vorto</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="vortolibro">
       <i>vortolibro</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>voyo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="vu">
       <i>vu</i>
-      <par n="default" />
+      <par n="o__n" />
     </e>
-    <e>
-      <i>wolframo</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>yaro</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="ye">
       <i>ye</i>
-      <par n="default" />
+      <par n="__pr" />
     </e>
-    <e>
-      <i>yunino</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>yuro</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>zelo</i>
-      <par n="default" />
-    </e>
-    <e>
+    <e lm="zero">
       <i>zero</i>
-      <par n="default" />
-    </e>
-    <e>
-      <i>zinko</i>
-      <par n="default" />
-    </e>
-  </section>
-  <section id="final" type="inconditional">
-    <e>
-      <par n="numeros"/>
+      <par n="o__n" />
     </e>
   </section>
 </dictionary>
