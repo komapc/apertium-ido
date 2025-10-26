@@ -1,7 +1,7 @@
 AC_PREREQ(2.52)
 
 AC_INIT([Apertium Ido], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-ido], [https://wiki.apertium.org/wiki/Apertium-ido])
-AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AC_PROG_AWK
 
 PKG_CHECK_MODULES(APERTIUM, apertium >= 3.6.1)
