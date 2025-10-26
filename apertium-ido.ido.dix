@@ -438,15 +438,21 @@
         </p>
       </e>
     </pardef>
-    <pardef n="default">
-      <e>
-        <p>
-          <l />
-          <r />
-        </p>
-      </e>
-    </pardef>
-  </pardefs>
+        <pardef n="default">
+          <e>
+            <p>
+              <l />
+              <r />
+            </p>
+          </e>
+        </pardef>
+        <pardef n="numeros">
+          <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/><s n="ciph"/><s n="sp"/><s n="nom"/></r></p></e>
+          <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/><s n="ciph"/><s n="sp"/><s n="acc"/></r></p></e>
+          <e><re>[0-9]+([.,][0-9]+)*%</re><p><l></l><r><s n="num"/><s n="percent"/><s n="sp"/><s n="nom"/></r></p></e>
+          <e><re>[0-9]+([.,][0-9]+)*%</re><p><l></l><r><s n="num"/><s n="percent"/><s n="sp"/><s n="acc"/></r></p></e>
+        </pardef>
+      </pardefs>
   <section id="main" type="standard">
     <e>
       <i>Afrika</i>
@@ -5435,6 +5441,11 @@
     <e>
       <i>zinko</i>
       <par n="default" />
+    </e>
+  </section>
+  <section id="final" type="inconditional">
+    <e>
+      <par n="numeros"/>
     </e>
   </section>
 </dictionary>
