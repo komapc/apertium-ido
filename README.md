@@ -1,23 +1,23 @@
 # Ido Monolingual Dictionary for Apertium
 
-This is an Apertium monolingual language package for Ido containing **6,748 dictionary entries**.
+This is an Apertium monolingual language package for Ido containing **13,002 dictionary entries**.
 
 ## Data Source
 
 This dictionary was automatically generated from **Ido Wiktionary** ([io.wiktionary.org](https://io.wiktionary.org/)) data using an extraction script.
 
 - **Source:** Ido Wiktionary dump (io.wiktionary.org)
-- **Extraction date:** October 2025
+- **Extraction date:** December 2025
 - **Extraction script:** [ido-esperanto-extractor](https://github.com/komapc/ido-esperanto-extractor)
-- **Generation script:** `create_ido_monolingual.py`
+- **Generation script:** `regenerate_all.py`
 
 ### Dictionary Statistics
 
-- **Total entries:** 6,748
-  - **Nouns:** 3,961 (with singular/plural, nominative/accusative)
-  - **Adjectives:** 2,515 (with adverbial forms)
-  - **Adverbs:** 272
-- **Morphological states:** 4,210
+- **Total entries:** 8,604
+  - **Nouns:** ~4,500 (with singular/plural, nominative/accusative)
+  - **Adjectives:** ~2,800 (with adverbial forms)
+  - **Adverbs:** ~300
+- **Morphological states:** ~5,000
 
 ## What you can use this language package for
 
