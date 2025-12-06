@@ -183,6 +183,18 @@
       <i>l</i>
       <par n="a__adj" />
     </e>
+    <e lm="di">
+      <i>di</i>
+      <par n="__pr" />
+    </e>
+    <e lm="en">
+      <i>en</i>
+      <par n="__pr" />
+    </e>
+    <e lm="de">
+      <i>de</i>
+      <par n="__pr" />
+    </e>
     <e lm="esis">
       <i>esis</i>
       <par n="ar__vblex" />
@@ -191,9 +203,17 @@
       <i>esas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="dil">
+      <i>dil</i>
+      <par n="__pr" />
+    </e>
     <e lm="yari">
       <i>yari</i>
       <par n="o__n" />
+    </e>
+    <e lm="ol">
+      <i>ol</i>
+      <par n="__pr" />
     </e>
     <e lm="mezvalora">
       <i>mezvalor</i>
@@ -202,6 +222,14 @@
     <e lm="evante">
       <i>evant</i>
       <par n="e__adv" />
+    </e>
+    <e lm="por">
+      <i>por</i>
+      <par n="__pr" />
+    </e>
+    <e lm="til">
+      <i>til</i>
+      <par n="__pr" />
     </e>
     <e lm="provinco">
       <i>provinc</i>
@@ -218,6 +246,10 @@
     <e lm="distrikto">
       <i>distrikt</i>
       <par n="o__n" />
+    </e>
+    <e lm="18">
+      <i>18</i>
+      <par n="__pr" />
     </e>
     <e lm="habitantaro">
       <i>habitantar</i>
@@ -243,6 +275,10 @@
       <i>habitanti</i>
       <par n="o__n" />
     </e>
+    <e lm="ed">
+      <i>ed</i>
+      <par n="__pr" />
+    </e>
     <e lm="komono">
       <i>komon</i>
       <par n="o__n" />
@@ -251,6 +287,14 @@
       <i>yar</i>
       <par n="o__n" />
     </e>
+    <e lm="kam">
+      <i>kam</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ye">
+      <i>ye</i>
+      <par n="__pr" />
+    </e>
     <e lm="da">
       <i>d</i>
       <par n="a__adj" />
@@ -258,6 +302,10 @@
     <e lm="qua">
       <i>qu</i>
       <par n="a__adj" />
+    </e>
+    <e lm="(n">
+      <i>(n</i>
+      <par n="__pr" />
     </e>
     <e lm="vilajo">
       <i>vilaj</i>
@@ -271,6 +319,18 @@
       <i>omn</i>
       <par n="a__adj" />
     </e>
+    <e lm="kun">
+      <i>kun</i>
+      <par n="__pr" />
+    </e>
+    <e lm="per">
+      <i>per</i>
+      <par n="__pr" />
+    </e>
+    <e lm="min">
+      <i>min</i>
+      <par n="__pr" />
+    </e>
     <e lm="kontado">
       <i>kontad</i>
       <par n="o__n" />
@@ -283,9 +343,21 @@
       <i>viri</i>
       <par n="o__n" />
     </e>
+    <e lm="65">
+      <i>65</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ek">
+      <i>ek</i>
+      <par n="__pr" />
+    </e>
     <e lm="pluse">
       <i>plus</i>
       <par n="e__adv" />
+    </e>
+    <e lm="dum">
+      <i>dum</i>
+      <par n="__pr" />
     </e>
     <e lm="chefurbo">
       <i>chefurb</i>
@@ -303,6 +375,10 @@
       <i>lu</i>
       <par n="a__adj" />
     </e>
+    <e lm="(m">
+      <i>(m</i>
+      <par n="__pr" />
+    </e>
     <e lm="personi">
       <i>personi</i>
       <par n="o__n" />
@@ -311,6 +387,10 @@
       <i>pri</i>
       <par n="o__n" />
     </e>
+    <e lm="od">
+      <i>od</i>
+      <par n="__cnjcoo" />
+    </e>
     <e lm="cirkume">
       <i>cirkum</i>
       <par n="e__adv" />
@@ -318,6 +398,14 @@
     <e lm="familio">
       <i>famili</i>
       <par n="o__n" />
+    </e>
+    <e lm="100">
+      <i>100</i>
+      <par n="__pr" />
+    </e>
+    <e lm="sub">
+      <i>sub</i>
+      <par n="__pr" />
     </e>
     <e lm="evo">
       <i>ev</i>
@@ -359,13 +447,25 @@
       <i>altr</i>
       <par n="a__adj" />
     </e>
+    <e lm="du">
+      <i>du</i>
+      <par n="__pr" />
+    </e>
     <e lm="nord-este">
       <i>nord-est</i>
       <par n="e__adv" />
     </e>
+    <e lm="kom">
+      <i>kom</i>
+      <par n="__pr" />
+    </e>
     <e lm="lando">
       <i>land</i>
       <par n="o__n" />
+    </e>
+    <e lm="ke">
+      <i>ke</i>
+      <par n="__cnjsub" />
     </e>
     <e lm="prezidanto">
       <i>prezidant</i>
@@ -375,9 +475,17 @@
       <i>part</i>
       <par n="o__n" />
     </e>
+    <e lm="km²">
+      <i>km²</i>
+      <par n="__pr" />
+    </e>
     <e lm="distas">
       <i>distas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="il">
+      <i>il</i>
+      <par n="__pr" />
     </e>
     <e lm="usa">
       <i>us</i>
@@ -387,6 +495,10 @@
       <i>statistiki</i>
       <par n="o__n" />
     </e>
+    <e lm="inter">
+      <i>inter</i>
+      <par n="__pr" />
+    </e>
     <e lm="komono-sideyo">
       <i>komono-sidey</i>
       <par n="o__n" />
@@ -395,17 +507,37 @@
       <i>jacas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="es">
+      <i>es</i>
+      <par n="__pr" />
+    </e>
     <e lm="usana">
       <i>usan</i>
       <par n="a__adj" />
+    </e>
+    <e lm="sen">
+      <i>sen</i>
+      <par n="__pr" />
     </e>
     <e lm="sud-weste">
       <i>sud-west</i>
       <par n="e__adv" />
     </e>
+    <e lm="pos">
+      <i>pos</i>
+      <par n="__pr" />
+    </e>
     <e lm="plura">
       <i>plur</i>
       <par n="a__adj" />
+    </e>
+    <e lm="24">
+      <i>24</i>
+      <par n="__pr" />
+    </e>
+    <e lm="25">
+      <i>25</i>
+      <par n="__pr" />
     </e>
     <e lm="chefministro">
       <i>chefministr</i>
@@ -414,6 +546,18 @@
     <e lm="habitis">
       <i>habitis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="ne">
+      <i>ne</i>
+      <par n="__pr" />
+    </e>
+    <e lm="44">
+      <i>44</i>
+      <par n="__pr" />
+    </e>
+    <e lm="45">
+      <i>45</i>
+      <par n="__pr" />
     </e>
     <e lm="pro">
       <i>pr</i>
@@ -434,6 +578,10 @@
     <e lm="vilajala">
       <i>vilajal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="64">
+      <i>64</i>
+      <par n="__pr" />
     </e>
     <e lm="entote">
       <i>entot</i>
@@ -535,6 +683,10 @@
       <i>region</i>
       <par n="o__n" />
     </e>
+    <e lm="un">
+      <i>un</i>
+      <par n="__pr" />
+    </e>
     <e lm="rezidis">
       <i>rezidis</i>
       <par n="ar__vblex" />
@@ -567,9 +719,21 @@
       <i>kand</i>
       <par n="e__adv" />
     </e>
+    <e lm="1ma">
+      <i>1ma</i>
+      <par n="__pr" />
+    </e>
+    <e lm="plu">
+      <i>plu</i>
+      <par n="__pr" />
+    </e>
     <e lm="ma">
       <i>m</i>
       <par n="a__adj" />
+    </e>
+    <e lm="li">
+      <i>li</i>
+      <par n="__pr" />
     </e>
     <e lm="decembro">
       <i>decembr</i>
@@ -611,6 +775,10 @@
       <i>mult</i>
       <par n="a__adj" />
     </e>
+    <e lm="ilu">
+      <i>ilu</i>
+      <par n="__pr" />
+    </e>
     <e lm="septembro">
       <i>septembr</i>
       <par n="o__n" />
@@ -630,6 +798,14 @@
     <e lm="franca">
       <i>franc</i>
       <par n="a__adj" />
+    </e>
+    <e lm="del">
+      <i>del</i>
+      <par n="__pr" />
+    </e>
+    <e lm="2ma">
+      <i>2ma</i>
+      <par n="__pr" />
     </e>
     <e lm="nulo">
       <i>nul</i>
@@ -651,6 +827,10 @@
       <i>unesm</i>
       <par n="a__adj" />
     </e>
+    <e lm="ad">
+      <i>ad</i>
+      <par n="__pr" />
+    </e>
     <e lm="povas">
       <i>povas</i>
       <par n="ar__vblex" />
@@ -667,6 +847,14 @@
       <i>german</i>
       <par n="a__adj" />
     </e>
+    <e lm="dal">
+      <i>dal</i>
+      <par n="__pr" />
+    </e>
+    <e lm="sur">
+      <i>sur</i>
+      <par n="__pr" />
+    </e>
     <e lm="stato">
       <i>stat</i>
       <par n="o__n" />
@@ -679,9 +867,25 @@
       <i>individu</i>
       <par n="o__n" />
     </e>
+    <e lm="3ma">
+      <i>3ma</i>
+      <par n="__pr" />
+    </e>
+    <e lm="el">
+      <i>el</i>
+      <par n="__pr" />
+    </e>
+    <e lm="on">
+      <i>on</i>
+      <par n="__pr" />
+    </e>
     <e lm="loki">
       <i>loki</i>
       <par n="o__n" />
+    </e>
+    <e lm="ulu">
+      <i>ulu</i>
+      <par n="__pr" />
     </e>
     <e lm="nobel-laureato">
       <i>nobel-laureat</i>
@@ -723,6 +927,10 @@
       <i>important</i>
       <par n="a__adj" />
     </e>
+    <e lm="4ma">
+      <i>4ma</i>
+      <par n="__pr" />
+    </e>
     <e lm="rejulo">
       <i>rejul</i>
       <par n="o__n" />
@@ -743,6 +951,14 @@
       <i>kovresas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="6ma">
+      <i>6ma</i>
+      <par n="__pr" />
+    </e>
+    <e lm="5ma">
+      <i>5ma</i>
+      <par n="__pr" />
+    </e>
     <e lm="disto">
       <i>dist</i>
       <par n="o__n" />
@@ -750,6 +966,18 @@
     <e lm="samatempe">
       <i>samatemp</i>
       <par n="e__adv" />
+    </e>
+    <e lm="nur">
+      <i>nur</i>
+      <par n="__pr" />
+    </e>
+    <e lm="su">
+      <i>su</i>
+      <par n="__pr" />
+    </e>
+    <e lm="an">
+      <i>an</i>
+      <par n="__pr" />
     </e>
     <e lm="suno">
       <i>sun</i>
@@ -795,17 +1023,37 @@
       <i>pos</i>
       <par n="e__adv" />
     </e>
+    <e lm="au,">
+      <i>au,</i>
+      <par n="__pr" />
+    </e>
     <e lm="encirkliganta">
       <i>encirkligant</i>
       <par n="a__adj" />
+    </e>
+    <e lm="9ma">
+      <i>9ma</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ak">
+      <i>ak</i>
+      <par n="__pr" />
     </e>
     <e lm="juliala">
       <i>julial</i>
       <par n="a__adj" />
     </e>
+    <e lm="7ma">
+      <i>7ma</i>
+      <par n="__pr" />
+    </e>
     <e lm="ante">
       <i>ant</i>
       <par n="e__adv" />
+    </e>
+    <e lm="8ma">
+      <i>8ma</i>
+      <par n="__pr" />
     </e>
     <e lm="politikisto">
       <i>politikist</i>
@@ -819,9 +1067,17 @@
       <i>komencint</i>
       <par n="a__adj" />
     </e>
+    <e lm="lu">
+      <i>lu</i>
+      <par n="__pr" />
+    </e>
     <e lm="exloko">
       <i>exlok</i>
       <par n="o__n" />
+    </e>
+    <e lm="nun">
+      <i>nun</i>
+      <par n="__pr" />
     </e>
     <e lm="lia">
       <i>li</i>
@@ -842,6 +1098,10 @@
     <e lm="eventis">
       <i>eventis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="]]">
+      <i>]]</i>
+      <par n="__pr" />
     </e>
     <e lm="ube">
       <i>ub</i>
@@ -907,9 +1167,17 @@
       <i>alt</i>
       <par n="a__adj" />
     </e>
+    <e lm="km">
+      <i>km</i>
+      <par n="__pr" />
+    </e>
     <e lm="asteroido-zono">
       <i>asteroido-zon</i>
       <par n="o__n" />
+    </e>
+    <e lm="000">
+      <i>000</i>
+      <par n="__pr" />
     </e>
     <e lm="chef-urbo">
       <i>chef-urb</i>
@@ -927,17 +1195,33 @@
       <i>qual</i>
       <par n="e__adv" />
     </e>
+    <e lm="al">
+      <i>al</i>
+      <par n="__pr" />
+    </e>
     <e lm="ordinara">
       <i>ordinar</i>
       <par n="a__adj" />
+    </e>
+    <e lm="us$">
+      <i>us$</i>
+      <par n="__pr" />
     </e>
     <e lm="loko">
       <i>lok</i>
       <par n="o__n" />
     </e>
+    <e lm="le">
+      <i>le</i>
+      <par n="__pr" />
+    </e>
     <e lm="konocata">
       <i>konocat</i>
       <par n="a__adj" />
+    </e>
+    <e lm="me">
+      <i>me</i>
+      <par n="__pr" />
     </e>
     <e lm="recevis">
       <i>recevis</i>
@@ -954,6 +1238,10 @@
     <e lm="tri">
       <i>tri</i>
       <par n="o__n" />
+    </e>
+    <e lm="10">
+      <i>10</i>
+      <par n="__pr" />
     </e>
     <e lm="italiana">
       <i>italian</i>
@@ -1014,6 +1302,10 @@
     <e lm="rusia">
       <i>rusi</i>
       <par n="a__adj" />
+    </e>
+    <e lm="of">
+      <i>of</i>
+      <par n="__pr" />
     </e>
     <e lm="angla">
       <i>angl</i>
@@ -1099,6 +1391,10 @@
       <i>nacional</i>
       <par n="a__adj" />
     </e>
+    <e lm="ank">
+      <i>ank</i>
+      <par n="__pr" />
+    </e>
     <e lm="fino">
       <i>fin</i>
       <par n="o__n" />
@@ -1143,6 +1439,10 @@
       <i>mikr</i>
       <par n="a__adj" />
     </e>
+    <e lm="se">
+      <i>se</i>
+      <par n="__cnjsub" />
+    </e>
     <e lm="distis">
       <i>distis</i>
       <par n="ar__vblex" />
@@ -1150,6 +1450,10 @@
     <e lm="duris">
       <i>duris</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="40">
+      <i>40</i>
+      <par n="__pr" />
     </e>
     <e lm="trupi">
       <i>trupi</i>
@@ -1171,6 +1475,10 @@
       <i>tr</i>
       <par n="a__adj" />
     </e>
+    <e lm="12">
+      <i>12</i>
+      <par n="__pr" />
+    </e>
     <e lm="morti">
       <i>morti</i>
       <par n="o__n" />
@@ -1182,6 +1490,14 @@
     <e lm="kantisto">
       <i>kantist</i>
       <par n="o__n" />
+    </e>
+    <e lm="mil">
+      <i>mil</i>
+      <par n="__pr" />
+    </e>
+    <e lm=".]]">
+      <i>.]]</i>
+      <par n="__pr" />
     </e>
     <e lm="dii">
       <i>dii</i>
@@ -1215,6 +1531,10 @@
       <i>last</i>
       <par n="a__adj" />
     </e>
+    <e lm="11">
+      <i>11</i>
+      <par n="__pr" />
+    </e>
     <e lm="longa">
       <i>long</i>
       <par n="a__adj" />
@@ -1222,6 +1542,10 @@
     <e lm="europana">
       <i>europan</i>
       <par n="a__adj" />
+    </e>
+    <e lm="lor">
+      <i>lor</i>
+      <par n="__pr" />
     </e>
     <e lm="frontiero">
       <i>frontier</i>
@@ -1238,6 +1562,10 @@
     <e lm="brazilia">
       <i>brazili</i>
       <par n="a__adj" />
+    </e>
+    <e lm="15">
+      <i>15</i>
+      <par n="__pr" />
     </e>
     <e lm="aktorino">
       <i>aktorin</i>
@@ -1258,6 +1586,10 @@
     <e lm="morto">
       <i>mort</i>
       <par n="o__n" />
+    </e>
+    <e lm="20">
+      <i>20</i>
+      <par n="__pr" />
     </e>
     <e lm="biała">
       <i>biał</i>
@@ -1295,6 +1627,10 @@
       <i>adminim</i>
       <par n="e__adv" />
     </e>
+    <e lm="mem">
+      <i>mem</i>
+      <par n="__pr" />
+    </e>
     <e lm="nobel-premio">
       <i>nobel-premi</i>
       <par n="o__n" />
@@ -1319,6 +1655,10 @@
       <i>regioni</i>
       <par n="o__n" />
     </e>
+    <e lm="14">
+      <i>14</i>
+      <par n="__pr" />
+    </e>
     <e lm="administrala">
       <i>administral</i>
       <par n="a__adj" />
@@ -1326,6 +1666,10 @@
     <e lm="insulo">
       <i>insul</i>
       <par n="o__n" />
+    </e>
+    <e lm="(en">
+      <i>(en</i>
+      <par n="__pr" />
     </e>
     <e lm="polona">
       <i>polon</i>
@@ -1351,6 +1695,14 @@
       <i>nedepend</i>
       <par n="o__n" />
     </e>
+    <e lm="36">
+      <i>36</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ni">
+      <i>ni</i>
+      <par n="__pr" />
+    </e>
     <e lm="historio">
       <i>histori</i>
       <par n="o__n" />
@@ -1375,9 +1727,21 @@
       <i>itali</i>
       <par n="a__adj" />
     </e>
+    <e lm="13">
+      <i>13</i>
+      <par n="__pr" />
+    </e>
     <e lm="oficala">
       <i>ofical</i>
       <par n="a__adj" />
+    </e>
+    <e lm="30">
+      <i>30</i>
+      <par n="__pr" />
+    </e>
+    <e lm="16">
+      <i>16</i>
+      <par n="__pr" />
     </e>
     <e lm="membri">
       <i>membri</i>
@@ -1394,6 +1758,10 @@
     <e lm="politikala">
       <i>politikal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="35">
+      <i>35</i>
+      <par n="__pr" />
     </e>
     <e lm="muzikisto">
       <i>muzikist</i>
@@ -1415,6 +1783,10 @@
       <i>sequant</i>
       <par n="a__adj" />
     </e>
+    <e lm="nam">
+      <i>nam</i>
+      <par n="__pr" />
+    </e>
     <e lm="malgre">
       <i>malgr</i>
       <par n="e__adv" />
@@ -1423,6 +1795,10 @@
       <i>mondal</i>
       <par n="a__adj" />
     </e>
+    <e lm="new">
+      <i>new</i>
+      <par n="__pr" />
+    </e>
     <e lm="kantistino">
       <i>kantistin</i>
       <par n="o__n" />
@@ -1430,6 +1806,10 @@
     <e lm="ibe">
       <i>ib</i>
       <par n="e__adv" />
+    </e>
+    <e lm="38">
+      <i>38</i>
+      <par n="__pr" />
     </e>
     <e lm="datumi">
       <i>datumi</i>
@@ -1454,6 +1834,14 @@
     <e lm="louis">
       <i>louis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="super">
+      <i>super</i>
+      <par n="__pr" />
+    </e>
+    <e lm="17">
+      <i>17</i>
+      <par n="__pr" />
     </e>
     <e lm="anglia">
       <i>angli</i>
@@ -1483,6 +1871,10 @@
       <i>suedi</i>
       <par n="a__adj" />
     </e>
+    <e lm="onu">
+      <i>onu</i>
+      <par n="__pr" />
+    </e>
     <e lm="temperaturo">
       <i>temperatur</i>
       <par n="o__n" />
@@ -1511,6 +1903,10 @@
       <i>poet</i>
       <par n="o__n" />
     </e>
+    <e lm="0.1">
+      <i>0.1</i>
+      <par n="__pr" />
+    </e>
     <e lm="klimato">
       <i>klimat</i>
       <par n="o__n" />
@@ -1519,6 +1915,10 @@
       <i>period</i>
       <par n="o__n" />
     </e>
+    <e lm="37">
+      <i>37</i>
+      <par n="__pr" />
+    </e>
     <e lm="sovietiana">
       <i>sovietian</i>
       <par n="a__adj" />
@@ -1526,6 +1926,10 @@
     <e lm="mitologio">
       <i>mitologi</i>
       <par n="o__n" />
+    </e>
+    <e lm="34">
+      <i>34</i>
+      <par n="__pr" />
     </e>
     <e lm="jacanta">
       <i>jacant</i>
@@ -1555,6 +1959,14 @@
       <i>westal</i>
       <par n="a__adj" />
     </e>
+    <e lm="50">
+      <i>50</i>
+      <par n="__pr" />
+    </e>
+    <e lm="and">
+      <i>and</i>
+      <par n="__pr" />
+    </e>
     <e lm="rivo">
       <i>riv</i>
       <par n="o__n" />
@@ -1562,6 +1974,10 @@
     <e lm="naskis">
       <i>naskis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="san">
+      <i>san</i>
+      <par n="__pr" />
     </e>
     <e lm="staciono">
       <i>stacion</i>
@@ -1583,9 +1999,17 @@
       <i>literatur</i>
       <par n="o__n" />
     </e>
+    <e lm="39">
+      <i>39</i>
+      <par n="__pr" />
+    </e>
     <e lm="stati">
       <i>stati</i>
       <par n="o__n" />
+    </e>
+    <e lm="19">
+      <i>19</i>
+      <par n="__pr" />
     </e>
     <e lm="ministro">
       <i>ministr</i>
@@ -1643,6 +2067,14 @@
       <i>homal</i>
       <par n="a__adj" />
     </e>
+    <e lm="42">
+      <i>42</i>
+      <par n="__pr" />
+    </e>
+    <e lm="van">
+      <i>van</i>
+      <par n="__pr" />
+    </e>
     <e lm="konstituco">
       <i>konstituc</i>
       <par n="o__n" />
@@ -1683,6 +2115,10 @@
       <i>rusian</i>
       <par n="a__adj" />
     </e>
+    <e lm="(la">
+      <i>(la</i>
+      <par n="__pr" />
+    </e>
     <e lm="finlandana">
       <i>finlandan</i>
       <par n="a__adj" />
@@ -1691,9 +2127,17 @@
       <i>soldati</i>
       <par n="o__n" />
     </e>
+    <e lm="yen">
+      <i>yen</i>
+      <par n="__pr" />
+    </e>
     <e lm="urbala">
       <i>urbal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="23">
+      <i>23</i>
+      <par n="__pr" />
     </e>
     <e lm="germaniana">
       <i>germanian</i>
@@ -1719,13 +2163,29 @@
       <i>domini</i>
       <par n="o__n" />
     </e>
+    <e lm="von">
+      <i>von</i>
+      <par n="__pr" />
+    </e>
     <e lm="nia">
       <i>ni</i>
       <par n="a__adj" />
     </e>
+    <e lm="32">
+      <i>32</i>
+      <par n="__pr" />
+    </e>
+    <e lm="21">
+      <i>21</i>
+      <par n="__pr" />
+    </e>
     <e lm="situesas">
       <i>situesas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="0.2">
+      <i>0.2</i>
+      <par n="__pr" />
     </e>
     <e lm="skopo">
       <i>skop</i>
@@ -1779,6 +2239,10 @@
       <i>zon</i>
       <par n="o__n" />
     </e>
+    <e lm="33">
+      <i>33</i>
+      <par n="__pr" />
+    </e>
     <e lm="portugalana">
       <i>portugalan</i>
       <par n="a__adj" />
@@ -1791,6 +2255,10 @@
       <i>japonian</i>
       <par n="a__adj" />
     </e>
+    <e lm="31">
+      <i>31</i>
+      <par n="__pr" />
+    </e>
     <e lm="altri">
       <i>altri</i>
       <par n="o__n" />
@@ -1802,6 +2270,10 @@
     <e lm="cetera">
       <i>ceter</i>
       <par n="a__adj" />
+    </e>
+    <e lm="22">
+      <i>22</i>
+      <par n="__pr" />
     </e>
     <e lm="honore">
       <i>honor</i>
@@ -1843,9 +2315,17 @@
       <i>milital</i>
       <par n="a__adj" />
     </e>
+    <e lm="0.3">
+      <i>0.3</i>
+      <par n="__pr" />
+    </e>
     <e lm="ekonomiala">
       <i>ekonomial</i>
       <par n="a__adj" />
+    </e>
+    <e lm="28">
+      <i>28</i>
+      <par n="__pr" />
     </e>
     <e lm="sovietia">
       <i>sovieti</i>
@@ -1859,9 +2339,17 @@
       <i>mont</i>
       <par n="o__n" />
     </e>
+    <e lm="in">
+      <i>in</i>
+      <par n="__pr" />
+    </e>
     <e lm="elektesas">
       <i>elektesas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="0.6">
+      <i>0.6</i>
+      <par n="__pr" />
     </e>
     <e lm="diferanta">
       <i>diferant</i>
@@ -1886,6 +2374,10 @@
     <e lm="fondis">
       <i>fondis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="27">
+      <i>27</i>
+      <par n="__pr" />
     </e>
     <e lm="poka">
       <i>pok</i>
@@ -1971,6 +2463,10 @@
       <i>finas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="tu">
+      <i>tu</i>
+      <par n="__pr" />
+    </e>
     <e lm="apartenas">
       <i>apartenas</i>
       <par n="ar__vblex" />
@@ -1994,6 +2490,14 @@
     <e lm="guvernis">
       <i>guvernis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="41">
+      <i>41</i>
+      <par n="__pr" />
+    </e>
+    <e lm="60">
+      <i>60</i>
+      <par n="__pr" />
     </e>
     <e lm="na">
       <i>n</i>
@@ -2023,9 +2527,17 @@
       <i>filiin</i>
       <par n="o__n" />
     </e>
+    <e lm="29">
+      <i>29</i>
+      <par n="__pr" />
+    </e>
     <e lm="arjentinia">
       <i>arjentini</i>
       <par n="a__adj" />
+    </e>
+    <e lm="26">
+      <i>26</i>
+      <par n="__pr" />
     </e>
     <e lm="dinastio">
       <i>dinasti</i>
@@ -2159,9 +2671,17 @@
       <i>konstruktesis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="150">
+      <i>150</i>
+      <par n="__pr" />
+    </e>
     <e lm="atako">
       <i>atak</i>
       <par n="o__n" />
+    </e>
+    <e lm="0.5">
+      <i>0.5</i>
+      <par n="__pr" />
     </e>
     <e lm="inkluzas">
       <i>inkluzas</i>
@@ -2170,6 +2690,10 @@
     <e lm="signifikas">
       <i>signifikas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="43">
+      <i>43</i>
+      <par n="__pr" />
     </e>
     <e lm="ter-tremo">
       <i>ter-trem</i>
@@ -2187,6 +2711,10 @@
       <i>est</i>
       <par n="e__adv" />
     </e>
+    <e lm="0.4">
+      <i>0.4</i>
+      <par n="__pr" />
+    </e>
     <e lm="restis">
       <i>restis</i>
       <par n="ar__vblex" />
@@ -2194,6 +2722,10 @@
     <e lm="povis">
       <i>povis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="(de">
+      <i>(de</i>
+      <par n="__pr" />
     </e>
     <e lm="popul-republiko">
       <i>popul-republik</i>
@@ -2219,6 +2751,10 @@
       <i>hokeist</i>
       <par n="o__n" />
     </e>
+    <e lm="kaj">
+      <i>kaj</i>
+      <par n="__pr" />
+    </e>
     <e lm="kanada">
       <i>kanad</i>
       <par n="a__adj" />
@@ -2243,6 +2779,10 @@
       <i>perdis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="0.8">
+      <i>0.8</i>
+      <par n="__pr" />
+    </e>
     <e lm="mortas">
       <i>mortas</i>
       <par n="ar__vblex" />
@@ -2259,6 +2799,10 @@
       <i>pakt</i>
       <par n="o__n" />
     </e>
+    <e lm="los">
+      <i>los</i>
+      <par n="__pr" />
+    </e>
     <e lm="korpo">
       <i>korp</i>
       <par n="o__n" />
@@ -2266,6 +2810,10 @@
     <e lm="yarala">
       <i>yaral</i>
       <par n="a__adj" />
+    </e>
+    <e lm="mm">
+      <i>mm</i>
+      <par n="__pr" />
     </e>
     <e lm="domo-chefo">
       <i>domo-chef</i>
@@ -2298,6 +2846,10 @@
     <e lm="portuo">
       <i>portu</i>
       <par n="o__n" />
+    </e>
+    <e lm="1.0">
+      <i>1.0</i>
+      <par n="__pr" />
     </e>
     <e lm="judikesas">
       <i>judikesas</i>
@@ -2371,6 +2923,10 @@
       <i>asumis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="200">
+      <i>200</i>
+      <par n="__pr" />
+    </e>
     <e lm="okupis">
       <i>okupis</i>
       <par n="ar__vblex" />
@@ -2394,6 +2950,10 @@
     <e lm="rapide">
       <i>rapid</i>
       <par n="e__adv" />
+    </e>
+    <e lm="kin">
+      <i>kin</i>
+      <par n="__pr" />
     </e>
     <e lm="fiziko">
       <i>fizik</i>
@@ -2499,6 +3059,14 @@
       <i>facis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="sam">
+      <i>sam</i>
+      <par n="__pr" />
+    </e>
+    <e lm="jan">
+      <i>jan</i>
+      <par n="__pr" />
+    </e>
     <e lm="monato">
       <i>monat</i>
       <par n="o__n" />
@@ -2510,6 +3078,10 @@
     <e lm="australia">
       <i>australi</i>
       <par n="a__adj" />
+    </e>
+    <e lm="48">
+      <i>48</i>
+      <par n="__pr" />
     </e>
     <e lm="sempre">
       <i>sempr</i>
@@ -2607,6 +3179,22 @@
       <i>revolt</i>
       <par n="o__n" />
     </e>
+    <e lm="st">
+      <i>st</i>
+      <par n="__pr" />
+    </e>
+    <e lm="e,">
+      <i>e,</i>
+      <par n="__pr" />
+    </e>
+    <e lm="0.9">
+      <i>0.9</i>
+      <par n="__pr" />
+    </e>
+    <e lm="46">
+      <i>46</i>
+      <par n="__pr" />
+    </e>
     <e lm="kulturala">
       <i>kultural</i>
       <par n="a__adj" />
@@ -2659,6 +3247,10 @@
       <i>sezon</i>
       <par n="o__n" />
     </e>
+    <e lm="70">
+      <i>70</i>
+      <par n="__pr" />
+    </e>
     <e lm="termino">
       <i>termin</i>
       <par n="o__n" />
@@ -2666,6 +3258,10 @@
     <e lm="skribita">
       <i>skribit</i>
       <par n="a__adj" />
+    </e>
+    <e lm="ak,">
+      <i>ak,</i>
+      <par n="__pr" />
     </e>
     <e lm="tradicionala">
       <i>tradicional</i>
@@ -2783,9 +3379,17 @@
       <i>wol</i>
       <par n="a__adj" />
     </e>
+    <e lm="nek">
+      <i>nek</i>
+      <par n="__pr" />
+    </e>
     <e lm="objekti">
       <i>objekti</i>
       <par n="o__n" />
+    </e>
+    <e lm="dop">
+      <i>dop</i>
+      <par n="__pr" />
     </e>
     <e lm="pierre">
       <i>pierr</i>
@@ -2819,6 +3423,10 @@
       <i>champion</i>
       <par n="o__n" />
     </e>
+    <e lm="br">
+      <i>br</i>
+      <par n="__pr" />
+    </e>
     <e lm="unesme">
       <i>unesm</i>
       <par n="e__adv" />
@@ -2835,6 +3443,14 @@
       <i>krist</i>
       <par n="o__n" />
     </e>
+    <e lm="80">
+      <i>80</i>
+      <par n="__pr" />
+    </e>
+    <e lm="&quot;la">
+      <i>"la</i>
+      <par n="__pr" />
+    </e>
     <e lm="facar">
       <i>fac</i>
       <par n="ar__vblex" />
@@ -2846,6 +3462,10 @@
     <e lm="ligo">
       <i>lig</i>
       <par n="o__n" />
+    </e>
+    <e lm="1.1">
+      <i>1.1</i>
+      <par n="__pr" />
     </e>
     <e lm="deklaris">
       <i>deklaris</i>
@@ -2883,9 +3503,17 @@
       <i>yun</i>
       <par n="a__adj" />
     </e>
+    <e lm="(o">
+      <i>(o</i>
+      <par n="__pr" />
+    </e>
     <e lm="britania">
       <i>britani</i>
       <par n="a__adj" />
+    </e>
+    <e lm="55">
+      <i>55</i>
+      <par n="__pr" />
     </e>
     <e lm="kolonieto">
       <i>koloniet</i>
@@ -2947,9 +3575,17 @@
       <i>konkurs</i>
       <par n="o__n" />
     </e>
+    <e lm="57">
+      <i>57</i>
+      <par n="__pr" />
+    </e>
     <e lm="projeto">
       <i>projet</i>
       <par n="o__n" />
+    </e>
+    <e lm="0.7">
+      <i>0.7</i>
+      <par n="__pr" />
     </e>
     <e lm="komence">
       <i>komenc</i>
@@ -3051,6 +3687,10 @@
       <i>mongolian</i>
       <par n="a__adj" />
     </e>
+    <e lm="max">
+      <i>max</i>
+      <par n="__pr" />
+    </e>
     <e lm="venerdio">
       <i>venerdi</i>
       <par n="o__n" />
@@ -3058,6 +3698,10 @@
     <e lm="sika">
       <i>sik</i>
       <par n="a__adj" />
+    </e>
+    <e lm="81">
+      <i>81</i>
+      <par n="__pr" />
     </e>
     <e lm="elekti">
       <i>elekti</i>
@@ -3087,6 +3731,10 @@
       <i>fratul</i>
       <par n="o__n" />
     </e>
+    <e lm="47">
+      <i>47</i>
+      <par n="__pr" />
+    </e>
     <e lm="merkurdio">
       <i>merkurdi</i>
       <par n="o__n" />
@@ -3094,6 +3742,14 @@
     <e lm="federala">
       <i>federal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="l'">
+      <i>l'</i>
+      <par n="__pr" />
+    </e>
+    <e lm="1.2">
+      <i>1.2</i>
+      <par n="__pr" />
     </e>
     <e lm="cienco">
       <i>cienc</i>
@@ -3183,6 +3839,10 @@
       <i>fondesas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="1.3">
+      <i>1.3</i>
+      <par n="__pr" />
+    </e>
     <e lm="chambro">
       <i>chambr</i>
       <par n="o__n" />
@@ -3191,13 +3851,29 @@
       <i>hik</i>
       <par n="e__adv" />
     </e>
+    <e lm="53">
+      <i>53</i>
+      <par n="__pr" />
+    </e>
     <e lm="posibla">
       <i>posibl</i>
       <par n="a__adj" />
     </e>
+    <e lm="52">
+      <i>52</i>
+      <par n="__pr" />
+    </e>
     <e lm="ekonomikisto">
       <i>ekonomikist</i>
       <par n="o__n" />
+    </e>
+    <e lm="54">
+      <i>54</i>
+      <par n="__pr" />
+    </e>
+    <e lm="49">
+      <i>49</i>
+      <par n="__pr" />
     </e>
     <e lm="kalifornia">
       <i>kaliforni</i>
@@ -3207,6 +3883,10 @@
       <i>katolik</i>
       <par n="a__adj" />
     </e>
+    <e lm="56">
+      <i>56</i>
+      <par n="__pr" />
+    </e>
     <e lm="montras">
       <i>montras</i>
       <par n="ar__vblex" />
@@ -3215,9 +3895,17 @@
       <i>program</i>
       <par n="o__n" />
     </e>
+    <e lm="51">
+      <i>51</i>
+      <par n="__pr" />
+    </e>
     <e lm="bazala">
       <i>bazal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="sis">
+      <i>sis</i>
+      <par n="__pr" />
     </e>
     <e lm="elementi">
       <i>elementi</i>
@@ -3271,6 +3959,10 @@
       <i>stand</i>
       <par n="o__n" />
     </e>
+    <e lm="to,">
+      <i>to,</i>
+      <par n="__pr" />
+    </e>
     <e lm="iras">
       <i>iras</i>
       <par n="ar__vblex" />
@@ -3286,6 +3978,10 @@
     <e lm="mezavalore">
       <i>mezavalor</i>
       <par n="e__adv" />
+    </e>
+    <e lm="1.5">
+      <i>1.5</i>
+      <par n="__pr" />
     </e>
     <e lm="klasifikuro">
       <i>klasifikur</i>
@@ -3319,6 +4015,10 @@
       <i>konquestis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="120">
+      <i>120</i>
+      <par n="__pr" />
+    </e>
     <e lm="helpo">
       <i>help</i>
       <par n="o__n" />
@@ -3330,6 +4030,10 @@
     <e lm="provinci">
       <i>provinci</i>
       <par n="o__n" />
+    </e>
+    <e lm="1.6">
+      <i>1.6</i>
+      <par n="__pr" />
     </e>
     <e lm="quala">
       <i>qual</i>
@@ -3407,6 +4111,10 @@
       <i>mustas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="90">
+      <i>90</i>
+      <par n="__pr" />
+    </e>
     <e lm="kilometro">
       <i>kilometr</i>
       <par n="o__n" />
@@ -3422,6 +4130,10 @@
     <e lm="domo">
       <i>dom</i>
       <par n="o__n" />
+    </e>
+    <e lm="tam">
+      <i>tam</i>
+      <par n="__pr" />
     </e>
     <e lm="monti">
       <i>monti</i>
@@ -3475,9 +4187,21 @@
       <i>lasta-di</i>
       <par n="a__adj" />
     </e>
+    <e lm="300">
+      <i>300</i>
+      <par n="__pr" />
+    </e>
     <e lm="uzo">
       <i>uz</i>
       <par n="o__n" />
+    </e>
+    <e lm="58">
+      <i>58</i>
+      <par n="__pr" />
+    </e>
+    <e lm="160">
+      <i>160</i>
+      <par n="__pr" />
     </e>
     <e lm="sucesis">
       <i>sucesis</i>
@@ -3490,6 +4214,10 @@
     <e lm="belga">
       <i>belg</i>
       <par n="a__adj" />
+    </e>
+    <e lm="75">
+      <i>75</i>
+      <par n="__pr" />
     </e>
     <e lm="produktar">
       <i>produkt</i>
@@ -3510,6 +4238,10 @@
     <e lm="suceso">
       <i>suces</i>
       <par n="o__n" />
+    </e>
+    <e lm="2.6">
+      <i>2.6</i>
+      <par n="__pr" />
     </e>
     <e lm="konstrukto">
       <i>konstrukt</i>
@@ -3567,9 +4299,17 @@
       <i>simbol</i>
       <par n="o__n" />
     </e>
+    <e lm="ti">
+      <i>ti</i>
+      <par n="__pr" />
+    </e>
     <e lm="ecepte">
       <i>ecept</i>
       <par n="e__adv" />
+    </e>
+    <e lm="95">
+      <i>95</i>
+      <par n="__pr" />
     </e>
     <e lm="explorero">
       <i>explorer</i>
@@ -3607,6 +4347,14 @@
       <i>hispani</i>
       <par n="o__n" />
     </e>
+    <e lm="500">
+      <i>500</i>
+      <par n="__pr" />
+    </e>
+    <e lm="62">
+      <i>62</i>
+      <par n="__pr" />
+    </e>
     <e lm="hemo">
       <i>hem</i>
       <par n="o__n" />
@@ -3614,6 +4362,10 @@
     <e lm="tote">
       <i>tot</i>
       <par n="e__adv" />
+    </e>
+    <e lm="sep">
+      <i>sep</i>
+      <par n="__pr" />
     </e>
     <e lm="ensemblo">
       <i>ensembl</i>
@@ -3631,6 +4383,10 @@
       <i>karier</i>
       <par n="o__n" />
     </e>
+    <e lm="ab">
+      <i>ab</i>
+      <par n="__pr" />
+    </e>
     <e lm="aferi">
       <i>aferi</i>
       <par n="o__n" />
@@ -3646,6 +4402,10 @@
     <e lm="sucesoza">
       <i>sucesoz</i>
       <par n="a__adj" />
+    </e>
+    <e lm="1.4">
+      <i>1.4</i>
+      <par n="__pr" />
     </e>
     <e lm="wta">
       <i>wt</i>
@@ -3699,6 +4459,10 @@
       <i>santi</i>
       <par n="o__n" />
     </e>
+    <e lm="68">
+      <i>68</i>
+      <par n="__pr" />
+    </e>
     <e lm="gradope">
       <i>gradop</i>
       <par n="e__adv" />
@@ -3719,9 +4483,21 @@
       <i>federiti</i>
       <par n="o__n" />
     </e>
+    <e lm="170">
+      <i>170</i>
+      <par n="__pr" />
+    </e>
+    <e lm="59">
+      <i>59</i>
+      <par n="__pr" />
+    </e>
     <e lm="kolonii">
       <i>kolonii</i>
       <par n="o__n" />
+    </e>
+    <e lm="vu">
+      <i>vu</i>
+      <par n="__pr" />
     </e>
     <e lm="varias">
       <i>varias</i>
@@ -3734,6 +4510,10 @@
     <e lm="edifico">
       <i>edific</i>
       <par n="o__n" />
+    </e>
+    <e lm="dek">
+      <i>dek</i>
+      <par n="__pr" />
     </e>
     <e lm="reliefo">
       <i>relief</i>
@@ -3751,9 +4531,29 @@
       <i>zduńsk</i>
       <par n="a__adj" />
     </e>
+    <e lm="72">
+      <i>72</i>
+      <par n="__pr" />
+    </e>
+    <e lm="2.0">
+      <i>2.0</i>
+      <par n="__pr" />
+    </e>
+    <e lm="77">
+      <i>77</i>
+      <par n="__pr" />
+    </e>
+    <e lm="elu">
+      <i>elu</i>
+      <par n="__pr" />
+    </e>
     <e lm="parolas">
       <i>parolas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="des">
+      <i>des</i>
+      <par n="__pr" />
     </e>
     <e lm="kancelero">
       <i>kanceler</i>
@@ -3815,6 +4615,14 @@
       <i>australian</i>
       <par n="a__adj" />
     </e>
+    <e lm="63">
+      <i>63</i>
+      <par n="__pr" />
+    </e>
+    <e lm="tnp">
+      <i>tnp</i>
+      <par n="__pr" />
+    </e>
     <e lm="majoritato">
       <i>majoritat</i>
       <par n="o__n" />
@@ -3855,6 +4663,10 @@
       <i>vink</i>
       <par n="o__n" />
     </e>
+    <e lm="73">
+      <i>73</i>
+      <par n="__pr" />
+    </e>
     <e lm="urbe">
       <i>urb</i>
       <par n="e__adv" />
@@ -3879,6 +4691,10 @@
       <i>donis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="71">
+      <i>71</i>
+      <par n="__pr" />
+    </e>
     <e lm="norvegiana">
       <i>norvegian</i>
       <par n="a__adj" />
@@ -3902,6 +4718,14 @@
     <e lm="kaptis">
       <i>kaptis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="66">
+      <i>66</i>
+      <par n="__pr" />
+    </e>
+    <e lm="olu">
+      <i>olu</i>
+      <par n="__pr" />
     </e>
     <e lm="verda">
       <i>verd</i>
@@ -3943,6 +4767,10 @@
       <i>chefi</i>
       <par n="o__n" />
     </e>
+    <e lm="78">
+      <i>78</i>
+      <par n="__pr" />
+    </e>
     <e lm="planto">
       <i>plant</i>
       <par n="o__n" />
@@ -3958,6 +4786,10 @@
     <e lm="kongreso">
       <i>kongres</i>
       <par n="o__n" />
+    </e>
+    <e lm="der">
+      <i>der</i>
+      <par n="__pr" />
     </e>
     <e lm="kategorio">
       <i>kategori</i>
@@ -3978,6 +4810,10 @@
     <e lm="nova-zelando">
       <i>nova-zeland</i>
       <par n="o__n" />
+    </e>
+    <e lm="sed">
+      <i>sed</i>
+      <par n="__pr" />
     </e>
     <e lm="agadi">
       <i>agadi</i>
@@ -4011,6 +4847,10 @@
       <i>kost</i>
       <par n="a__adj" />
     </e>
+    <e lm="110">
+      <i>110</i>
+      <par n="__pr" />
+    </e>
     <e lm="medalii">
       <i>medalii</i>
       <par n="o__n" />
@@ -4018,6 +4858,10 @@
     <e lm="pikturi">
       <i>pikturi</i>
       <par n="o__n" />
+    </e>
+    <e lm="85">
+      <i>85</i>
+      <par n="__pr" />
     </e>
     <e lm="strukturo">
       <i>struktur</i>
@@ -4047,13 +4891,25 @@
       <i>probabl</i>
       <par n="e__adv" />
     </e>
+    <e lm="61">
+      <i>61</i>
+      <par n="__pr" />
+    </e>
     <e lm="povus">
       <i>povus</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="67">
+      <i>67</i>
+      <par n="__pr" />
+    </e>
     <e lm="ili">
       <i>ili</i>
       <par n="o__n" />
+    </e>
+    <e lm="las">
+      <i>las</i>
+      <par n="__pr" />
     </e>
     <e lm="eniris">
       <i>eniris</i>
@@ -4067,9 +4923,17 @@
       <i>tereni</i>
       <par n="o__n" />
     </e>
+    <e lm="69">
+      <i>69</i>
+      <par n="__pr" />
+    </e>
     <e lm="vundita">
       <i>vundit</i>
       <par n="a__adj" />
+    </e>
+    <e lm="1.9">
+      <i>1.9</i>
+      <par n="__pr" />
     </e>
     <e lm="nomizis">
       <i>nomizis</i>
@@ -4123,6 +4987,10 @@
       <i>invadis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="83">
+      <i>83</i>
+      <par n="__pr" />
+    </e>
     <e lm="janeiro">
       <i>janeir</i>
       <par n="o__n" />
@@ -4138,6 +5006,10 @@
     <e lm="intensa">
       <i>intens</i>
       <par n="a__adj" />
+    </e>
+    <e lm="2.5">
+      <i>2.5</i>
+      <par n="__pr" />
     </e>
     <e lm="divenar">
       <i>diven</i>
@@ -4158,6 +5030,10 @@
     <e lm="tro">
       <i>tr</i>
       <par n="o__n" />
+    </e>
+    <e lm="79">
+      <i>79</i>
+      <par n="__pr" />
     </e>
     <e lm="ido-konfero">
       <i>ido-konfer</i>
@@ -4211,13 +5087,25 @@
       <i>gastigas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="165">
+      <i>165</i>
+      <par n="__pr" />
+    </e>
     <e lm="votodistrikto">
       <i>votodistrikt</i>
       <par n="o__n" />
     </e>
+    <e lm="140">
+      <i>140</i>
+      <par n="__pr" />
+    </e>
     <e lm="stimulis">
       <i>stimulis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="mm,">
+      <i>mm,</i>
+      <par n="__pr" />
     </e>
     <e lm="formi">
       <i>formi</i>
@@ -4234,6 +5122,14 @@
     <e lm="lansis">
       <i>lansis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="76">
+      <i>76</i>
+      <par n="__pr" />
+    </e>
+    <e lm="2.1">
+      <i>2.1</i>
+      <par n="__pr" />
     </e>
     <e lm="devenas">
       <i>devenas</i>
@@ -4259,6 +5155,10 @@
       <i>duktis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="105">
+      <i>105</i>
+      <par n="__pr" />
+    </e>
     <e lm="profesionala">
       <i>profesional</i>
       <par n="a__adj" />
@@ -4270,6 +5170,10 @@
     <e lm="akademio">
       <i>akademi</i>
       <par n="o__n" />
+    </e>
+    <e lm="88">
+      <i>88</i>
+      <par n="__pr" />
     </e>
     <e lm="filozofio">
       <i>filozofi</i>
@@ -4286,6 +5190,10 @@
     <e lm="distanta">
       <i>distant</i>
       <par n="a__adj" />
+    </e>
+    <e lm="86">
+      <i>86</i>
+      <par n="__pr" />
     </e>
     <e lm="sinistra">
       <i>sinistr</i>
@@ -4315,9 +5223,17 @@
       <i>relat</i>
       <par n="o__n" />
     </e>
+    <e lm="km,">
+      <i>km,</i>
+      <par n="__pr" />
+    </e>
     <e lm="konstruktar">
       <i>konstrukt</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="125">
+      <i>125</i>
+      <par n="__pr" />
     </e>
     <e lm="latvia">
       <i>latvi</i>
@@ -4375,6 +5291,10 @@
       <i>chose</i>
       <par n="o__n" />
     </e>
+    <e lm="130">
+      <i>130</i>
+      <par n="__pr" />
+    </e>
     <e lm="vera">
       <i>ver</i>
       <par n="a__adj" />
@@ -4391,9 +5311,17 @@
       <i>efektigas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="82">
+      <i>82</i>
+      <par n="__pr" />
+    </e>
     <e lm="generale">
       <i>general</i>
       <par n="e__adv" />
+    </e>
+    <e lm="400">
+      <i>400</i>
+      <par n="__pr" />
     </e>
     <e lm="revuo">
       <i>revu</i>
@@ -4423,6 +5351,14 @@
       <i>notor</i>
       <par n="a__adj" />
     </e>
+    <e lm="74">
+      <i>74</i>
+      <par n="__pr" />
+    </e>
+    <e lm="115">
+      <i>115</i>
+      <par n="__pr" />
+    </e>
     <e lm="rapideso">
       <i>rapides</i>
       <par n="o__n" />
@@ -4435,6 +5371,10 @@
       <i>trovis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="for">
+      <i>for</i>
+      <par n="__pr" />
+    </e>
     <e lm="frontieri">
       <i>frontieri</i>
       <par n="o__n" />
@@ -4442,6 +5382,10 @@
     <e lm="europani">
       <i>europani</i>
       <par n="o__n" />
+    </e>
+    <e lm="--">
+      <i>--</i>
+      <par n="__pr" />
     </e>
     <e lm="materio">
       <i>materi</i>
@@ -4462,6 +5406,10 @@
     <e lm="artisti">
       <i>artisti</i>
       <par n="o__n" />
+    </e>
+    <e lm="ol,">
+      <i>ol,</i>
+      <par n="__pr" />
     </e>
     <e lm="mortigis">
       <i>mortigis</i>
@@ -4599,6 +5547,10 @@
       <i>sort</i>
       <par n="o__n" />
     </e>
+    <e lm="1.7">
+      <i>1.7</i>
+      <par n="__pr" />
+    </e>
     <e lm="bizanco">
       <i>bizanc</i>
       <par n="o__n" />
@@ -4683,6 +5635,10 @@
       <i>tu</i>
       <par n="a__adj" />
     </e>
+    <e lm="91">
+      <i>91</i>
+      <par n="__pr" />
+    </e>
     <e lm="deskovresis">
       <i>deskovresis</i>
       <par n="ar__vblex" />
@@ -4694,6 +5650,14 @@
     <e lm="naturo">
       <i>natur</i>
       <par n="o__n" />
+    </e>
+    <e lm="84">
+      <i>84</i>
+      <par n="__pr" />
+    </e>
+    <e lm="117">
+      <i>117</i>
+      <par n="__pr" />
     </e>
     <e lm="boxisto">
       <i>boxist</i>
@@ -4727,6 +5691,10 @@
       <i>formacis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="2.7">
+      <i>2.7</i>
+      <par n="__pr" />
+    </e>
     <e lm="aparas">
       <i>aparas</i>
       <par n="ar__vblex" />
@@ -4746,6 +5714,10 @@
     <e lm="dominaco">
       <i>dominac</i>
       <par n="o__n" />
+    </e>
+    <e lm="87">
+      <i>87</i>
+      <par n="__pr" />
     </e>
     <e lm="abandonis">
       <i>abandonis</i>
@@ -4787,9 +5759,21 @@
       <i>fili</i>
       <par n="o__n" />
     </e>
+    <e lm="111">
+      <i>111</i>
+      <par n="__pr" />
+    </e>
     <e lm="videbla">
       <i>videbl</i>
       <par n="a__adj" />
+    </e>
+    <e lm="101">
+      <i>101</i>
+      <par n="__pr" />
+    </e>
+    <e lm="2.3">
+      <i>2.3</i>
+      <par n="__pr" />
     </e>
     <e lm="pacifiko">
       <i>pacifik</i>
@@ -4807,9 +5791,17 @@
       <i>prezidantes</i>
       <par n="o__n" />
     </e>
+    <e lm="113">
+      <i>113</i>
+      <par n="__pr" />
+    </e>
     <e lm="artala">
       <i>artal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="li,">
+      <i>li,</i>
+      <par n="__pr" />
     </e>
     <e lm="homaro">
       <i>homar</i>
@@ -4887,6 +5879,10 @@
       <i>rang</i>
       <par n="o__n" />
     </e>
+    <e lm="123">
+      <i>123</i>
+      <par n="__pr" />
+    </e>
     <e lm="skribar">
       <i>skrib</i>
       <par n="ar__vblex" />
@@ -4894,6 +5890,14 @@
     <e lm="ita">
       <i>it</i>
       <par n="a__adj" />
+    </e>
+    <e lm="96">
+      <i>96</i>
+      <par n="__pr" />
+    </e>
+    <e lm="107">
+      <i>107</i>
+      <par n="__pr" />
     </e>
     <e lm="ideo">
       <i>ide</i>
@@ -4959,6 +5963,10 @@
       <i>konkursi</i>
       <par n="o__n" />
     </e>
+    <e lm="108">
+      <i>108</i>
+      <par n="__pr" />
+    </e>
     <e lm="tradukita">
       <i>tradukit</i>
       <par n="a__adj" />
@@ -4983,13 +5991,29 @@
       <i>personal</i>
       <par n="a__adj" />
     </e>
+    <e lm="et">
+      <i>et</i>
+      <par n="__pr" />
+    </e>
+    <e lm="1.8">
+      <i>1.8</i>
+      <par n="__pr" />
+    </e>
     <e lm="atleto">
       <i>atlet</i>
       <par n="o__n" />
     </e>
+    <e lm="118">
+      <i>118</i>
+      <par n="__pr" />
+    </e>
     <e lm="kristani">
       <i>kristani</i>
       <par n="o__n" />
+    </e>
+    <e lm="180">
+      <i>180</i>
+      <par n="__pr" />
     </e>
     <e lm="avioni">
       <i>avioni</i>
@@ -5059,6 +6083,18 @@
       <i>centri</i>
       <par n="o__n" />
     </e>
+    <e lm="144">
+      <i>144</i>
+      <par n="__pr" />
+    </e>
+    <e lm="109">
+      <i>109</i>
+      <par n="__pr" />
+    </e>
+    <e lm="103">
+      <i>103</i>
+      <par n="__pr" />
+    </e>
     <e lm="cienci">
       <i>cienci</i>
       <par n="o__n" />
@@ -5090,6 +6126,18 @@
     <e lm="surnomizita">
       <i>surnomizit</i>
       <par n="a__adj" />
+    </e>
+    <e lm="121">
+      <i>121</i>
+      <par n="__pr" />
+    </e>
+    <e lm="102">
+      <i>102</i>
+      <par n="__pr" />
+    </e>
+    <e lm="112">
+      <i>112</i>
+      <par n="__pr" />
     </e>
     <e lm="haiti">
       <i>haiti</i>
@@ -5187,6 +6235,14 @@
       <i>arjent</i>
       <par n="a__adj" />
     </e>
+    <e lm="les">
+      <i>les</i>
+      <par n="__pr" />
+    </e>
+    <e lm="93">
+      <i>93</i>
+      <par n="__pr" />
+    </e>
     <e lm="volis">
       <i>volis</i>
       <par n="ar__vblex" />
@@ -5203,9 +6259,17 @@
       <i>konstitucal</i>
       <par n="a__adj" />
     </e>
+    <e lm="128">
+      <i>128</i>
+      <par n="__pr" />
+    </e>
     <e lm="skotia">
       <i>skoti</i>
       <par n="a__adj" />
+    </e>
+    <e lm="250">
+      <i>250</i>
+      <par n="__pr" />
     </e>
     <e lm="kombato">
       <i>kombat</i>
@@ -5227,6 +6291,10 @@
       <i>humid</i>
       <par n="a__adj" />
     </e>
+    <e lm="nad">
+      <i>nad</i>
+      <par n="__pr" />
+    </e>
     <e lm="procedo">
       <i>proced</i>
       <par n="o__n" />
@@ -5246,6 +6314,14 @@
     <e lm="reprezentis">
       <i>reprezentis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="106">
+      <i>106</i>
+      <par n="__pr" />
+    </e>
+    <e lm="92">
+      <i>92</i>
+      <par n="__pr" />
     </e>
     <e lm="chefloko">
       <i>cheflok</i>
@@ -5271,6 +6347,14 @@
       <i>indonezi</i>
       <par n="a__adj" />
     </e>
+    <e lm="116">
+      <i>116</i>
+      <par n="__pr" />
+    </e>
+    <e lm="89">
+      <i>89</i>
+      <par n="__pr" />
+    </e>
     <e lm="yardeko">
       <i>yardek</i>
       <par n="o__n" />
@@ -5287,13 +6371,29 @@
       <i>skriptistin</i>
       <par n="o__n" />
     </e>
+    <e lm="rss">
+      <i>rss</i>
+      <par n="__pr" />
+    </e>
     <e lm="protektar">
       <i>protekt</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="un)">
+      <i>un)</i>
+      <par n="__pr" />
+    </e>
     <e lm="inkluzis">
       <i>inkluzis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="114">
+      <i>114</i>
+      <par n="__pr" />
+    </e>
+    <e lm="du)">
+      <i>du)</i>
+      <par n="__pr" />
     </e>
     <e lm="antee">
       <i>ant</i>
@@ -5331,6 +6431,10 @@
       <i>docist</i>
       <par n="o__n" />
     </e>
+    <e lm="3.0">
+      <i>3.0</i>
+      <par n="__pr" />
+    </e>
     <e lm="slovakia">
       <i>slovaki</i>
       <par n="a__adj" />
@@ -5355,9 +6459,17 @@
       <i>komoni</i>
       <par n="o__n" />
     </e>
+    <e lm="122">
+      <i>122</i>
+      <par n="__pr" />
+    </e>
     <e lm="same">
       <i>sam</i>
       <par n="e__adv" />
+    </e>
+    <e lm="124">
+      <i>124</i>
+      <par n="__pr" />
     </e>
     <e lm="meze">
       <i>mez</i>
@@ -5379,6 +6491,10 @@
       <i>karolus</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="145">
+      <i>145</i>
+      <par n="__pr" />
+    </e>
     <e lm="estas">
       <i>estas</i>
       <par n="ar__vblex" />
@@ -5399,6 +6515,10 @@
       <i>developesis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="kad">
+      <i>kad</i>
+      <par n="__cnjsub" />
+    </e>
     <e lm="bayo">
       <i>bay</i>
       <par n="o__n" />
@@ -5410,6 +6530,10 @@
     <e lm="societo">
       <i>societ</i>
       <par n="o__n" />
+    </e>
+    <e lm="vi">
+      <i>vi</i>
+      <par n="__pr" />
     </e>
     <e lm="nowe">
       <i>now</i>
@@ -5423,6 +6547,14 @@
       <i>konsideresas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="ok)">
+      <i>ok)</i>
+      <par n="__pr" />
+    </e>
+    <e lm="edc">
+      <i>edc</i>
+      <par n="__pr" />
+    </e>
     <e lm="latero">
       <i>later</i>
       <par n="o__n" />
@@ -5434,6 +6566,14 @@
     <e lm="povra">
       <i>povr</i>
       <par n="a__adj" />
+    </e>
+    <e lm="135">
+      <i>135</i>
+      <par n="__pr" />
+    </e>
+    <e lm="°c">
+      <i>°c</i>
+      <par n="__pr" />
     </e>
     <e lm="industrio">
       <i>industri</i>
@@ -5463,6 +6603,10 @@
       <i>nederlandani</i>
       <par n="o__n" />
     </e>
+    <e lm="!--">
+      <i>!--</i>
+      <par n="__pr" />
+    </e>
     <e lm="probas">
       <i>probas</i>
       <par n="ar__vblex" />
@@ -5479,6 +6623,10 @@
       <i>oper</i>
       <par n="o__n" />
     </e>
+    <e lm="kim">
+      <i>kim</i>
+      <par n="__pr" />
+    </e>
     <e lm="sektoro">
       <i>sektor</i>
       <par n="o__n" />
@@ -5486,6 +6634,10 @@
     <e lm="facesis">
       <i>facesis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="2.2">
+      <i>2.2</i>
+      <par n="__pr" />
     </e>
     <e lm="nikaragua">
       <i>nikaragu</i>
@@ -5503,6 +6655,14 @@
       <i>debushas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="97">
+      <i>97</i>
+      <par n="__pr" />
+    </e>
+    <e lm="kg">
+      <i>kg</i>
+      <par n="__pr" />
+    </e>
     <e lm="temo">
       <i>tem</i>
       <par n="o__n" />
@@ -5514,6 +6674,10 @@
     <e lm="formulo">
       <i>formul</i>
       <par n="o__n" />
+    </e>
+    <e lm="133">
+      <i>133</i>
+      <par n="__pr" />
     </e>
     <e lm="volkano">
       <i>volkan</i>
@@ -5559,6 +6723,14 @@
       <i>obten</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="98">
+      <i>98</i>
+      <par n="__pr" />
+    </e>
+    <e lm="126">
+      <i>126</i>
+      <par n="__pr" />
+    </e>
     <e lm="bezonas">
       <i>bezonas</i>
       <par n="ar__vblex" />
@@ -5579,6 +6751,14 @@
       <i>mision</i>
       <par n="o__n" />
     </e>
+    <e lm="99">
+      <i>99</i>
+      <par n="__pr" />
+    </e>
+    <e lm="139">
+      <i>139</i>
+      <par n="__pr" />
+    </e>
     <e lm="literi">
       <i>literi</i>
       <par n="o__n" />
@@ -5590,6 +6770,10 @@
     <e lm="chanjis">
       <i>chanjis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="ul">
+      <i>ul</i>
+      <par n="__pr" />
     </e>
     <e lm="texto">
       <i>text</i>
@@ -5606,6 +6790,10 @@
     <e lm="enmigranti">
       <i>enmigranti</i>
       <par n="o__n" />
+    </e>
+    <e lm="136">
+      <i>136</i>
+      <par n="__pr" />
     </e>
     <e lm="expansis">
       <i>expansis</i>
@@ -5626,6 +6814,10 @@
     <e lm="nutrivi">
       <i>nutrivi</i>
       <par n="o__n" />
+    </e>
+    <e lm="215">
+      <i>215</i>
+      <par n="__pr" />
     </e>
     <e lm="apta">
       <i>apt</i>
@@ -5667,6 +6859,10 @@
       <i>demokrat</i>
       <par n="a__adj" />
     </e>
+    <e lm="104">
+      <i>104</i>
+      <par n="__pr" />
+    </e>
     <e lm="ferovojala">
       <i>ferovojal</i>
       <par n="a__adj" />
@@ -5698,6 +6894,22 @@
     <e lm="servadi">
       <i>servadi</i>
       <par n="o__n" />
+    </e>
+    <e lm="129">
+      <i>129</i>
+      <par n="__pr" />
+    </e>
+    <e lm="94">
+      <i>94</i>
+      <par n="__pr" />
+    </e>
+    <e lm="3.1">
+      <i>3.1</i>
+      <par n="__pr" />
+    </e>
+    <e lm="e.">
+      <i>e.</i>
+      <par n="__pr" />
     </e>
     <e lm="stare">
       <i>star</i>
@@ -5751,6 +6963,18 @@
       <i>pionir</i>
       <par n="o__n" />
     </e>
+    <e lm="jr">
+      <i>jr</i>
+      <par n="__pr" />
+    </e>
+    <e lm="119">
+      <i>119</i>
+      <par n="__pr" />
+    </e>
+    <e lm="2.8">
+      <i>2.8</i>
+      <par n="__pr" />
+    </e>
     <e lm="oni">
       <i>oni</i>
       <par n="o__n" />
@@ -5786,6 +7010,10 @@
     <e lm="quarteri">
       <i>quarteri</i>
       <par n="o__n" />
+    </e>
+    <e lm="do,">
+      <i>do,</i>
+      <par n="__pr" />
     </e>
     <e lm="kozi">
       <i>kozi</i>
@@ -5827,6 +7055,10 @@
       <i>komandis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="143">
+      <i>143</i>
+      <par n="__pr" />
+    </e>
     <e lm="karaktero">
       <i>karakter</i>
       <par n="o__n" />
@@ -5858,6 +7090,10 @@
     <e lm="arkipelago">
       <i>arkipelag</i>
       <par n="o__n" />
+    </e>
+    <e lm="146">
+      <i>146</i>
+      <par n="__pr" />
     </e>
     <e lm="vilaji">
       <i>vilaji</i>
@@ -5911,6 +7147,10 @@
       <i>metr</i>
       <par n="o__n" />
     </e>
+    <e lm="dół">
+      <i>dół</i>
+      <par n="__pr" />
+    </e>
     <e lm="finala">
       <i>final</i>
       <par n="a__adj" />
@@ -5927,9 +7167,21 @@
       <i>israelan</i>
       <par n="a__adj" />
     </e>
+    <e lm="163">
+      <i>163</i>
+      <par n="__pr" />
+    </e>
     <e lm="reala">
       <i>real</i>
       <par n="a__adj" />
+    </e>
+    <e lm="134">
+      <i>134</i>
+      <par n="__pr" />
+    </e>
+    <e lm="142">
+      <i>142</i>
+      <par n="__pr" />
     </e>
     <e lm="fratino">
       <i>fratin</i>
@@ -5975,6 +7227,10 @@
       <i>nedependanteskas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="138">
+      <i>138</i>
+      <par n="__pr" />
+    </e>
     <e lm="naziista">
       <i>naziist</i>
       <par n="a__adj" />
@@ -5999,6 +7255,14 @@
       <i>mantenis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="sat">
+      <i>sat</i>
+      <par n="__pr" />
+    </e>
+    <e lm="non">
+      <i>non</i>
+      <par n="__pr" />
+    </e>
     <e lm="kazo">
       <i>kaz</i>
       <par n="o__n" />
@@ -6010,6 +7274,22 @@
     <e lm="demandis">
       <i>demandis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="lu,">
+      <i>lu,</i>
+      <par n="__pr" />
+    </e>
+    <e lm="166">
+      <i>166</i>
+      <par n="__pr" />
+    </e>
+    <e lm="132">
+      <i>132</i>
+      <par n="__pr" />
+    </e>
+    <e lm="141">
+      <i>141</i>
+      <par n="__pr" />
     </e>
     <e lm="ruraltipa">
       <i>ruraltip</i>
@@ -6035,6 +7315,14 @@
       <i>linguist</i>
       <par n="o__n" />
     </e>
+    <e lm="ok">
+      <i>ok</i>
+      <par n="__pr" />
+    </e>
+    <e lm="164">
+      <i>164</i>
+      <par n="__pr" />
+    </e>
     <e lm="gregorius">
       <i>gregorius</i>
       <par n="ar__vblex" />
@@ -6047,6 +7335,10 @@
       <i>samnom</i>
       <par n="a__adj" />
     </e>
+    <e lm="137">
+      <i>137</i>
+      <par n="__pr" />
+    </e>
     <e lm="desaparis">
       <i>desaparis</i>
       <par n="ar__vblex" />
@@ -6054,6 +7346,10 @@
     <e lm="originale">
       <i>original</i>
       <par n="e__adv" />
+    </e>
+    <e lm="148">
+      <i>148</i>
+      <par n="__pr" />
     </e>
     <e lm="usani">
       <i>usani</i>
@@ -6131,6 +7427,10 @@
       <i>imaji</i>
       <par n="o__n" />
     </e>
+    <e lm="220">
+      <i>220</i>
+      <par n="__pr" />
+    </e>
     <e lm="poloniana">
       <i>polonian</i>
       <par n="a__adj" />
@@ -6138,6 +7438,10 @@
     <e lm="transportar">
       <i>transport</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="131">
+      <i>131</i>
+      <par n="__pr" />
     </e>
     <e lm="juda">
       <i>jud</i>
@@ -6175,6 +7479,10 @@
       <i>kansoni</i>
       <par n="o__n" />
     </e>
+    <e lm="2.4">
+      <i>2.4</i>
+      <par n="__pr" />
+    </e>
     <e lm="alfabeto">
       <i>alfabet</i>
       <par n="o__n" />
@@ -6186,6 +7494,10 @@
     <e lm="klara">
       <i>klar</i>
       <par n="a__adj" />
+    </e>
+    <e lm="(e">
+      <i>(e</i>
+      <par n="__pr" />
     </e>
     <e lm="supera">
       <i>super</i>
@@ -6199,9 +7511,17 @@
       <i>fervoy</i>
       <par n="o__n" />
     </e>
+    <e lm="155">
+      <i>155</i>
+      <par n="__pr" />
+    </e>
     <e lm="enfluas">
       <i>enfluas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="600">
+      <i>600</i>
+      <par n="__pr" />
     </e>
     <e lm="explorar">
       <i>explo</i>
@@ -6235,6 +7555,18 @@
       <i>stadi</i>
       <par n="o__n" />
     </e>
+    <e lm="127">
+      <i>127</i>
+      <par n="__pr" />
+    </e>
+    <e lm="182">
+      <i>182</i>
+      <par n="__pr" />
+    </e>
+    <e lm="149">
+      <i>149</i>
+      <par n="__pr" />
+    </e>
     <e lm="facile">
       <i>facil</i>
       <par n="e__adv" />
@@ -6267,6 +7599,10 @@
       <i>tribu</i>
       <par n="o__n" />
     </e>
+    <e lm="190">
+      <i>190</i>
+      <par n="__pr" />
+    </e>
     <e lm="studias">
       <i>studias</i>
       <par n="ar__vblex" />
@@ -6287,6 +7623,18 @@
       <i>transformis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="168">
+      <i>168</i>
+      <par n="__pr" />
+    </e>
+    <e lm="3.4">
+      <i>3.4</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ke,">
+      <i>ke,</i>
+      <par n="__pr" />
+    </e>
     <e lm="koloniigo">
       <i>koloniig</i>
       <par n="o__n" />
@@ -6303,6 +7651,10 @@
       <i>nominit</i>
       <par n="a__adj" />
     </e>
+    <e lm="183">
+      <i>183</i>
+      <par n="__pr" />
+    </e>
     <e lm="preventar">
       <i>prevent</i>
       <par n="ar__vblex" />
@@ -6315,9 +7667,17 @@
       <i>revokesis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="179">
+      <i>179</i>
+      <par n="__pr" />
+    </e>
     <e lm="texti">
       <i>texti</i>
       <par n="o__n" />
+    </e>
+    <e lm="ibn">
+      <i>ibn</i>
+      <par n="__pr" />
     </e>
     <e lm="portis">
       <i>portis</i>
@@ -6363,9 +7723,25 @@
       <i>patrimoni</i>
       <par n="o__n" />
     </e>
+    <e lm="177">
+      <i>177</i>
+      <par n="__pr" />
+    </e>
     <e lm="inaugurita">
       <i>inaugurit</i>
       <par n="a__adj" />
+    </e>
+    <e lm="fk">
+      <i>fk</i>
+      <par n="__pr" />
+    </e>
+    <e lm="159">
+      <i>159</i>
+      <par n="__pr" />
+    </e>
+    <e lm="152">
+      <i>152</i>
+      <par n="__pr" />
     </e>
     <e lm="bazeyo">
       <i>bazey</i>
@@ -6387,9 +7763,29 @@
       <i>agrokultival</i>
       <par n="a__adj" />
     </e>
+    <e lm="dos">
+      <i>dos</i>
+      <par n="__pr" />
+    </e>
+    <e lm="210">
+      <i>210</i>
+      <par n="__pr" />
+    </e>
     <e lm="missouri">
       <i>missouri</i>
       <par n="o__n" />
+    </e>
+    <e lm="167">
+      <i>167</i>
+      <par n="__pr" />
+    </e>
+    <e lm="174">
+      <i>174</i>
+      <par n="__pr" />
+    </e>
+    <e lm="-1">
+      <i>-1</i>
+      <par n="__pr" />
     </e>
     <e lm="podlakia">
       <i>podlaki</i>
@@ -6431,6 +7827,18 @@
       <i>omn</i>
       <par n="o__n" />
     </e>
+    <e lm="178">
+      <i>178</i>
+      <par n="__pr" />
+    </e>
+    <e lm="161">
+      <i>161</i>
+      <par n="__pr" />
+    </e>
+    <e lm="147">
+      <i>147</i>
+      <par n="__pr" />
+    </e>
     <e lm="piktis">
       <i>piktis</i>
       <par n="ar__vblex" />
@@ -6447,6 +7855,10 @@
       <i>fotografist</i>
       <par n="o__n" />
     </e>
+    <e lm="230">
+      <i>230</i>
+      <par n="__pr" />
+    </e>
     <e lm="sequis">
       <i>sequis</i>
       <par n="ar__vblex" />
@@ -6455,9 +7867,17 @@
       <i>barcelon</i>
       <par n="a__adj" />
     </e>
+    <e lm="189">
+      <i>189</i>
+      <par n="__pr" />
+    </e>
     <e lm="samanoma">
       <i>samanom</i>
       <par n="a__adj" />
+    </e>
+    <e lm="en:">
+      <i>en:</i>
+      <par n="__pr" />
     </e>
     <e lm="existar">
       <i>exist</i>
@@ -6486,6 +7906,14 @@
     <e lm="pius">
       <i>pius</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="800">
+      <i>800</i>
+      <par n="__pr" />
+    </e>
+    <e lm="156">
+      <i>156</i>
+      <par n="__pr" />
     </e>
     <e lm="plano">
       <i>plan</i>
@@ -6519,6 +7947,18 @@
       <i>yarmil</i>
       <par n="o__n" />
     </e>
+    <e lm="225">
+      <i>225</i>
+      <par n="__pr" />
+    </e>
+    <e lm="171">
+      <i>171</i>
+      <par n="__pr" />
+    </e>
+    <e lm="3.5">
+      <i>3.5</i>
+      <par n="__pr" />
+    </e>
     <e lm="developar">
       <i>develop</i>
       <par n="ar__vblex" />
@@ -6526,6 +7966,10 @@
     <e lm="athina">
       <i>athin</i>
       <par n="a__adj" />
+    </e>
+    <e lm="191">
+      <i>191</i>
+      <par n="__pr" />
     </e>
     <e lm="fifa">
       <i>fif</i>
@@ -6591,6 +8035,14 @@
       <i>establisas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="bin">
+      <i>bin</i>
+      <par n="__pr" />
+    </e>
+    <e lm="175">
+      <i>175</i>
+      <par n="__pr" />
+    </e>
     <e lm="sekreta">
       <i>sekret</i>
       <par n="a__adj" />
@@ -6603,6 +8055,10 @@
       <i>matematikal</i>
       <par n="a__adj" />
     </e>
+    <e lm="176">
+      <i>176</i>
+      <par n="__pr" />
+    </e>
     <e lm="fakultato">
       <i>fakultat</i>
       <par n="o__n" />
@@ -6610,6 +8066,10 @@
     <e lm="folii">
       <i>folii</i>
       <par n="o__n" />
+    </e>
+    <e lm="3.3">
+      <i>3.3</i>
+      <par n="__pr" />
     </e>
     <e lm="stretajo">
       <i>stretaj</i>
@@ -6635,6 +8095,10 @@
       <i>sergei</i>
       <par n="o__n" />
     </e>
+    <e lm="158">
+      <i>158</i>
+      <par n="__pr" />
+    </e>
     <e lm="refuzis">
       <i>refuzis</i>
       <par n="ar__vblex" />
@@ -6650,6 +8114,10 @@
     <e lm="giuseppe">
       <i>giusepp</i>
       <par n="e__adv" />
+    </e>
+    <e lm="den">
+      <i>den</i>
+      <par n="__pr" />
     </e>
     <e lm="sekretario">
       <i>sekretari</i>
@@ -6691,6 +8159,10 @@
       <i>sanes</i>
       <par n="o__n" />
     </e>
+    <e lm="208">
+      <i>208</i>
+      <par n="__pr" />
+    </e>
     <e lm="deziris">
       <i>deziris</i>
       <par n="ar__vblex" />
@@ -6706,6 +8178,10 @@
     <e lm="vendis">
       <i>vendis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="181">
+      <i>181</i>
+      <par n="__pr" />
     </e>
     <e lm="minas">
       <i>minas</i>
@@ -6738,6 +8214,10 @@
     <e lm="flugo">
       <i>flug</i>
       <par n="o__n" />
+    </e>
+    <e lm="185">
+      <i>185</i>
+      <par n="__pr" />
     </e>
     <e lm="felipe">
       <i>felip</i>
@@ -6783,6 +8263,10 @@
       <i>eventint</i>
       <par n="a__adj" />
     </e>
+    <e lm="162">
+      <i>162</i>
+      <par n="__pr" />
+    </e>
     <e lm="kreado">
       <i>kread</i>
       <par n="o__n" />
@@ -6806,6 +8290,18 @@
     <e lm="destruktesis">
       <i>destruktesis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="196">
+      <i>196</i>
+      <par n="__pr" />
+    </e>
+    <e lm="202">
+      <i>202</i>
+      <par n="__pr" />
+    </e>
+    <e lm="197">
+      <i>197</i>
+      <par n="__pr" />
     </e>
     <e lm="zeus">
       <i>zeus</i>
@@ -6851,9 +8347,17 @@
       <i>kunpremiizesis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="154">
+      <i>154</i>
+      <par n="__pr" />
+    </e>
     <e lm="sa">
       <i>s</i>
       <par n="a__adj" />
+    </e>
+    <e lm="173">
+      <i>173</i>
+      <par n="__pr" />
     </e>
     <e lm="kondamnesis">
       <i>kondamnesis</i>
@@ -6883,6 +8387,10 @@
       <i>egal</i>
       <par n="a__adj" />
     </e>
+    <e lm="172">
+      <i>172</i>
+      <par n="__pr" />
+    </e>
     <e lm="deklaresis">
       <i>deklaresis</i>
       <par n="ar__vblex" />
@@ -6911,6 +8419,10 @@
       <i>tradicion</i>
       <par n="o__n" />
     </e>
+    <e lm="209">
+      <i>209</i>
+      <par n="__pr" />
+    </e>
     <e lm="figuro">
       <i>figur</i>
       <par n="o__n" />
@@ -6922,6 +8434,10 @@
     <e lm="servis">
       <i>servis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="3.2">
+      <i>3.2</i>
+      <par n="__pr" />
     </e>
     <e lm="matematiko">
       <i>matematik</i>
@@ -6987,6 +8503,10 @@
       <i>translojis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="157">
+      <i>157</i>
+      <par n="__pr" />
+    </e>
     <e lm="uno">
       <i>un</i>
       <par n="o__n" />
@@ -7030,6 +8550,22 @@
     <e lm="kapitano">
       <i>kapitan</i>
       <par n="o__n" />
+    </e>
+    <e lm="151">
+      <i>151</i>
+      <par n="__pr" />
+    </e>
+    <e lm="700">
+      <i>700</i>
+      <par n="__pr" />
+    </e>
+    <e lm="260">
+      <i>260</i>
+      <par n="__pr" />
+    </e>
+    <e lm="l’">
+      <i>l’</i>
+      <par n="__pr" />
     </e>
     <e lm="deala">
       <i>deal</i>
@@ -7111,6 +8647,18 @@
       <i>futbalo-esquad</i>
       <par n="o__n" />
     </e>
+    <e lm="186">
+      <i>186</i>
+      <par n="__pr" />
+    </e>
+    <e lm="203">
+      <i>203</i>
+      <par n="__pr" />
+    </e>
+    <e lm="153">
+      <i>153</i>
+      <par n="__pr" />
+    </e>
     <e lm="reformo">
       <i>reform</i>
       <par n="o__n" />
@@ -7122,6 +8670,10 @@
     <e lm="montoza">
       <i>montoz</i>
       <par n="a__adj" />
+    </e>
+    <e lm="ak)">
+      <i>ak)</i>
+      <par n="__pr" />
     </e>
     <e lm="remplasis">
       <i>remplasis</i>
@@ -7151,6 +8703,10 @@
       <i>kreskas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="195">
+      <i>195</i>
+      <par n="__pr" />
+    </e>
     <e lm="korpi">
       <i>korpi</i>
       <par n="o__n" />
@@ -7171,9 +8727,21 @@
       <i>alabam</i>
       <par n="a__adj" />
     </e>
+    <e lm="188">
+      <i>188</i>
+      <par n="__pr" />
+    </e>
     <e lm="urbestro">
       <i>urbestr</i>
       <par n="o__n" />
+    </e>
+    <e lm="169">
+      <i>169</i>
+      <par n="__pr" />
+    </e>
+    <e lm="214">
+      <i>214</i>
+      <par n="__pr" />
     </e>
     <e lm="situesis">
       <i>situesis</i>
@@ -7291,6 +8859,14 @@
       <i>autobusi</i>
       <par n="o__n" />
     </e>
+    <e lm="245">
+      <i>245</i>
+      <par n="__pr" />
+    </e>
+    <e lm="211">
+      <i>211</i>
+      <par n="__pr" />
+    </e>
     <e lm="hispan-usani">
       <i>hispan-usani</i>
       <par n="o__n" />
@@ -7306,6 +8882,10 @@
     <e lm="signifiko">
       <i>signifik</i>
       <par n="o__n" />
+    </e>
+    <e lm="ben">
+      <i>ben</i>
+      <par n="__pr" />
     </e>
     <e lm="dominacanta">
       <i>dominacant</i>
@@ -7370,6 +8950,10 @@
     <e lm="helsinki">
       <i>helsinki</i>
       <par n="o__n" />
+    </e>
+    <e lm="»,">
+      <i>»,</i>
+      <par n="__pr" />
     </e>
     <e lm="pafado">
       <i>pafad</i>
@@ -7459,6 +9043,10 @@
       <i>port</i>
       <par n="o__n" />
     </e>
+    <e lm="194">
+      <i>194</i>
+      <par n="__pr" />
+    </e>
     <e lm="amiki">
       <i>amiki</i>
       <par n="o__n" />
@@ -7498,6 +9086,14 @@
     <e lm="konstanta">
       <i>konstant</i>
       <par n="a__adj" />
+    </e>
+    <e lm="222">
+      <i>222</i>
+      <par n="__pr" />
+    </e>
+    <e lm="199">
+      <i>199</i>
+      <par n="__pr" />
     </e>
     <e lm="judikata">
       <i>judikat</i>
@@ -7547,9 +9143,17 @@
       <i>satelit</i>
       <par n="o__n" />
     </e>
+    <e lm="bay">
+      <i>bay</i>
+      <par n="__pr" />
+    </e>
     <e lm="sacerdoto">
       <i>sacerdot</i>
       <par n="o__n" />
+    </e>
+    <e lm="240">
+      <i>240</i>
+      <par n="__pr" />
     </e>
     <e lm="entraprezi">
       <i>entraprezi</i>
@@ -7571,9 +9175,25 @@
       <i>dein</i>
       <par n="o__n" />
     </e>
+    <e lm="198">
+      <i>198</i>
+      <par n="__pr" />
+    </e>
+    <e lm="mi">
+      <i>mi</i>
+      <par n="__pr" />
+    </e>
+    <e lm="184">
+      <i>184</i>
+      <par n="__pr" />
+    </e>
     <e lm="nultempe">
       <i>nultemp</i>
       <par n="e__adv" />
+    </e>
+    <e lm="me,">
+      <i>me,</i>
+      <par n="__pr" />
     </e>
     <e lm="votala">
       <i>votal</i>
@@ -7611,6 +9231,10 @@
       <i>atletin</i>
       <par n="o__n" />
     </e>
+    <e lm="ii">
+      <i>ii</i>
+      <par n="__pr" />
+    </e>
     <e lm="ofico">
       <i>ofic</i>
       <par n="o__n" />
@@ -7630,6 +9254,14 @@
     <e lm="kompanii">
       <i>kompanii</i>
       <par n="o__n" />
+    </e>
+    <e lm="257">
+      <i>257</i>
+      <par n="__pr" />
+    </e>
+    <e lm="201">
+      <i>201</i>
+      <par n="__pr" />
     </e>
     <e lm="eduardo">
       <i>eduard</i>
@@ -7651,6 +9283,10 @@
       <i>vinkes</i>
       <par n="o__n" />
     </e>
+    <e lm="1,5">
+      <i>1,5</i>
+      <par n="__pr" />
+    </e>
     <e lm="vere">
       <i>ver</i>
       <par n="e__adv" />
@@ -7666,6 +9302,14 @@
     <e lm="prefixo">
       <i>prefix</i>
       <par n="o__n" />
+    </e>
+    <e lm="207">
+      <i>207</i>
+      <par n="__pr" />
+    </e>
+    <e lm="3.7">
+      <i>3.7</i>
+      <par n="__pr" />
     </e>
     <e lm="czarna">
       <i>czarn</i>
@@ -7727,6 +9371,10 @@
       <i>desfacil</i>
       <par n="a__adj" />
     </e>
+    <e lm="bon">
+      <i>bon</i>
+      <par n="__pr" />
+    </e>
     <e lm="slovenia">
       <i>sloveni</i>
       <par n="a__adj" />
@@ -7759,6 +9407,10 @@
       <i>nord-kore</i>
       <par n="a__adj" />
     </e>
+    <e lm="tom">
+      <i>tom</i>
+      <par n="__pr" />
+    </e>
     <e lm="politikistino">
       <i>politikistin</i>
       <par n="o__n" />
@@ -7779,6 +9431,10 @@
       <i>dic</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="229">
+      <i>229</i>
+      <par n="__pr" />
+    </e>
     <e lm="unaji">
       <i>unaji</i>
       <par n="o__n" />
@@ -7786,6 +9442,10 @@
     <e lm="kozo">
       <i>koz</i>
       <par n="o__n" />
+    </e>
+    <e lm="3.9">
+      <i>3.9</i>
+      <par n="__pr" />
     </e>
     <e lm="kelta">
       <i>kelt</i>
@@ -7802,6 +9462,10 @@
     <e lm="roberto">
       <i>robert</i>
       <par n="o__n" />
+    </e>
+    <e lm="li.">
+      <i>li.</i>
+      <par n="__pr" />
     </e>
     <e lm="masakro">
       <i>masakr</i>
@@ -7850,6 +9514,18 @@
     <e lm="imajo">
       <i>imaj</i>
       <par n="o__n" />
+    </e>
+    <e lm="223">
+      <i>223</i>
+      <par n="__pr" />
+    </e>
+    <e lm="226">
+      <i>226</i>
+      <par n="__pr" />
+    </e>
+    <e lm="jus">
+      <i>jus</i>
+      <par n="__pr" />
     </e>
     <e lm="determinita">
       <i>determinit</i>
@@ -7903,6 +9579,14 @@
       <i>unionesis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="fc">
+      <i>fc</i>
+      <par n="__pr" />
+    </e>
+    <e lm="206">
+      <i>206</i>
+      <par n="__pr" />
+    </e>
     <e lm="kontrolis">
       <i>kontrolis</i>
       <par n="ar__vblex" />
@@ -7910,6 +9594,10 @@
     <e lm="turmo">
       <i>turm</i>
       <par n="o__n" />
+    </e>
+    <e lm="4.5">
+      <i>4.5</i>
+      <par n="__pr" />
     </e>
     <e lm="subkarpati">
       <i>subkarpati</i>
@@ -7931,6 +9619,10 @@
       <i>long</i>
       <par n="e__adv" />
     </e>
+    <e lm="2,">
+      <i>2,</i>
+      <par n="__pr" />
+    </e>
     <e lm="kompozistino">
       <i>kompozistin</i>
       <par n="o__n" />
@@ -7938,6 +9630,10 @@
     <e lm="duros">
       <i>duros</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="eu">
+      <i>eu</i>
+      <par n="__pr" />
     </e>
     <e lm="inventisto">
       <i>inventist</i>
@@ -7959,6 +9655,10 @@
       <i>praktikis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="3.6">
+      <i>3.6</i>
+      <par n="__pr" />
+    </e>
     <e lm="signatita">
       <i>signatit</i>
       <par n="a__adj" />
@@ -7979,6 +9679,10 @@
       <i>printemp</i>
       <par n="o__n" />
     </e>
+    <e lm="..">
+      <i>..</i>
+      <par n="__pr" />
+    </e>
     <e lm="inocentius">
       <i>inocentius</i>
       <par n="ar__vblex" />
@@ -7986,6 +9690,10 @@
     <e lm="movo">
       <i>mov</i>
       <par n="o__n" />
+    </e>
+    <e lm="4.0">
+      <i>4.0</i>
+      <par n="__pr" />
     </e>
     <e lm="kirgiziana">
       <i>kirgizian</i>
@@ -7999,6 +9707,10 @@
       <i>prezidantin</i>
       <par n="o__n" />
     </e>
+    <e lm="art">
+      <i>art</i>
+      <par n="__pr" />
+    </e>
     <e lm="tuni">
       <i>tuni</i>
       <par n="o__n" />
@@ -8006,6 +9718,10 @@
     <e lm="renkontras">
       <i>renkontras</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="193">
+      <i>193</i>
+      <par n="__pr" />
     </e>
     <e lm="luna">
       <i>lun</i>
@@ -8039,13 +9755,25 @@
       <i>karn</i>
       <par n="o__n" />
     </e>
+    <e lm="sul">
+      <i>sul</i>
+      <par n="__pr" />
+    </e>
     <e lm="kansas">
       <i>kansas</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="212">
+      <i>212</i>
+      <par n="__pr" />
+    </e>
     <e lm="centre">
       <i>centr</i>
       <par n="e__adv" />
+    </e>
+    <e lm="don">
+      <i>don</i>
+      <par n="__pr" />
     </e>
     <e lm="korti">
       <i>korti</i>
@@ -8099,6 +9827,22 @@
       <i>diminut</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="235">
+      <i>235</i>
+      <par n="__pr" />
+    </e>
+    <e lm="204">
+      <i>204</i>
+      <par n="__pr" />
+    </e>
+    <e lm="192">
+      <i>192</i>
+      <par n="__pr" />
+    </e>
+    <e lm="o,">
+      <i>o,</i>
+      <par n="__pr" />
+    </e>
     <e lm="nuntempa">
       <i>nuntemp</i>
       <par n="a__adj" />
@@ -8126,6 +9870,10 @@
     <e lm="muzikisti">
       <i>muzikisti</i>
       <par n="o__n" />
+    </e>
+    <e lm="1,">
+      <i>1,</i>
+      <par n="__pr" />
     </e>
     <e lm="retrovenis">
       <i>retrovenis</i>
@@ -8195,6 +9943,10 @@
       <i>illinois</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="lux">
+      <i>lux</i>
+      <par n="__pr" />
+    </e>
     <e lm="parolanti">
       <i>parolanti</i>
       <par n="o__n" />
@@ -8259,6 +10011,10 @@
       <i>jaceyi</i>
       <par n="o__n" />
     </e>
+    <e lm="is">
+      <i>is</i>
+      <par n="__pr" />
+    </e>
     <e lm="uli">
       <i>uli</i>
       <par n="o__n" />
@@ -8299,13 +10055,25 @@
       <i>nutriv</i>
       <par n="o__n" />
     </e>
+    <e lm="%),">
+      <i>%),</i>
+      <par n="__pr" />
+    </e>
     <e lm="exkomono">
       <i>exkomon</i>
       <par n="o__n" />
     </e>
+    <e lm="khl">
+      <i>khl</i>
+      <par n="__pr" />
+    </e>
     <e lm="principi">
       <i>principi</i>
       <par n="o__n" />
+    </e>
+    <e lm="ĝi">
+      <i>ĝi</i>
+      <par n="__pr" />
     </e>
     <e lm="procedi">
       <i>procedi</i>
@@ -8366,6 +10134,18 @@
     <e lm="blue">
       <i>blu</i>
       <par n="e__adv" />
+    </e>
+    <e lm="4.1">
+      <i>4.1</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ref">
+      <i>ref</i>
+      <par n="__pr" />
+    </e>
+    <e lm="280">
+      <i>280</i>
+      <par n="__pr" />
     </e>
     <e lm="nominesas">
       <i>nominesas</i>
@@ -8479,6 +10259,10 @@
       <i>asemblitar</i>
       <par n="o__n" />
     </e>
+    <e lm="350">
+      <i>350</i>
+      <par n="__pr" />
+    </e>
     <e lm="maxim-multa-kaze">
       <i>maxim-multa-kaz</i>
       <par n="e__adv" />
@@ -8487,17 +10271,37 @@
       <i>ent</i>
       <par n="o__n" />
     </e>
+    <e lm="241">
+      <i>241</i>
+      <par n="__pr" />
+    </e>
+    <e lm="216">
+      <i>216</i>
+      <par n="__pr" />
+    </e>
     <e lm="firmo">
       <i>firm</i>
       <par n="o__n" />
+    </e>
+    <e lm="219">
+      <i>219</i>
+      <par n="__pr" />
     </e>
     <e lm="valori">
       <i>valori</i>
       <par n="o__n" />
     </e>
+    <e lm="224">
+      <i>224</i>
+      <par n="__pr" />
+    </e>
     <e lm="mariajofestala">
       <i>mariajofestal</i>
       <par n="a__adj" />
+    </e>
+    <e lm="es:">
+      <i>es:</i>
+      <par n="__pr" />
     </e>
     <e lm="chanjar">
       <i>chanj</i>
@@ -8551,9 +10355,29 @@
       <i>movement</i>
       <par n="o__n" />
     </e>
+    <e lm="234">
+      <i>234</i>
+      <par n="__pr" />
+    </e>
+    <e lm="187">
+      <i>187</i>
+      <par n="__pr" />
+    </e>
     <e lm="forci">
       <i>forci</i>
       <par n="o__n" />
+    </e>
+    <e lm="18,">
+      <i>18,</i>
+      <par n="__pr" />
+    </e>
+    <e lm="4.7">
+      <i>4.7</i>
+      <par n="__pr" />
+    </e>
+    <e lm="3.8">
+      <i>3.8</i>
+      <par n="__pr" />
     </e>
     <e lm="kontributis">
       <i>kontributis</i>
@@ -8599,6 +10423,10 @@
       <i>pabl</i>
       <par n="o__n" />
     </e>
+    <e lm="217">
+      <i>217</i>
+      <par n="__pr" />
+    </e>
     <e lm="ekonomikala">
       <i>ekonomikal</i>
       <par n="a__adj" />
@@ -8642,6 +10470,10 @@
     <e lm="celuli">
       <i>celuli</i>
       <par n="o__n" />
+    </e>
+    <e lm="255">
+      <i>255</i>
+      <par n="__pr" />
     </e>
     <e lm="plantacerii">
       <i>plantacerii</i>
@@ -8727,6 +10559,26 @@
       <i>kloki</i>
       <par n="o__n" />
     </e>
+    <e lm="213">
+      <i>213</i>
+      <par n="__pr" />
+    </e>
+    <e lm="254">
+      <i>254</i>
+      <par n="__pr" />
+    </e>
+    <e lm="231">
+      <i>231</i>
+      <par n="__pr" />
+    </e>
+    <e lm="238">
+      <i>238</i>
+      <par n="__pr" />
+    </e>
+    <e lm="251">
+      <i>251</i>
+      <par n="__pr" />
+    </e>
     <e lm="manui">
       <i>manui</i>
       <par n="o__n" />
@@ -8735,6 +10587,14 @@
       <i>miami</i>
       <par n="o__n" />
     </e>
+    <e lm="you">
+      <i>you</i>
+      <par n="__pr" />
+    </e>
+    <e lm="2.9">
+      <i>2.9</i>
+      <par n="__pr" />
+    </e>
     <e lm="mazovia">
       <i>mazovi</i>
       <par n="a__adj" />
@@ -8742,6 +10602,10 @@
     <e lm="principo">
       <i>princip</i>
       <par n="o__n" />
+    </e>
+    <e lm="(di">
+      <i>(di</i>
+      <par n="__pr" />
     </e>
     <e lm="austria-hungaria">
       <i>austria-hungari</i>
@@ -8762,6 +10626,10 @@
     <e lm="praha">
       <i>prah</i>
       <par n="a__adj" />
+    </e>
+    <e lm="236">
+      <i>236</i>
+      <par n="__pr" />
     </e>
     <e lm="cinematografuro">
       <i>cinematografur</i>
@@ -8787,6 +10655,10 @@
       <i>donit</i>
       <par n="a__adj" />
     </e>
+    <e lm="232">
+      <i>232</i>
+      <par n="__pr" />
+    </e>
     <e lm="programi">
       <i>programi</i>
       <par n="o__n" />
@@ -8802,6 +10674,10 @@
     <e lm="kinesma">
       <i>kinesm</i>
       <par n="a__adj" />
+    </e>
+    <e lm=":*">
+      <i>:*</i>
+      <par n="__pr" />
     </e>
     <e lm="princio">
       <i>princi</i>
@@ -8915,6 +10791,10 @@
       <i>konquestesis</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="lu.">
+      <i>lu.</i>
+      <par n="__pr" />
+    </e>
     <e lm="ruda">
       <i>rud</i>
       <par n="a__adj" />
@@ -8986,6 +10866,14 @@
     <e lm="prizentis">
       <i>prizentis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="221">
+      <i>221</i>
+      <par n="__pr" />
+    </e>
+    <e lm="246">
+      <i>246</i>
+      <par n="__pr" />
     </e>
     <e lm="unajo">
       <i>unaj</i>
@@ -9075,6 +10963,10 @@
       <i>nask</i>
       <par n="o__n" />
     </e>
+    <e lm="han">
+      <i>han</i>
+      <par n="__pr" />
+    </e>
     <e lm="pelo">
       <i>pel</i>
       <par n="o__n" />
@@ -9114,6 +11006,18 @@
     <e lm="kafeo">
       <i>kafe</i>
       <par n="o__n" />
+    </e>
+    <e lm="237">
+      <i>237</i>
+      <par n="__pr" />
+    </e>
+    <e lm="247">
+      <i>247</i>
+      <par n="__pr" />
+    </e>
+    <e lm="218">
+      <i>218</i>
+      <par n="__pr" />
     </e>
     <e lm="funcioni">
       <i>funcioni</i>
@@ -9166,6 +11070,10 @@
     <e lm="albumo">
       <i>album</i>
       <par n="o__n" />
+    </e>
+    <e lm="und">
+      <i>und</i>
+      <par n="__pr" />
     </e>
     <e lm="émile">
       <i>émil</i>
@@ -9238,6 +11146,14 @@
     <e lm="rezideyo">
       <i>rezidey</i>
       <par n="o__n" />
+    </e>
+    <e lm="268">
+      <i>268</i>
+      <par n="__pr" />
+    </e>
+    <e lm="205">
+      <i>205</i>
+      <par n="__pr" />
     </e>
     <e lm="turniro">
       <i>turnir</i>
@@ -9315,6 +11231,10 @@
       <i>defin</i>
       <par n="o__n" />
     </e>
+    <e lm="su,">
+      <i>su,</i>
+      <par n="__pr" />
+    </e>
     <e lm="falio">
       <i>fali</i>
       <par n="o__n" />
@@ -9334,6 +11254,10 @@
     <e lm="inkluzante">
       <i>inkluzant</i>
       <par n="e__adv" />
+    </e>
+    <e lm="ex">
+      <i>ex</i>
+      <par n="__pr" />
     </e>
     <e lm="karibia">
       <i>karibi</i>
@@ -9362,6 +11286,10 @@
     <e lm="vargas">
       <i>vargas</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="252">
+      <i>252</i>
+      <par n="__pr" />
     </e>
     <e lm="ciklono">
       <i>ciklon</i>
@@ -9399,6 +11327,10 @@
       <i>plaji</i>
       <par n="o__n" />
     </e>
+    <e lm="228">
+      <i>228</i>
+      <par n="__pr" />
+    </e>
     <e lm="nominesis">
       <i>nominesis</i>
       <par n="ar__vblex" />
@@ -9410,6 +11342,10 @@
     <e lm="certe">
       <i>cert</i>
       <par n="e__adv" />
+    </e>
+    <e lm="it">
+      <i>it</i>
+      <par n="__pr" />
     </e>
     <e lm="neutra">
       <i>neutr</i>
@@ -9447,6 +11383,10 @@
       <i>kordi</i>
       <par n="o__n" />
     </e>
+    <e lm="bob">
+      <i>bob</i>
+      <par n="__pr" />
+    </e>
     <e lm="negra">
       <i>negr</i>
       <par n="a__adj" />
@@ -9471,6 +11411,10 @@
       <i>municipi</i>
       <par n="o__n" />
     </e>
+    <e lm="am">
+      <i>am</i>
+      <par n="__pr" />
+    </e>
     <e lm="furnisar">
       <i>furnis</i>
       <par n="ar__vblex" />
@@ -9478,6 +11422,14 @@
     <e lm="atraktis">
       <i>atraktis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="239">
+      <i>239</i>
+      <par n="__pr" />
+    </e>
+    <e lm="270">
+      <i>270</i>
+      <par n="__pr" />
     </e>
     <e lm="grandaparte">
       <i>grandapart</i>
@@ -9510,6 +11462,10 @@
     <e lm="igar">
       <i>ig</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="hip">
+      <i>hip</i>
+      <par n="__pr" />
     </e>
     <e lm="diferi">
       <i>diferi</i>
@@ -9603,6 +11559,14 @@
       <i>mat</i>
       <par n="o__n" />
     </e>
+    <e lm="4.2">
+      <i>4.2</i>
+      <par n="__pr" />
+    </e>
+    <e lm="ed,">
+      <i>ed,</i>
+      <par n="__pr" />
+    </e>
     <e lm="litero">
       <i>liter</i>
       <par n="o__n" />
@@ -9651,6 +11615,10 @@
       <i>lans</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="my">
+      <i>my</i>
+      <par n="__pr" />
+    </e>
     <e lm="decendanti">
       <i>decendanti</i>
       <par n="o__n" />
@@ -9658,6 +11626,10 @@
     <e lm="krulo">
       <i>krul</i>
       <par n="o__n" />
+    </e>
+    <e lm="4.9">
+      <i>4.9</i>
+      <par n="__pr" />
     </e>
     <e lm="fina">
       <i>fin</i>
@@ -9687,6 +11659,10 @@
       <i>kirki</i>
       <par n="o__n" />
     </e>
+    <e lm="5.2">
+      <i>5.2</i>
+      <par n="__pr" />
+    </e>
     <e lm="specale">
       <i>specal</i>
       <par n="e__adv" />
@@ -9694,6 +11670,10 @@
     <e lm="natado">
       <i>natad</i>
       <par n="o__n" />
+    </e>
+    <e lm="4.6">
+      <i>4.6</i>
+      <par n="__pr" />
     </e>
     <e lm="ganisto">
       <i>ganist</i>
@@ -9710,6 +11690,10 @@
     <e lm="krimea">
       <i>krime</i>
       <par n="a__adj" />
+    </e>
+    <e lm="(c">
+      <i>(c</i>
+      <par n="__pr" />
     </e>
     <e lm="arboro">
       <i>arbor</i>
@@ -9771,6 +11755,10 @@
       <i>posibles</i>
       <par n="o__n" />
     </e>
+    <e lm="227">
+      <i>227</i>
+      <par n="__pr" />
+    </e>
     <e lm="historiisti">
       <i>historiisti</i>
       <par n="o__n" />
@@ -9786,6 +11774,10 @@
     <e lm="aproxime">
       <i>aproxim</i>
       <par n="e__adv" />
+    </e>
+    <e lm="ray">
+      <i>ray</i>
+      <par n="__pr" />
     </e>
     <e lm="revokesas">
       <i>revokesas</i>
@@ -9831,6 +11823,10 @@
       <i>sovaj</i>
       <par n="a__adj" />
     </e>
+    <e lm="at">
+      <i>at</i>
+      <par n="__pr" />
+    </e>
     <e lm="periodi">
       <i>periodi</i>
       <par n="o__n" />
@@ -9871,6 +11867,14 @@
       <i>kavalieri</i>
       <par n="o__n" />
     </e>
+    <e lm="259">
+      <i>259</i>
+      <par n="__pr" />
+    </e>
+    <e lm="248">
+      <i>248</i>
+      <par n="__pr" />
+    </e>
     <e lm="state">
       <i>stat</i>
       <par n="e__adv" />
@@ -9879,9 +11883,25 @@
       <i>uef</i>
       <par n="a__adj" />
     </e>
+    <e lm="267">
+      <i>267</i>
+      <par n="__pr" />
+    </e>
+    <e lm="261">
+      <i>261</i>
+      <par n="__pr" />
+    </e>
+    <e lm="258">
+      <i>258</i>
+      <par n="__pr" />
+    </e>
     <e lm="nemediate">
       <i>nemediat</i>
       <par n="e__adv" />
+    </e>
+    <e lm="aŭ">
+      <i>aŭ</i>
+      <par n="__pr" />
     </e>
     <e lm="małe">
       <i>mał</i>
@@ -9975,6 +11995,30 @@
       <i>bombard</i>
       <par n="o__n" />
     </e>
+    <e lm="cm">
+      <i>cm</i>
+      <par n="__pr" />
+    </e>
+    <e lm="249">
+      <i>249</i>
+      <par n="__pr" />
+    </e>
+    <e lm="244">
+      <i>244</i>
+      <par n="__pr" />
+    </e>
+    <e lm="5.5">
+      <i>5.5</i>
+      <par n="__pr" />
+    </e>
+    <e lm="275">
+      <i>275</i>
+      <par n="__pr" />
+    </e>
+    <e lm="kg,">
+      <i>kg,</i>
+      <par n="__pr" />
+    </e>
     <e lm="ˈvulka">
       <i>ˈvulk</i>
       <par n="a__adj" />
@@ -10046,6 +12090,10 @@
     <e lm="judikesis">
       <i>judikesis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="5.0">
+      <i>5.0</i>
+      <par n="__pr" />
     </e>
     <e lm="auxiliara">
       <i>auxiliar</i>
@@ -10127,6 +12175,10 @@
       <i>sukr</i>
       <par n="o__n" />
     </e>
+    <e lm="271">
+      <i>271</i>
+      <par n="__pr" />
+    </e>
     <e lm="chicago">
       <i>chicag</i>
       <par n="o__n" />
@@ -10134,6 +12186,10 @@
     <e lm="foyo">
       <i>foy</i>
       <par n="o__n" />
+    </e>
+    <e lm="».">
+      <i>».</i>
+      <par n="__pr" />
     </e>
     <e lm="konoco">
       <i>konoc</i>
@@ -10154,6 +12210,10 @@
     <e lm="konocis">
       <i>konocis</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="das">
+      <i>das</i>
+      <par n="__pr" />
     </e>
     <e lm="kauzi">
       <i>kauzi</i>
@@ -10186,6 +12246,10 @@
     <e lm="nivo">
       <i>niv</i>
       <par n="o__n" />
+    </e>
+    <e lm="10%">
+      <i>10%</i>
+      <par n="__pr" />
     </e>
     <e lm="augustus">
       <i>augustus</i>
@@ -10930,6 +12994,10 @@
     <e lm="ameskar">
       <i>amesk</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm=".an">
+      <i>.an</i>
+      <par n="__pr" />
     </e>
     <e lm="incendiala">
       <i>incendial</i>
@@ -14199,6 +16267,10 @@
       <i>Azulej</i>
       <par n="o__n" />
     </e>
+    <e lm="Ba'as-partiso">
+      <i>Ba'as-partis</i>
+      <par n="o__n" />
+    </e>
     <e lm="Babayevo">
       <i>Babayev</i>
       <par n="o__n" />
@@ -14293,6 +16365,10 @@
     </e>
     <e lm="Balkan-militi">
       <i>Balkan-militi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Balkano-Latinida linguaro">
+      <i>Balkano-Latinida linguar</i>
       <par n="o__n" />
     </e>
     <e lm="Baltia">
@@ -15135,6 +17211,10 @@
       <i>Bychaw</i>
       <par n="a__adj" />
     </e>
+    <e lm="C-Train">
+      <i>C-Train</i>
+      <par n="o__n" />
+    </e>
     <e lm="Cacabelos">
       <i>Cacabelos</i>
       <par n="ar__vblex" />
@@ -15322,6 +17402,10 @@
     <e lm="Cel-pafisto">
       <i>Cel-pafist</i>
       <par n="o__n" />
+    </e>
+    <e lm="Celibo kontre-vola">
+      <i>Celibo kontre-vol</i>
+      <par n="a__adj" />
     </e>
     <e lm="Ceno-materialo">
       <i>Ceno-material</i>
@@ -15545,6 +17629,10 @@
     </e>
     <e lm="Cirkoncizo">
       <i>Cirkonciz</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Cirkuito eniro-ekiro">
+      <i>Cirkuito eniro-ekir</i>
       <par n="o__n" />
     </e>
     <e lm="Cisjordania">
@@ -16079,6 +18167,10 @@
       <i>Dohm</i>
       <par n="a__adj" />
     </e>
+    <e lm="Dolca kapo-martelo">
+      <i>Dolca kapo-martel</i>
+      <par n="o__n" />
+    </e>
     <e lm="Domeno-nomo">
       <i>Domeno-nom</i>
       <par n="o__n" />
@@ -16145,6 +18237,10 @@
     </e>
     <e lm="Driadi">
       <i>Driadi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Dron-imitanta tormento">
+      <i>Dron-imitanta torment</i>
       <par n="o__n" />
     </e>
     <e lm="Dronto">
@@ -16633,6 +18729,10 @@
     </e>
     <e lm="Eskamot-arto">
       <i>Eskamot-art</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Eskimo-Aleuta linguaro">
+      <i>Eskimo-Aleuta linguar</i>
       <par n="o__n" />
     </e>
     <e lm="Eskopeto">
@@ -17435,6 +19535,14 @@
       <i>Gal</i>
       <par n="o__n" />
     </e>
+    <e lm="Galo-Italiana linguaro">
+      <i>Galo-Italiana linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Galo-Latinida linguaro">
+      <i>Galo-Latinida linguar</i>
+      <par n="o__n" />
+    </e>
     <e lm="Galosho">
       <i>Galosh</i>
       <par n="o__n" />
@@ -17823,6 +19931,14 @@
       <i>Gravit</i>
       <par n="o__n" />
     </e>
+    <e lm="Greka-Persiana militi">
+      <i>Greka-Persiana militi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Greka-Romana misterii">
+      <i>Greka-Romana misterii</i>
+      <par n="o__n" />
+    </e>
     <e lm="Grelo">
       <i>Grel</i>
       <par n="o__n" />
@@ -17897,6 +20013,10 @@
     </e>
     <e lm="Gugoloplexo">
       <i>Gugoloplex</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Guidat arm-fuzeo">
+      <i>Guidat arm-fuze</i>
       <par n="o__n" />
     </e>
     <e lm="Gulo">
@@ -18543,6 +20663,10 @@
       <i>Hom-ocid</i>
       <par n="o__n" />
     </e>
+    <e lm="Homala papilo-viruso">
+      <i>Homala papilo-virus</i>
+      <par n="o__n" />
+    </e>
     <e lm="Homaranismo">
       <i>Homaranism</i>
       <par n="o__n" />
@@ -18690,6 +20814,10 @@
     <e lm="Ianus">
       <i>Ianus</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="Ibero-Latinida linguaro">
+      <i>Ibero-Latinida linguar</i>
+      <par n="o__n" />
     </e>
     <e lm="Ibiso">
       <i>Ibis</i>
@@ -18867,6 +20995,10 @@
       <i>Indi</i>
       <par n="o__n" />
     </e>
+    <e lm="Indo-Ariana lingui">
+      <i>Indo-Ariana lingui</i>
+      <par n="o__n" />
+    </e>
     <e lm="Indochinia">
       <i>Indochini</i>
       <par n="a__adj" />
@@ -18955,6 +21087,10 @@
       <i>Inteligentar</i>
       <par n="o__n" />
     </e>
+    <e lm="Inter-Slava linguo">
+      <i>Inter-Slava lingu</i>
+      <par n="o__n" />
+    </e>
     <e lm="Interago">
       <i>Interag</i>
       <par n="o__n" />
@@ -19037,6 +21173,10 @@
     </e>
     <e lm="Iskemio">
       <i>Iskemi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Istro-Rumaniana linguo">
+      <i>Istro-Rumaniana lingu</i>
       <par n="o__n" />
     </e>
     <e lm="Itabirito">
@@ -20159,6 +22299,10 @@
       <i>Konsum</i>
       <par n="o__n" />
     </e>
+    <e lm="Kontinentala ter-krusto">
+      <i>Kontinentala ter-krust</i>
+      <par n="o__n" />
+    </e>
     <e lm="Kontradanso">
       <i>Kontradans</i>
       <par n="o__n" />
@@ -20383,6 +22527,10 @@
       <i>Krik</i>
       <par n="o__n" />
     </e>
+    <e lm="Krimean-Tatara linguo">
+      <i>Krimean-Tatara lingu</i>
+      <par n="o__n" />
+    </e>
     <e lm="Krimino">
       <i>Krimin</i>
       <par n="o__n" />
@@ -20461,6 +22609,10 @@
     </e>
     <e lm="Krosno">
       <i>Krosn</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kroz-aviacant armo">
+      <i>Kroz-aviacant arm</i>
       <par n="o__n" />
     </e>
     <e lm="Krucago">
@@ -21251,6 +23403,10 @@
       <i>Malaya-lingu</i>
       <par n="o__n" />
     </e>
+    <e lm="Malaya-Polineziana lingui">
+      <i>Malaya-Polineziana lingui</i>
+      <par n="o__n" />
+    </e>
     <e lm="Malcocinado">
       <i>Malcocinad</i>
       <par n="o__n" />
@@ -21553,6 +23709,10 @@
     </e>
     <e lm="Megaterio">
       <i>Megateri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Megleno-Rumaniana linguo">
+      <i>Megleno-Rumaniana lingu</i>
       <par n="o__n" />
     </e>
     <e lm="Meitnerio">
@@ -22179,6 +24339,10 @@
       <i>Moskorat</i>
       <par n="o__n" />
     </e>
+    <e lm="Moskva-kremlin">
+      <i>Moskva-kremlin</i>
+      <par n="o__n" />
+    </e>
     <e lm="Mostar">
       <i>Most</i>
       <par n="ar__vblex" />
@@ -22193,6 +24357,10 @@
     </e>
     <e lm="Mowgli">
       <i>Mowgli</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Muammar al-Qaddafi">
+      <i>Muammar al-Qaddafi</i>
       <par n="o__n" />
     </e>
     <e lm="Mucilajo">
@@ -22393,6 +24561,18 @@
     </e>
     <e lm="Naziismo">
       <i>Naziism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ne-binara genro">
+      <i>Ne-binara genr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ne-guvernerial organizuro">
+      <i>Ne-guvernerial organizur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ne-profitema organizuro">
+      <i>Ne-profitema organizur</i>
       <par n="o__n" />
     </e>
     <e lm="Nebraska">
@@ -22603,6 +24783,10 @@
       <i>Nord-Afrik</i>
       <par n="a__adj" />
     </e>
+    <e lm="Nord-Irlandana konflikto">
+      <i>Nord-Irlandana konflikt</i>
+      <par n="o__n" />
+    </e>
     <e lm="Nord-Karelia">
       <i>Nord-Kareli</i>
       <par n="a__adj" />
@@ -22690,6 +24874,10 @@
     <e lm="Nukleik-acido">
       <i>Nukleik-acid</i>
       <par n="o__n" />
+    </e>
+    <e lm="Nuku'alofa">
+      <i>Nuku'alof</i>
+      <par n="a__adj" />
     </e>
     <e lm="Numeralo">
       <i>Numeral</i>
@@ -24727,6 +26915,10 @@
       <i>Rekurs</i>
       <par n="o__n" />
     </e>
+    <e lm="Religio-militeral ordeno">
+      <i>Religio-militeral orden</i>
+      <par n="o__n" />
+    </e>
     <e lm="Rello">
       <i>Rell</i>
       <par n="o__n" />
@@ -24781,6 +26973,10 @@
     </e>
     <e lm="Retino">
       <i>Retin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Reto-Latinida linguaro">
+      <i>Reto-Latinida linguar</i>
       <par n="o__n" />
     </e>
     <e lm="Retokarto">
@@ -25379,6 +27575,10 @@
       <i>Seogwip</i>
       <par n="o__n" />
     </e>
+    <e lm="Sep-yara milito">
+      <i>Sep-yara milit</i>
+      <par n="o__n" />
+    </e>
     <e lm="Sepultura">
       <i>Sepultur</i>
       <par n="a__adj" />
@@ -25759,6 +27959,10 @@
       <i>Skorzoner</i>
       <par n="o__n" />
     </e>
+    <e lm="Skota-Gaelana linguo">
+      <i>Skota-Gaelana lingu</i>
+      <par n="o__n" />
+    </e>
     <e lm="Skren-kaptajo">
       <i>Skren-kaptaj</i>
       <par n="o__n" />
@@ -25809,6 +28013,10 @@
     </e>
     <e lm="Sochi">
       <i>Sochi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Social amas-komunikili">
+      <i>Social amas-komunikili</i>
       <par n="o__n" />
     </e>
     <e lm="Socialdemokratio">
@@ -26214,6 +28422,10 @@
     <e lm="Sucre">
       <i>Sucr</i>
       <par n="e__adv" />
+    </e>
+    <e lm="Sud-Estoniana linguo">
+      <i>Sud-Estoniana lingu</i>
+      <par n="o__n" />
     </e>
     <e lm="Sud-Karelia">
       <i>Sud-Kareli</i>
@@ -26755,6 +28967,10 @@
       <i>Ter-plak</i>
       <par n="o__n" />
     </e>
+    <e lm="Ter-varmesal energio">
+      <i>Ter-varmesal energi</i>
+      <par n="o__n" />
+    </e>
     <e lm="Ter-veno">
       <i>Ter-ven</i>
       <par n="o__n" />
@@ -27287,6 +29503,10 @@
       <i>Trest</i>
       <par n="o__n" />
     </e>
+    <e lm="Tri-dimensionala spaco">
+      <i>Tri-dimensionala spac</i>
+      <par n="o__n" />
+    </e>
     <e lm="Triaso">
       <i>Trias</i>
       <par n="o__n" />
@@ -27601,6 +29821,10 @@
     </e>
     <e lm="Upupo">
       <i>Upup</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Uralika-Siberia linguaro">
+      <i>Uralika-Siberia linguar</i>
       <par n="o__n" />
     </e>
     <e lm="Urbino">
@@ -28463,6 +30687,10 @@
       <i>Astat</i>
       <par n="o__n" />
     </e>
+    <e lm="Bourbon">
+      <i>Bourbon</i>
+      <par n="o__n" />
+    </e>
     <e lm="Cielarko-flago">
       <i>Cielarko-flag</i>
       <par n="o__n" />
@@ -28477,6 +30705,10 @@
     </e>
     <e lm="Dubai">
       <i>Dubai</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Flotacinta glacimonto">
+      <i>Flotacinta glacimont</i>
       <par n="o__n" />
     </e>
     <e lm="Gaza">
@@ -28499,12 +30731,24 @@
       <i>Holand</i>
       <par n="o__n" />
     </e>
+    <e lm="Indial oceano">
+      <i>Indial ocean</i>
+      <par n="o__n" />
+    </e>
     <e lm="Ingermanlando">
       <i>Ingermanland</i>
       <par n="o__n" />
     </e>
+    <e lm="Japonian imperio">
+      <i>Japonian imperi</i>
+      <par n="o__n" />
+    </e>
     <e lm="Kab-urbo">
       <i>Kab-urb</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komunista stato">
+      <i>Komunista stat</i>
       <par n="o__n" />
     </e>
     <e lm="Kurlando">
@@ -28527,6 +30771,10 @@
       <i>Montoacensad</i>
       <par n="o__n" />
     </e>
+    <e lm="Nord-Chungchong provinco">
+      <i>Nord-Chungchong provinc</i>
+      <par n="o__n" />
+    </e>
     <e lm="Nord-Holando">
       <i>Nord-Holand</i>
       <par n="o__n" />
@@ -28539,6 +30787,14 @@
       <i>Nova-Nederland</i>
       <par n="o__n" />
     </e>
+    <e lm="Otoman imperio">
+      <i>Otoman imperi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Palestinana stato">
+      <i>Palestinana stat</i>
+      <par n="o__n" />
+    </e>
     <e lm="Panama-urbo">
       <i>Panama-urb</i>
       <par n="o__n" />
@@ -28546,6 +30802,10 @@
     <e lm="Pask-insulo">
       <i>Pask-insul</i>
       <par n="o__n" />
+    </e>
+    <e lm="Perturbo bipolara">
+      <i>Perturbo bipolar</i>
+      <par n="a__adj" />
     </e>
     <e lm="Promontorio">
       <i>Promontori</i>
@@ -28559,8 +30819,20 @@
       <i>Rhenlando-Palateni</i>
       <par n="o__n" />
     </e>
+    <e lm="Rusa imperio">
+      <i>Rusa imperi</i>
+      <par n="o__n" />
+    </e>
     <e lm="Salta">
       <i>Salt</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Sociala stando">
+      <i>Sociala stand</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Stato sociala">
+      <i>Stato social</i>
       <par n="a__adj" />
     </e>
     <e lm="Statoro">
@@ -28583,6 +30855,14 @@
       <i>Turbot</i>
       <par n="o__n" />
     </e>
+    <e lm="Urbala varmeges-insulo">
+      <i>Urbala varmeges-insul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Urbala yuri">
+      <i>Urbala yuri</i>
+      <par n="o__n" />
+    </e>
     <e lm="Urbostato">
       <i>Urbostat</i>
       <par n="o__n" />
@@ -28591,13 +30871,2893 @@
       <i>Venus-mont</i>
       <par n="o__n" />
     </e>
+    <e lm="Abstrakt algebro">
+      <i>Abstrakt algebr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Abstrakt expresionismo">
+      <i>Abstrakt expresionism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Acida kremo">
+      <i>Acida krem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Acida pluvo">
+      <i>Acida pluv</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Acidento trafikala">
+      <i>Acidento trafikal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Aerobikala gimnastiko">
+      <i>Aerobikala gimnastik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Agamemnon">
+      <i>Agamemnon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Agrokultivala revoluciono">
+      <i>Agrokultivala revolucion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ahenaton">
+      <i>Ahenaton</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Aison">
+      <i>Aison</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Akademiala termino">
+      <i>Akademiala termin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Alfabetal ordineso">
+      <i>Alfabetal ordines</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Algebral elemento">
+      <i>Algebral element</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Algebral equaciono">
+      <i>Algebral equacion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Algebrala nombro">
+      <i>Algebrala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Algebrala strukturo">
+      <i>Algebrala struktur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Algebrala topologio">
+      <i>Algebrala topologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Alkaliatra metalo">
+      <i>Alkaliatra metal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Alkoholoza drinkaji">
+      <i>Alkoholoza drinkaji</i>
+      <par n="o__n" />
+    </e>
     <e lm="Almaluez">
       <i>Almaluez</i>
       <par n="ar__vblex" />
     </e>
+    <e lm="Alta teknologio">
+      <i>Alta teknologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Altaika linguaro">
+      <i>Altaika linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Alzaciana linguo">
+      <i>Alzaciana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Amas extingo">
+      <i>Amas exting</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Amatora radio">
+      <i>Amatora radi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Amatoral astronomio">
+      <i>Amatoral astronomi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ambientala cienco">
+      <i>Ambientala cienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Amfiktion">
+      <i>Amfiktion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Amfitrion">
+      <i>Amfitrion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Amniotala ovo">
+      <i>Amniotala ov</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Analitikala geometrio">
+      <i>Analitikala geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Analizala filozofio">
+      <i>Analizala filozofi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Angla linguo">
+      <i>Angla lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Anglosaxona linguo">
+      <i>Anglosaxona lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Animo komputerala">
+      <i>Animo komputeral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Apertita fonto">
+      <i>Apertita font</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Aplikata cienci">
+      <i>Aplikata cienci</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Aplikata matematiko">
+      <i>Aplikata matematik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Apollon">
+      <i>Apollon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Aquo subterala">
+      <i>Aquo subteral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Araba alfabeto">
+      <i>Araba alfabet</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Araba mondo">
+      <i>Araba mond</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arabiana linguo">
+      <i>Arabiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Aragonana linguo">
+      <i>Aragonana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arboral animalo">
+      <i>Arboral animal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arida klimato">
+      <i>Arida klimat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arieto hidraulikala">
+      <i>Arieto hidraulikal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Aritmetikala progresiono">
+      <i>Aritmetikala progresion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Armeniana gentocido">
+      <i>Armeniana gentocid</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Armizita rebelo">
+      <i>Armizita rebel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arpitana linguo">
+      <i>Arpitana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Artala lingui">
+      <i>Artala lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Artala movado">
+      <i>Artala movad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Artala sketado">
+      <i>Artala sketad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Artifical inteligenteso">
+      <i>Artifical inteligentes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Artificala satelito">
+      <i>Artificala satelit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arturala legendi">
+      <i>Arturala legendi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Arumaniana linguo">
+      <i>Arumaniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Askorbata acido">
+      <i>Askorbata acid</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Astronomiala unajo">
+      <i>Astronomiala unaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Asturiana linguo">
+      <i>Asturiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Atmosferala polutajo">
+      <i>Atmosferala polutaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Atomala nombro">
+      <i>Atomala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Australiana dolaro">
+      <i>Australiana dolar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Austroneziana linguaro">
+      <i>Austroneziana linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Avestana linguo">
+      <i>Avestana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Avionala transportonavo">
+      <i>Avionala transportonav</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Azerbaijanana linguo">
+      <i>Azerbaijanana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bahrain">
+      <i>Bahrain</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Baleno blua">
+      <i>Baleno blu</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Baltika lingui">
+      <i>Baltika lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Baskiana linguo">
+      <i>Baskiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Baskiana nacionalismo">
+      <i>Baskiana nacionalism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bellerofon">
+      <i>Bellerofon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Benin">
+      <i>Benin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Berberiana lingui">
+      <i>Berberiana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bibliotheca historica">
+      <i>Bibliotheca historic</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Bica signato">
+      <i>Bica signat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bielorusa linguo">
+      <i>Bielorusa lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Binara nombrosistemo">
+      <i>Binara nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Binomiala koeficiento">
+      <i>Binomiala koeficient</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Biologiala interakto">
+      <i>Biologiala interakt</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Biomedicinal injeniorarto">
+      <i>Biomedicinal injeniorart</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bisextila yaro">
+      <i>Bisextila yar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bitcoin">
+      <i>Bitcoin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Blanka magio">
+      <i>Blanka magi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Blanka populo">
+      <i>Blanka popul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Blua jeo">
+      <i>Blua je</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Booleana algebro">
+      <i>Booleana algebr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Boreala foresto">
+      <i>Boreala forest</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bosniana linguo">
+      <i>Bosniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bretoniana linguo">
+      <i>Bretoniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Britaniana pundo">
+      <i>Britaniana pund</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Browniana movemento">
+      <i>Browniana movement</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bruna linco">
+      <i>Bruna linc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Bulgara linguo">
+      <i>Bulgara lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Burgundiana linguo">
+      <i>Burgundiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Carcharodon carcharias">
+      <i>Carcharodon carcharias</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Celulala biologio">
+      <i>Celulala biologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Celulala teorio">
+      <i>Celulala teori</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Central angulo">
+      <i>Central angul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Centrala banko">
+      <i>Centrala bank</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Centrala potenti">
+      <i>Centrala potenti</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Centyara milito">
+      <i>Centyara milit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Cetonio orea">
+      <i>Cetonio ore</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Chadana lingui">
+      <i>Chadana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Chador">
+      <i>Chador</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Chefa plumo">
+      <i>Chefa plum</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Cheka linguo">
+      <i>Cheka lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Chiliana peso">
+      <i>Chiliana pes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Chiniala kalendario">
+      <i>Chiniala kalendari</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Cielala mekaniko">
+      <i>Cielala mekanik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Cielala sfero">
+      <i>Cielala sfer</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ciencal explorado">
+      <i>Ciencal explorad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ciencal fiktiveso">
+      <i>Ciencal fiktives</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ciencala komunitato">
+      <i>Ciencala komunitat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ciencala metodo">
+      <i>Ciencala metod</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ciencala revuo">
+      <i>Ciencala revu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Cinetik energio">
+      <i>Cinetik energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Civila yurocienco">
+      <i>Civila yurocienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Civitano cienco">
+      <i>Civitano cienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Conquistador">
+      <i>Conquistador</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Conuropsis carolinensis">
+      <i>Conuropsis carolinensis</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Daniana linguo">
+      <i>Daniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Deala probego">
+      <i>Deala probeg</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Decimala nombrosistemo">
+      <i>Decimala nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Defenso personala">
+      <i>Defenso personal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Demografiala kontado">
+      <i>Demografiala kontad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Derivata serio">
+      <i>Derivata seri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Desegnita rakonto">
+      <i>Desegnita rakont</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Deslibera programaro">
+      <i>Deslibera programar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Devanagari alfabeto">
+      <i>Devanagari alfabet</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Devon">
+      <i>Devon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Diferencial equaciono">
+      <i>Diferencial equacion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Diferenciala geometrio">
+      <i>Diferenciala geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Digestiva sistemo">
+      <i>Digestiva sistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Dijitala elektroniko">
+      <i>Dijitala elektronik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Diofantan equaciono">
+      <i>Diofantan equacion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Distinta spaco">
+      <i>Distinta spac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Distributita komputado">
+      <i>Distributita komputad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Dokumentala filmo">
+      <i>Dokumentala film</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Dopado biokemiala">
+      <i>Dopado biokemial</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Dravidana linguaro">
+      <i>Dravidana linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Duesma mondomilito">
+      <i>Duesma mondomilit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Duopla stelo">
+      <i>Duopla stel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Egipta mitologio">
+      <i>Egipta mitologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Egiptiana hieroglifi">
+      <i>Egiptiana hieroglifi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Egiptiana kalendario">
+      <i>Egiptiana kalendari</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ekleziala muziko">
+      <i>Ekleziala muzik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektra charjo">
+      <i>Elektra charj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektra feldo">
+      <i>Elektra feld</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektra konduktivo">
+      <i>Elektra konduktiv</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektra korento">
+      <i>Elektra korent</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektral energio">
+      <i>Elektral energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektrala mashino">
+      <i>Elektrala mashin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektrala rezistiveso">
+      <i>Elektrala rezistives</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektrala telegrafilo">
+      <i>Elektrala telegrafil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektromagnetala feldo">
+      <i>Elektromagnetala feld</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektromagnetik interago">
+      <i>Elektromagnetik interag</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektronala lektilo">
+      <i>Elektronala lektil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektronala libro">
+      <i>Elektronala libr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektronala sigareto">
+      <i>Elektronala sigaret</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektronikala cirkuito">
+      <i>Elektronikala cirkuit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Elektronikala komerco">
+      <i>Elektronikala komerc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Enec linguo">
+      <i>Enec lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ensembli desjuntanta">
+      <i>Ensembli desjuntant</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Ensemblo vakua">
+      <i>Ensemblo vaku</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Equatorala klimato">
+      <i>Equatorala klimat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Equitatoza komerco">
+      <i>Equitatoza komerc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Escherichia coli">
+      <i>Escherichia coli</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Esencatra oleo">
+      <i>Esencatra ole</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Estoniana linguo">
+      <i>Estoniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Etnala konflikto">
+      <i>Etnala konflikt</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Euklidana disto">
+      <i>Euklidana dist</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Euklidana geometrio">
+      <i>Euklidana geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Euklidana spaco">
+      <i>Euklidana spac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Euskara batua">
+      <i>Euskara batu</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Evolucionala psikologio">
+      <i>Evolucionala psikologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Exakta cienci">
+      <i>Exakta cienci</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Exokalorala reakto">
+      <i>Exokalorala reakt</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Extraktiva metalurgio">
+      <i>Extraktiva metalurgi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Extrema dextro">
+      <i>Extrema dextr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Extremadurana linguo">
+      <i>Extremadurana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Faerana linguo">
+      <i>Faerana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Faeton">
+      <i>Faeton</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Falsa amiko">
+      <i>Falsa amik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Falva strigo">
+      <i>Falva strig</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Familiara dicajo">
+      <i>Familiara dicaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Feala rakonto">
+      <i>Feala rakont</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Femme fatale">
+      <i>Femme fatal</i>
+      <par n="e__adv" />
+    </e>
+    <e lm="Fera kurteno">
+      <i>Fera kurten</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fervoyala transportado">
+      <i>Fervoyala transportad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fidjiana linguo">
+      <i>Fidjiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Filmo nigra">
+      <i>Filmo nigr</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Financala merkato">
+      <i>Financala merkat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Financala yaro">
+      <i>Financala yar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Finlandana linguo">
+      <i>Finlandana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fiskal austereso">
+      <i>Fiskal austeres</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fizikala lego">
+      <i>Fizikala leg</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fizikala quanteso">
+      <i>Fizikala quantes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Flava febro">
+      <i>Flava febr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Foie gras">
+      <i>Foie gras</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Forestala explotado">
+      <i>Forestala explotad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Formala cienci">
+      <i>Formala cienci</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Formala gramatiko">
+      <i>Formala gramatik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Formala linguo">
+      <i>Formala lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fortunoza nombro">
+      <i>Fortunoza nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fosila fuelo">
+      <i>Fosila fuel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fraciono unitara">
+      <i>Fraciono unitar</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Franca linguo">
+      <i>Franca lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Frenezioza komedio">
+      <i>Frenezioza komedi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Friulana linguo">
+      <i>Friulana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Friziana linguo">
+      <i>Friziana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Fronto populala">
+      <i>Fronto populal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Funcionanta sistemo">
+      <i>Funcionanta sistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Funciono injektiva">
+      <i>Funciono injektiv</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Fundamental interago">
+      <i>Fundamental interag</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Gabon">
+      <i>Gabon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Galaxiala grupo">
+      <i>Galaxiala grup</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Galiana linguo">
+      <i>Galiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Galisiana linguo">
+      <i>Galisiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Gaskoniana linguo">
+      <i>Gaskoniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Generala kirurgio">
+      <i>Generala kirurgi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Genral identeso">
+      <i>Genral identes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Geometriala figuro">
+      <i>Geometriala figur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Geometriala progresiono">
+      <i>Geometriala progresion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Germanala lingui">
+      <i>Germanala lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Germanala populi">
+      <i>Germanala populi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Germaniana linguo">
+      <i>Germaniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Giganta tukano">
+      <i>Giganta tukan</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Glia celulo">
+      <i>Glia celul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Globala koldigo">
+      <i>Globala koldig</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Gotik arkitekturo">
+      <i>Gotik arkitektur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Gotika linguo">
+      <i>Gotika lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Grafiko rastrala">
+      <i>Grafiko rastral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Grafiko vektorala">
+      <i>Grafiko vektoral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Gregoriala kalendario">
+      <i>Gregoriala kalendari</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Greka alfabeto">
+      <i>Greka alfabet</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Greka tragedio">
+      <i>Greka tragedi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Gruziana linguo">
+      <i>Gruziana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Habeas corpus">
+      <i>Habeas corpus</i>
+      <par n="o__n" />
+    </e>
     <e lm="Hafez">
       <i>Hafez</i>
       <par n="ar__vblex" />
+    </e>
+    <e lm="Hair">
+      <i>Hair</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Halucinigiva drogo">
+      <i>Halucinigiva drog</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Halucinigiva fungo">
+      <i>Halucinigiva fung</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hanti linguo">
+      <i>Hanti lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Harda disko">
+      <i>Harda disk</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hebrea kalendario">
+      <i>Hebrea kalendari</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hebrea linguo">
+      <i>Hebrea lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hektor">
+      <i>Hektor</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Hidroelektrala energio">
+      <i>Hidroelektrala energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hiperbolala geometrio">
+      <i>Hiperbolala geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hispana mararmeo">
+      <i>Hispana mararme</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hispaniana literaturo">
+      <i>Hispaniana literatur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hispanlingua literaturo">
+      <i>Hispanlingua literatur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Holodomor">
+      <i>Holodomor</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Homala cienci">
+      <i>Homala cienci</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Homala korpo">
+      <i>Homala korp</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Homala raso">
+      <i>Homala ras</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Homala skeleto">
+      <i>Homala skelet</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Homala yuri">
+      <i>Homala yuri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Horala zono">
+      <i>Horala zon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hrisaor">
+      <i>Hrisaor</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Humanoidala roboto">
+      <i>Humanoidala robot</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Hungara linguo">
+      <i>Hungara lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ibera linco">
+      <i>Ibera linc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Idmon">
+      <i>Idmon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ido reformita">
+      <i>Ido reformit</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Imaginara nombro">
+      <i>Imaginara nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Imaginara unajo">
+      <i>Imaginara unaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Imperativa programifo">
+      <i>Imperativa programif</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Imperita paro">
+      <i>Imperita par</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Indijena populi">
+      <i>Indijena populi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Indoneziana linguo">
+      <i>Indoneziana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Informala sistemo">
+      <i>Informala sistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Informala teknologio">
+      <i>Informala teknologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Informatikala kemio">
+      <i>Informatikala kemi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Informatikala linguistiko">
+      <i>Informatikala linguistik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ingriana linguo">
+      <i>Ingriana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Inklinita plano">
+      <i>Inklinita plan</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Integrigita cirkuito">
+      <i>Integrigita cirkuit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Intergluteal fendego">
+      <i>Intergluteal fendeg</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Interna medicino">
+      <i>Interna medicin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Internacion organizuro">
+      <i>Internacion organizur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Internaciona dio">
+      <i>Internaciona di</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Internaciona legaro">
+      <i>Internaciona legar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Internaciona linguo">
+      <i>Internaciona lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Internaciona relati">
+      <i>Internaciona relati</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Interretala forumo">
+      <i>Interretala forum</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Interretala protokolo">
+      <i>Interretala protokol</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Interretala servado">
+      <i>Interretala servad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Iranana lingui">
+      <i>Iranana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Islamala kalendario">
+      <i>Islamala kalendari</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Islandana linguo">
+      <i>Islandana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Italiana linguo">
+      <i>Italiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Italika lingui">
+      <i>Italika lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ixion">
+      <i>Ixion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Jason">
+      <i>Jason</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Jeanneke pis">
+      <i>Jeanneke pis</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Joseon">
+      <i>Joseon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Juda filozofio">
+      <i>Juda filozofi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Judiciala persono">
+      <i>Judiciala person</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Judiciala povo">
+      <i>Judiciala pov</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Juliala kalendario">
+      <i>Juliala kalendari</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kadavro bonega">
+      <i>Kadavro boneg</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Kalendario azteka">
+      <i>Kalendario aztek</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Kalorala regulado">
+      <i>Kalorala regulad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kalorala transfero">
+      <i>Kalorala transfer</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kaloro kambiilo">
+      <i>Kaloro kambiil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kaloro mashino">
+      <i>Kaloro mashin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kanadana linco">
+      <i>Kanadana linc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kanarezo linguo">
+      <i>Kanarezo lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kanonala yuro">
+      <i>Kanonala yur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kardinala nombro">
+      <i>Kardinala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kardinala punti">
+      <i>Kardinala punti</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kardiovaskulala kirurgio">
+      <i>Kardiovaskulala kirurgi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kareliana linguo">
+      <i>Kareliana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Karteziana produto">
+      <i>Karteziana produt</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kashubana linguo">
+      <i>Kashubana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kastiliana linguo">
+      <i>Kastiliana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kataluniana linguo">
+      <i>Kataluniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kataluniana nacionalismo">
+      <i>Kataluniana nacionalism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Katolik eklezio">
+      <i>Katolik eklezi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Katolika liturgio">
+      <i>Katolika liturgi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Katolika teologio">
+      <i>Katolika teologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kelta lingui">
+      <i>Kelta lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemial armo">
+      <i>Kemial arm</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemial elemento">
+      <i>Kemial element</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemiala equilibro">
+      <i>Kemiala equilibr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemiala formulo">
+      <i>Kemiala formul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemiala kompozuro">
+      <i>Kemiala kompozur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemiala ligilo">
+      <i>Kemiala ligil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kemiala reakto">
+      <i>Kemiala reakt</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kingston">
+      <i>Kingston</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kirila alfabeto">
+      <i>Kirila alfabet</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Klasik antiqueso">
+      <i>Klasik antiques</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Klasika elementi">
+      <i>Klasika elementi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Klasika mekaniko">
+      <i>Klasika mekanik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Klimado sportala">
+      <i>Klimado sportal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Koibalana linguo">
+      <i>Koibalana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kokleal implantajo">
+      <i>Kokleal implantaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kolda guto">
+      <i>Kolda gut</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komercala chambro">
+      <i>Komercala chambr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komercala milito">
+      <i>Komercala milit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komplexa nombro">
+      <i>Komplexa nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komplexa plano">
+      <i>Komplexa plan</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kompozita nombro">
+      <i>Kompozita nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komputeral injeniorarto">
+      <i>Komputeral injeniorart</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komputerala grafiko">
+      <i>Komputerala grafik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komputerala programifado">
+      <i>Komputerala programifad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komputerala reto">
+      <i>Komputerala ret</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komputerala simulo">
+      <i>Komputerala simul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komuna merkato">
+      <i>Komuna merkat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komunikala kanalo">
+      <i>Komunikala kanal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komunikala protokolo">
+      <i>Komunikala protokol</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Komunista simbolismo">
+      <i>Komunista simbolism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konceptal arto">
+      <i>Konceptal art</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kondutala genetiko">
+      <i>Kondutala genetik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konioforma skripturo">
+      <i>Konioforma skriptur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konocala cienco">
+      <i>Konocala cienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konstanta funciono">
+      <i>Konstanta funcion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konstanta revelado">
+      <i>Konstanta revelad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konstitucala monarkio">
+      <i>Konstitucala monarki</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Konstruktita linguo">
+      <i>Konstruktita lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kontinentala blokuso">
+      <i>Kontinentala blokus</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kontinua funciono">
+      <i>Kontinua funcion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kontinuo mekaniko">
+      <i>Kontinuo mekanik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Koordinatala sistemo">
+      <i>Koordinatala sistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kordofana lingui">
+      <i>Kordofana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Korento alternanta">
+      <i>Korento alternant</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Koresponda shakoludo">
+      <i>Koresponda shakolud</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kornwalana linguo">
+      <i>Kornwalana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Korpo linguistiko">
+      <i>Korpo linguistik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kosmala polvo">
+      <i>Kosmala polv</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kosmala radiaco">
+      <i>Kosmala radiac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kremlin">
+      <i>Kremlin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kreola linguo">
+      <i>Kreola lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kristalala strukturo">
+      <i>Kristalala struktur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kroata linguo">
+      <i>Kroata lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kulturala heredo">
+      <i>Kulturala hered</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kulturala studii">
+      <i>Kulturala studii</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kumbriana linguo">
+      <i>Kumbriana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kurasizita vehilo">
+      <i>Kurasizita vehil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kurda linguo">
+      <i>Kurda lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kuroniana linguo">
+      <i>Kuroniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kushiana lingui">
+      <i>Kushiana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Kvena linguo">
+      <i>Kvena lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ladina linguo">
+      <i>Ladina lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Laokoon">
+      <i>Laokoon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Laomedon">
+      <i>Laomedon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Laplasal operacanto">
+      <i>Laplasal operacant</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Larja linguomodelo">
+      <i>Larja linguomodel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Lasta vesperomanjo">
+      <i>Lasta vesperomanj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Latenta kaloro">
+      <i>Latenta kalor</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Latina linguo">
+      <i>Latina lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Latinida filologio">
+      <i>Latinida filologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Latinida linguo">
+      <i>Latinida lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Latviana linguo">
+      <i>Latviana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Lego ciencala">
+      <i>Lego ciencal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Leonana linguo">
+      <i>Leonana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Libera programaro">
+      <i>Libera programar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Limburgana linguo">
+      <i>Limburgana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Limousin">
+      <i>Limousin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Lineal equaciono">
+      <i>Lineal equacion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Lineala funciono">
+      <i>Lineala funcion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Lingua franca">
+      <i>Lingua franc</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Lingual aranjeso">
+      <i>Lingual aranjes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Linguala ideologio">
+      <i>Linguala ideologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Linguala yuri">
+      <i>Linguala yuri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Linguistiko komparata">
+      <i>Linguistiko komparat</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Literaturala jenro">
+      <i>Literaturala jenr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Literaturala verko">
+      <i>Literaturala verk</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Livoniana linguo">
+      <i>Livoniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Logikala disjunciono">
+      <i>Logikala disjuncion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Logikala nego">
+      <i>Logikala neg</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Lokala reto">
+      <i>Lokala ret</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Luca dialekto">
+      <i>Luca dialekt</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Luxemburgiana linguo">
+      <i>Luxemburgiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Luzon">
+      <i>Luzon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Magiala quadrato">
+      <i>Magiala quadrat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Magnetala feldo">
+      <i>Magnetala feld</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Makedoniana linguo">
+      <i>Makedoniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Malayala linguo">
+      <i>Malayala lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Maltana linguo">
+      <i>Maltana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Manjebla salo">
+      <i>Manjebla sal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Manneken pis">
+      <i>Manneken pis</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Mansi linguo">
+      <i>Mansi lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Manxana linguo">
+      <i>Manxana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mapuche linguo">
+      <i>Mapuche lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Matematikala biologio">
+      <i>Matematikala biologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Matematikala fiziko">
+      <i>Matematikala fizik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Matematikala konstanto">
+      <i>Matematikala konstant</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Matematikala logiko">
+      <i>Matematikala logik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Matematikala modelo">
+      <i>Matematikala model</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Materio obskura">
+      <i>Materio obskur</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Mator linguo">
+      <i>Mator lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mazandarana linguo">
+      <i>Mazandarana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Medicinala skolo">
+      <i>Medicinala skol</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Medikala etiko">
+      <i>Medikala etik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Medikala signo">
+      <i>Medikala sign</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mediteranea klimato">
+      <i>Mediteranea klimat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mekanikala kalkulilo">
+      <i>Mekanikala kalkulil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Meklin">
+      <i>Meklin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Memnon">
+      <i>Memnon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Merkala linguo">
+      <i>Merkala lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Meshchera linguo">
+      <i>Meshchera lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Metamorfa roko">
+      <i>Metamorfa rok</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Metrika spaco">
+      <i>Metrika spac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mezepokala literaturo">
+      <i>Mezepokala literatur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Milital aviacilo">
+      <i>Milital aviacil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Militala judicio">
+      <i>Militala judici</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Militala tanko">
+      <i>Militala tank</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Minoritata linguo">
+      <i>Minoritata lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Minoritatala grupo">
+      <i>Minoritatala grup</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mitologiala biblioteko">
+      <i>Mitologiala bibliotek</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Modala logiko">
+      <i>Modala logik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Modern arto">
+      <i>Modern art</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Moderna pentatlo">
+      <i>Moderna pentatl</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Modulal aritmetiko">
+      <i>Modulal aritmetik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mongola lingui">
+      <i>Mongola lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mongola linguo">
+      <i>Mongola lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Montenegrana linguo">
+      <i>Montenegrana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mormona bataliono">
+      <i>Mormona batalion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mormona fundamentalismo">
+      <i>Mormona fundamentalism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mormona kosmologio">
+      <i>Mormona kosmologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Mormona templo">
+      <i>Mormona templ</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Muzikal instrumento">
+      <i>Muzikal instrument</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nacionala biblioteko">
+      <i>Nacionala bibliotek</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nacionala himno">
+      <i>Nacionala himn</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Napolitana linguo">
+      <i>Napolitana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala cienci">
+      <i>Naturala cienci</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala gaso">
+      <i>Naturala gas</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala linguo">
+      <i>Naturala lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala nombro">
+      <i>Naturala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala persono">
+      <i>Naturala person</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala satelito">
+      <i>Naturala satelit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala selektado">
+      <i>Naturala selektad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Naturala yuro">
+      <i>Naturala yur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nauvoa legiono">
+      <i>Nauvoa legion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nedependanta laboristo">
+      <i>Nedependanta laborist</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nederlandana linguo">
+      <i>Nederlandana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Neeuklidana geometrio">
+      <i>Neeuklidana geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Neneca linguo">
+      <i>Neneca lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Neorganika kemio">
+      <i>Neorganika kemi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nepali linguo">
+      <i>Nepali lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Neracionala nombro">
+      <i>Neracionala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nestala parazito">
+      <i>Nestala parazit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nevarianta maso">
+      <i>Nevarianta mas</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nganasan linguo">
+      <i>Nganasan lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nigra magio">
+      <i>Nigra magi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nitroz oxido">
+      <i>Nitroz oxid</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nivelacenso maraquala">
+      <i>Nivelacenso maraqual</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Nobla metalo">
+      <i>Nobla metal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nombral axo">
+      <i>Nombral ax</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Norda polo">
+      <i>Norda pol</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nordala mitologio">
+      <i>Nordala mitologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Norvegiana linguo">
+      <i>Norvegiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nov latin">
+      <i>Nov latin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Novodevichy kuvento">
+      <i>Novodevichy kuvent</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nubala komputado">
+      <i>Nubala komputad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nukleal armo">
+      <i>Nukleal arm</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nukleo atomala">
+      <i>Nukleo atomal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Nuntempal epoko">
+      <i>Nuntempal epok</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nuristana lingui">
+      <i>Nuristana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nutriva kateno">
+      <i>Nutriva katen</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Nutrivala plusajo">
+      <i>Nutrivala plusaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ocidentala filozofio">
+      <i>Ocidentala filozofi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ocitaniana linguo">
+      <i>Ocitaniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Odin">
+      <i>Odin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Oktala nombrosistemo">
+      <i>Oktala nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Operaco binara">
+      <i>Operaco binar</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Optikal arto">
+      <i>Optikal art</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ordinala nombro">
+      <i>Ordinala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Orea aglo">
+      <i>Orea agl</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Orea lanofelo">
+      <i>Orea lanofel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Oreatra shakalo">
+      <i>Oreatra shakal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Organika kemio">
+      <i>Organika kemi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Origina mito">
+      <i>Origina mit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ornamentala planto">
+      <i>Ornamentala plant</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Orta triangulo">
+      <i>Orta triangul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Osetiana linguo">
+      <i>Osetiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Palestinana teritorii">
+      <i>Palestinana teritorii</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Palikir">
+      <i>Palikir</i>
+      <par n="ar__vblex" />
+    </e>
+    <e lm="Pankreatala kancero">
+      <i>Pankreatala kancer</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Paralela komputado">
+      <i>Paralela komputad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Parmana fromajo">
+      <i>Parmana fromaj</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Paskala ovo">
+      <i>Paskala ov</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Patro nia">
+      <i>Patro ni</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Pedofilala movado">
+      <i>Pedofilala movad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Pelagika zono">
+      <i>Pelagika zon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Peptida ligilo">
+      <i>Peptida ligil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Periodala tabelo">
+      <i>Periodala tabel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Persiana linguo">
+      <i>Persiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Piemontana linguo">
+      <i>Piemontana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Pipro nigra">
+      <i>Pipro nigr</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Pitagorala komo">
+      <i>Pitagorala kom</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Platon">
+      <i>Platon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Polala koordinati">
+      <i>Polala koordinati</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Polara cirklo">
+      <i>Polara cirkl</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Poligona nombro">
+      <i>Poligona nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Polineziana lingui">
+      <i>Polineziana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Politikala dextro">
+      <i>Politikala dextr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Politikala korekteso">
+      <i>Politikala korektes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Politikala sinistro">
+      <i>Politikala sinistr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Politiko linguala">
+      <i>Politiko lingual</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Polona linguo">
+      <i>Polona lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Populizita loko">
+      <i>Populizita lok</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Portebla komputero">
+      <i>Portebla komputer</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Portugalana linguo">
+      <i>Portugalana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Poseidon">
+      <i>Poseidon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Potencial energio">
+      <i>Potencial energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Pozicionala nombrosistemo">
+      <i>Pozicionala nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Pozitiva yuro">
+      <i>Pozitiva yur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Precoza metalo">
+      <i>Precoza metal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Predikatala logiko">
+      <i>Predikatala logik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Preso mezuro">
+      <i>Preso mezur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Prezidantala republiko">
+      <i>Prezidantala republik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Prima nombro">
+      <i>Prima nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Primara partikulo">
+      <i>Primara partikul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Privata yurocienco">
+      <i>Privata yurocienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Produktanta gramatiko">
+      <i>Produktanta gramatik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Produktanta linguistiko">
+      <i>Produktanta linguistik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Profunda lernado">
+      <i>Profunda lernad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Projektiva geometrio">
+      <i>Projektiva geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Propozicionala logiko">
+      <i>Propozicionala logik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Protestanta reformo">
+      <i>Protestanta reform</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Provencala linguo">
+      <i>Provencala lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Publik administrado">
+      <i>Publik administrad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Publika domeno">
+      <i>Publika domen</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Publika ordino">
+      <i>Publika ordin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Publika transporto">
+      <i>Publika transport</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Publika yurocienco">
+      <i>Publika yurocienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Pura matematiko">
+      <i>Pura matematik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Puzlala videoludo">
+      <i>Puzlala videolud</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quadrata kilometro">
+      <i>Quadrata kilometr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quadrata milio">
+      <i>Quadrata mili</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quadratala equaciono">
+      <i>Quadratala equacion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quadratala funciono">
+      <i>Quadratala funcion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quadratala radiko">
+      <i>Quadratala radik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quadrato latina">
+      <i>Quadrato latin</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Quantumala mekaniko">
+      <i>Quantumala mekanik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quantumala nombro">
+      <i>Quantumala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Quaternara nombrosistemo">
+      <i>Quaternara nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Racionala nombro">
+      <i>Racionala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Rangala relato">
+      <i>Rangala relat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Reala nombro">
+      <i>Reala nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Reala yurocienco">
+      <i>Reala yurocienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Realistala politiko">
+      <i>Realistala politik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Reciproka komprenado">
+      <i>Reciproka komprenad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Reggaeton">
+      <i>Reggaeton</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Regulala poligono">
+      <i>Regulala poligon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Religiala netoleremeso">
+      <i>Religiala netoleremes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Respirala sistemo">
+      <i>Respirala sistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Retorikala figuro">
+      <i>Retorikala figur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Retorikala questiono">
+      <i>Retorikala question</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Reunion">
+      <i>Reunion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Revoluciono februarala">
+      <i>Revoluciono februaral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Revoluciono oktobrala">
+      <i>Revoluciono oktobral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Ribonukleik acido">
+      <i>Ribonukleik acid</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Rikonocal exploro">
+      <i>Rikonocal explor</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Rinovigebla energio">
+      <i>Rinovigebla energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ritmala gimnastiko">
+      <i>Ritmala gimnastik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Romana cifri">
+      <i>Romana cifri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Romana mitologio">
+      <i>Romana mitologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Romana monarkio">
+      <i>Romana monarki</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Romantik amo">
+      <i>Romantik am</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Romantika komedio">
+      <i>Romantika komedi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ronda tablo">
+      <i>Ronda tabl</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Rozea triangulo">
+      <i>Rozea triangul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Rumana linguo">
+      <i>Rumana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Rusa linguo">
+      <i>Rusa lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Samoyeda linguaro">
+      <i>Samoyeda linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sanesala cienci">
+      <i>Sanesala cienci</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sardiniana linguo">
+      <i>Sardiniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sedimentala roki">
+      <i>Sedimentala roki</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Semida lingui">
+      <i>Semida lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Senkondiciona kapitulaco">
+      <i>Senkondiciona kapitulac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Senpilotist aviacilo">
+      <i>Senpilotist aviacil</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Senviva pikturo">
+      <i>Senviva piktur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Serbiana linguo">
+      <i>Serbiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Serial ocidero">
+      <i>Serial ocider</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sexual atrakteso">
+      <i>Sexual atraktes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sexual ecito">
+      <i>Sexual ecit</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sexual orientizo">
+      <i>Sexual orientiz</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sexuala relato">
+      <i>Sexuala relat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sferala geometrio">
+      <i>Sferala geometri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sikion">
+      <i>Sikion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sileziana linguo">
+      <i>Sileziana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Simetra kriptosistemo">
+      <i>Simetra kriptosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Simpla mashino">
+      <i>Simpla mashin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Simpla vivo">
+      <i>Simpla viv</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sindikato laborala">
+      <i>Sindikato laboral</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Sinkronigata natado">
+      <i>Sinkronigata natad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sintaxala sukro">
+      <i>Sintaxala sukr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Skalarala potencialo">
+      <i>Skalarala potencial</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Skota linguo">
+      <i>Skota lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Skrenal ambiento">
+      <i>Skrenal ambient</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Slava lingui">
+      <i>Slava lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Slovaka linguo">
+      <i>Slovaka lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sloveniana linguo">
+      <i>Sloveniana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sociala cienco">
+      <i>Sociala cienc</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sociala grupo">
+      <i>Sociala grup</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sociala kontrato">
+      <i>Sociala kontrat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sociala movemento">
+      <i>Sociala movement</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sociala psikologio">
+      <i>Sociala psikologi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sociala relato">
+      <i>Sociala relat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Societala realismo">
+      <i>Societala realism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sola fide">
+      <i>Sola fid</i>
+      <par n="e__adv" />
+    </e>
+    <e lm="Somaliana linguo">
+      <i>Somaliana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Specifika pezo">
+      <i>Specifika pez</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Spekulema fiktiveso">
+      <i>Spekulema fiktives</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sporta pafado">
+      <i>Sporta pafad</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Stagnanta aqueyo">
+      <i>Stagnanta aquey</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Stalizita betono">
+      <i>Stalizita beton</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Strabon">
+      <i>Strabon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Stranjera politiko">
+      <i>Stranjera politik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Strukturala linguistiko">
+      <i>Strukturala linguistik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Submara navo">
+      <i>Submara nav</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Subtropikala klimato">
+      <i>Subtropikala klimat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sueda linguo">
+      <i>Sueda lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sunala celulo">
+      <i>Sunala celul</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sunala energio">
+      <i>Sunala energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sunala vento">
+      <i>Sunala vent</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Supersona rapideso">
+      <i>Supersona rapides</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Surfacal aqui">
+      <i>Surfacal aqui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Surtabla komputero">
+      <i>Surtabla komputer</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Surtabla ludo">
+      <i>Surtabla lud</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Sustenebla developo">
+      <i>Sustenebla develop</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tamil linguo">
+      <i>Tamil lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tasmaniana tigro">
+      <i>Tasmaniana tigr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tatara linguo">
+      <i>Tatara lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tegumentala sistemo">
+      <i>Tegumentala sistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Telamon">
+      <i>Telamon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Telugu linguo">
+      <i>Telugu lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Teorial informatiko">
+      <i>Teorial informatik</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Terala eri">
+      <i>Terala eri</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Teralkala metalo">
+      <i>Teralkala metal</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Termala energio">
+      <i>Termala energi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Termodinamikala ciklo">
+      <i>Termodinamikala cikl</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Termodinamikala procedo">
+      <i>Termodinamikala proced</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Ternara nombrosistemo">
+      <i>Ternara nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Texto korpo">
+      <i>Texto korp</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tituliera sideyo">
+      <i>Tituliera sidey</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tongana linguo">
+      <i>Tongana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Topologiala spaco">
+      <i>Topologiala spac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Torfopeca kabano">
+      <i>Torfopeca kaban</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Torto flamagita">
+      <i>Torto flamagit</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Tradicionala savo">
+      <i>Tradicionala sav</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Trancendanta nombro">
+      <i>Trancendanta nombr</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Transsiberia fervoyo">
+      <i>Transsiberia fervoy</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Triesma mondo">
+      <i>Triesma mond</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Trigonometriala funciono">
+      <i>Trigonometriala funcion</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tropikala ciklono">
+      <i>Tropikala ciklon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tropikala klimato">
+      <i>Tropikala klimat</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tuluana linguo">
+      <i>Tuluana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tungusiana lingui">
+      <i>Tungusiana lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Turka lingui">
+      <i>Turka lingui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Turka linguo">
+      <i>Turka lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Turka populi">
+      <i>Turka populi</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Tutanhamon">
+      <i>Tutanhamon</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Unara nombrosistemo">
+      <i>Unara nombrosistem</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Unesma koalisuro">
+      <i>Unesma koalisur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Uralika linguaro">
+      <i>Uralika linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Urbala ferovoyo">
+      <i>Urbala ferovoy</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Uruguayana peso">
+      <i>Uruguayana pes</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Usana dolaro">
+      <i>Usana dolar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Usana imperialismo">
+      <i>Usana imperialism</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Vaganta kleriki">
+      <i>Vaganta kleriki</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Vandala linguo">
+      <i>Vandala lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Varianta stelo">
+      <i>Varianta stel</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Vektorala spaco">
+      <i>Vektorala spac</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Veterinarala medicino">
+      <i>Veterinarala medicin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Vietnamana literaturo">
+      <i>Vietnamana literatur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Virtuala mashino">
+      <i>Virtuala mashin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Volebalo plajala">
+      <i>Volebalo plajal</i>
+      <par n="a__adj" />
+    </e>
+    <e lm="Vortica flui">
+      <i>Vortica flui</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Votiana linguo">
+      <i>Votiana lingu</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Voyajera kolombo">
+      <i>Voyajera kolomb</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Wisconsin">
+      <i>Wisconsin</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Yukagira linguaro">
+      <i>Yukagira linguar</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Yurala proceduro">
+      <i>Yurala procedur</i>
+      <par n="o__n" />
+    </e>
+    <e lm="Zaporijjiana kozaki">
+      <i>Zaporijjiana kozaki</i>
+      <par n="o__n" />
     </e>
     <e lm="organismo">
       <i>organism</i>
@@ -28806,6 +33966,10 @@
     <e lm="kruro">
       <i>krur</i>
       <par n="o__n" />
+    </e>
+    <e lm="ve">
+      <i>ve</i>
+      <par n="__pr" />
     </e>
     <e lm="cifro">
       <i>cifr</i>
@@ -29027,9 +34191,17 @@
       <i>hanin</i>
       <par n="o__n" />
     </e>
+    <e lm=".in">
+      <i>.in</i>
+      <par n="__pr" />
+    </e>
     <e lm="xilofono">
       <i>xilofon</i>
       <par n="o__n" />
+    </e>
+    <e lm=".es">
+      <i>.es</i>
+      <par n="__pr" />
     </e>
     <e lm="veino">
       <i>vein</i>
@@ -29231,6 +34403,10 @@
       <i>invers</i>
       <par n="e__adv" />
     </e>
+    <e lm=".ul">
+      <i>.ul</i>
+      <par n="__pr" />
+    </e>
     <e lm="klimar">
       <i>klim</i>
       <par n="ar__vblex" />
@@ -29375,6 +34551,10 @@
       <i>ciraj</i>
       <par n="o__n" />
     </e>
+    <e lm=".er">
+      <i>.er</i>
+      <par n="__pr" />
+    </e>
     <e lm="kremo">
       <i>krem</i>
       <par n="o__n" />
@@ -29439,6 +34619,10 @@
       <i>bicikl</i>
       <par n="o__n" />
     </e>
+    <e lm="bi.">
+      <i>bi.</i>
+      <par n="__pr" />
+    </e>
     <e lm="fakturo">
       <i>faktur</i>
       <par n="o__n" />
@@ -29470,6 +34654,10 @@
     <e lm="fundo">
       <i>fund</i>
       <par n="o__n" />
+    </e>
+    <e lm=".et">
+      <i>.et</i>
+      <par n="__pr" />
     </e>
     <e lm="brava">
       <i>brav</i>
@@ -29618,6 +34806,10 @@
     <e lm="signaturo">
       <i>signatur</i>
       <par n="o__n" />
+    </e>
+    <e lm=".ur">
+      <i>.ur</i>
+      <par n="__pr" />
     </e>
     <e lm="kalsono">
       <i>kalson</i>
@@ -30251,6 +35443,10 @@
       <i>manued</i>
       <par n="o__n" />
     </e>
+    <e lm=".ed">
+      <i>.ed</i>
+      <par n="__pr" />
+    </e>
     <e lm="kava">
       <i>kav</i>
       <par n="a__adj" />
@@ -30274,6 +35470,10 @@
     <e lm="hospitalo">
       <i>hospital</i>
       <par n="o__n" />
+    </e>
+    <e lm=".eg">
+      <i>.eg</i>
+      <par n="__pr" />
     </e>
     <e lm="horo">
       <i>hor</i>
@@ -30539,6 +35739,10 @@
       <i>shild</i>
       <par n="o__n" />
     </e>
+    <e lm="yes">
+      <i>yes</i>
+      <par n="__pr" />
+    </e>
     <e lm="lauta">
       <i>laut</i>
       <par n="a__adj" />
@@ -30639,6 +35843,10 @@
       <i>adher</i>
       <par n="o__n" />
     </e>
+    <e lm="ri.">
+      <i>ri.</i>
+      <par n="__pr" />
+    </e>
     <e lm="adjektivo">
       <i>adjektiv</i>
       <par n="o__n" />
@@ -30722,6 +35930,10 @@
     <e lm="agavo">
       <i>agav</i>
       <par n="o__n" />
+    </e>
+    <e lm=".em">
+      <i>.em</i>
+      <par n="__pr" />
     </e>
     <e lm="agento">
       <i>agent</i>
@@ -32814,6 +38026,10 @@
     <e lm="centaureo">
       <i>centaure</i>
       <par n="o__n" />
+    </e>
+    <e lm=".im">
+      <i>.im</i>
+      <par n="__pr" />
     </e>
     <e lm="centralo">
       <i>central</i>
@@ -38314,6 +43530,10 @@
     <e lm="ubiqua">
       <i>ubiqu</i>
       <par n="a__adj" />
+    </e>
+    <e lm="uf">
+      <i>uf</i>
+      <par n="__pr" />
     </e>
     <e lm="Uganda">
       <i>Ugand</i>
@@ -46635,6 +51855,10 @@
       <i>skrot</i>
       <par n="o__n" />
     </e>
+    <e lm="ex.">
+      <i>ex.</i>
+      <par n="__pr" />
+    </e>
     <e lm="skurar">
       <i>sku</i>
       <par n="ar__vblex" />
@@ -49599,6 +54823,10 @@
       <i>gratul</i>
       <par n="o__n" />
     </e>
+    <e lm="ho.">
+      <i>ho.</i>
+      <par n="__pr" />
+    </e>
     <e lm="Grenada">
       <i>Grenad</i>
       <par n="a__adj" />
@@ -49838,6 +55066,10 @@
     <e lm="inundo">
       <i>inund</i>
       <par n="o__n" />
+    </e>
+    <e lm="Iob">
+      <i>Iob</i>
+      <par n="__pr" />
     </e>
     <e lm="opiato">
       <i>opiat</i>
