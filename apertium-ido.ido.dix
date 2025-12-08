@@ -397,7 +397,7 @@
     </e>
     <e lm="od">
       <i>od</i>
-      <par n="__cnjcoo" />
+      <par n="__pr" />
     </e>
     <e lm="cirkume">
       <i>cirkum</i>
@@ -473,7 +473,7 @@
     </e>
     <e lm="ke">
       <i>ke</i>
-      <par n="__cnjsub" />
+      <par n="__pr" />
     </e>
     <e lm="prezidanto">
       <i>prezidant</i>
@@ -1449,7 +1449,7 @@
     </e>
     <e lm="se">
       <i>se</i>
-      <par n="__cnjsub" />
+      <par n="__pr" />
     </e>
     <e lm="distis">
       <i>distis</i>
@@ -7153,7 +7153,7 @@
     </e>
     <e lm="kad">
       <i>kad</i>
-      <par n="__cnjsub" />
+      <par n="__pr" />
     </e>
     <e lm="wien">
       <i>wien</i>
