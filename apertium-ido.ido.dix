@@ -369,14 +369,14 @@
       <e>
         <re>[0-9]+</re>
         <p>
-          <l>-ma</l>
+          <l>(-ma|-esma)</l>
           <r>-a<s n="num" /><s n="ord" /></r>
         </p>
       </e>
       <e>
         <re>[0-9]+</re>
         <p>
-          <l>ma</l>
+          <l>(ma|esma)</l>
           <r>-a<s n="num" /><s n="ord" /></r>
         </p>
       </e>
@@ -103472,11 +103472,17 @@
       <par n="ebl__adj" />
     </e>
     <e>
-      <i />
+      <p>
+        <l/>
+        <r/>
+      </p>
       <par n="num_ord_regex" />
     </e>
     <e>
-      <i />
+      <p>
+        <l/>
+        <r/>
+      </p>
       <par n="num_regex" />
     </e>
   </section>
