@@ -243,39 +243,6 @@
           <r><s n="vblex" /><s n="pp" /><s n="act" /><s n="pl" /></r>
         </p>
       </e>
-      <!-- Gerund forms as adjective/noun -->
-      <e>
-        <p>
-          <l>ada</l>
-          <r><s n="vblex" /><s n="inf" /><s n="adj" /></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ade</l>
-          <r><s n="vblex" /><s n="inf" /><s n="adv" /></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ado</l>
-          <r><s n="vblex" /><s n="inf" /><s n="n" /></r>
-        </p>
-      </e>
-      <!-- Present tense forms -->
-      <e>
-        <p>
-          <l>aa</l>
-          <r><s n="vblex" /><s n="pri" /></r>
-        </p>
-      </e>
-      <!-- Past tense forms (optional variants) -->
-      <e>
-        <p>
-          <l>ia</l>
-          <r><s n="vblex" /><s n="pii" /></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="__pr">
       <e><p><l/><r><s n="pr" /></r></p></e>
