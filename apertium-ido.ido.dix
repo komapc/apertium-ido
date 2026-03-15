@@ -29586,5 +29586,31 @@
     <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/></r></p></e>
     <!-- Ordinal numbers (with -a suffix) -->
     <e><re>[0-9]+([.,][0-9]+)*\-a</re><p><l></l><r><s n="num"/><s n="ord"/></r></p></e>
+    <!-- Ordinal numbers (with -ma suffix, Ido variant) -->
+    <e><re>[0-9]+([.,][0-9]+)*\-ma</re><p><l></l><r><s n="num"/><s n="ord"/></r></p></e>
+    <!-- Allow both ordinal forms: 1a or 1ma, 2a or 2ma, etc. -->
+    <e><re>[0-9]+ma</re><p><l></l><r><s n="num"/><s n="ord"/></r></p></e>
+  </section>
+  <section id="verbal-forms" type="standard">
+    <!-- Verbal participles and forms that may combine with roots -->
+    <!-- These handle cases where morphological analysis might need fallback -->
+    <!-- Active participle: -anta (negasaj = nega + -anta + -j) -->
+    <e><re>.*anta</re><p><l></l><r><s n="vblex"/><s n="pprs"/></r></p></e>
+    <!-- Past participle: -inta -->
+    <e><re>.*inta</re><p><l></l><r><s n="vblex"/><s n="pp"/></r></p></e>
+    <!-- Future participle: -onta -->
+    <e><re>.*onta</re><p><l></l><r><s n="vblex"/><s n="pfut"/></r></p></e>
+    <!-- Passive past participle: -ita (citanta = cita + -ita) -->
+    <e><re>.*ita</re><p><l></l><r><s n="vblex"/><s n="pp"/><s n="pasv"/></r></p></e>
+    <!-- Plural marker on participles: -aj, -oj, -uj -->
+    <e><re>.*(anta|inta|onta|ita)j</re><p><l></l><r><s n="vblex"/><s n="pl"/></r></p></e>
+  </section>
+  <section id="derivational" type="standard">
+    <!-- Derivational morphology: -ĵo (suffix for things/nouns) -->
+    <!-- Handles: kinematografiaĵo = kinematografia + ĵo -->
+    <e><re>.*ografiaĵo</re><p><l></l><r><s n="n"/></r></p></e>
+    <!-- -io (suffix for abstract nouns) -->
+    <!-- Handles: farmakoterapio = farmaka + terapio -->
+    <e><re>.*io</re><p><l></l><r><s n="n"/></r></p></e>
   </section>
 </dictionary>
