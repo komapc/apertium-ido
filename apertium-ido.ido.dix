@@ -243,39 +243,6 @@
           <r><s n="vblex" /><s n="pp" /><s n="act" /><s n="pl" /></r>
         </p>
       </e>
-      <!-- Gerund forms as adjective/noun -->
-      <e>
-        <p>
-          <l>ada</l>
-          <r><s n="vblex" /><s n="inf" /><s n="adj" /></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ade</l>
-          <r><s n="vblex" /><s n="inf" /><s n="adv" /></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ado</l>
-          <r><s n="vblex" /><s n="inf" /><s n="n" /></r>
-        </p>
-      </e>
-      <!-- Present tense forms -->
-      <e>
-        <p>
-          <l>aa</l>
-          <r><s n="vblex" /><s n="pri" /></r>
-        </p>
-      </e>
-      <!-- Past tense forms (optional variants) -->
-      <e>
-        <p>
-          <l>ia</l>
-          <r><s n="vblex" /><s n="pii" /></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="__pr">
       <e><p><l/><r><s n="pr" /></r></p></e>
@@ -302,16 +269,16 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Afrika">
-      <i>Afrika</i>
-      <par n="__invariant_n"/>
+      <i>Afrik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Afrikano">
       <i>Afrikan</i>
       <par n="o__n"/>
     </e>
     <e lm="Alaska">
-      <i>Alaska</i>
-      <par n="__invariant_n"/>
+      <i>Alask</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Albania">
       <i>Albania</i>
@@ -326,32 +293,32 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Amerika">
-      <i>Amerika</i>
-      <par n="__invariant_n"/>
+      <i>Amerik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Anam">
       <i>Anam</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Andora">
-      <i>Andora</i>
-      <par n="__invariant_n"/>
+      <i>Andor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Anglia">
       <i>Anglia</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Angliana">
-      <i>Angliana</i>
-      <par n="__invariant_n"/>
+      <i>Anglian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Angliano">
       <i>Anglian</i>
       <par n="o__n"/>
     </e>
     <e lm="Angola">
-      <i>Angola</i>
-      <par n="__invariant_n"/>
+      <i>Angol</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Apokalipso">
       <i>Apokalips</i>
@@ -362,8 +329,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Arabiana">
-      <i>Arabiana</i>
-      <par n="__invariant_n"/>
+      <i>Arabian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Arabiano">
       <i>Arabian</i>
@@ -422,16 +389,16 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Britaniana">
-      <i>Britaniana</i>
-      <par n="__invariant_n"/>
+      <i>Britanian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Britaniano">
       <i>Britanian</i>
       <par n="o__n"/>
     </e>
     <e lm="Burma">
-      <i>Burma</i>
-      <par n="__invariant_n"/>
+      <i>Burm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Buro">
       <i>Bur</i>
@@ -454,8 +421,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Chiniana">
-      <i>Chiniana</i>
-      <par n="__invariant_n"/>
+      <i>Chinian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Chipro">
       <i>Chipr</i>
@@ -502,8 +469,8 @@
       <par n="o__n"/>
     </e>
     <e lm="Dominika">
-      <i>Dominika</i>
-      <par n="__invariant_n"/>
+      <i>Dominik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Dominika Republiko">
       <i>Dominika Republik</i>
@@ -542,8 +509,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Europa">
-      <i>Europa</i>
-      <par n="__invariant_n"/>
+      <i>Europ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Exodo">
       <i>Exod</i>
@@ -566,8 +533,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Finlandana">
-      <i>Finlandana</i>
-      <par n="__invariant_n"/>
+      <i>Finlandan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Finlandano">
       <i>Finlandan</i>
@@ -582,20 +549,20 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Flandriana">
-      <i>Flandriana</i>
-      <par n="__invariant_n"/>
+      <i>Flandrian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Formoza">
-      <i>Formoza</i>
-      <par n="__invariant_n"/>
+      <i>Formoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Francia">
       <i>Francia</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Franciana">
-      <i>Franciana</i>
-      <par n="__invariant_n"/>
+      <i>Francian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Franciano">
       <i>Francian</i>
@@ -618,16 +585,16 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Germaniana">
-      <i>Germaniana</i>
-      <par n="__invariant_n"/>
+      <i>Germanian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Germaniano">
       <i>Germanian</i>
       <par n="o__n"/>
     </e>
     <e lm="Ghana">
-      <i>Ghana</i>
-      <par n="__invariant_n"/>
+      <i>Ghan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Gotlando">
       <i>Gotland</i>
@@ -646,40 +613,40 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Grekiana">
-      <i>Grekiana</i>
-      <par n="__invariant_n"/>
+      <i>Grekian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Grekiano">
       <i>Grekian</i>
       <par n="o__n"/>
     </e>
     <e lm="Grenada">
-      <i>Grenada</i>
-      <par n="__invariant_n"/>
+      <i>Grenad</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Grenlando">
       <i>Grenland</i>
       <par n="o__n"/>
     </e>
     <e lm="Guatemala">
-      <i>Guatemala</i>
-      <par n="__invariant_n"/>
+      <i>Guatemal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Guayana">
-      <i>Guayana</i>
-      <par n="__invariant_n"/>
+      <i>Guayan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Guinea">
-      <i>Guinea</i>
-      <par n="__invariant_n"/>
+      <i>Guine</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Habakuk">
       <i>Habakuk</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Hebrea">
-      <i>Hebrea</i>
-      <par n="__invariant_n"/>
+      <i>Hebre</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Herkulo">
       <i>Herkul</i>
@@ -694,8 +661,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Hispaniana">
-      <i>Hispaniana</i>
-      <par n="__invariant_n"/>
+      <i>Hispanian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Hungaria">
       <i>Hungaria</i>
@@ -718,8 +685,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Interlingua">
-      <i>Interlingua</i>
-      <par n="__invariant_n"/>
+      <i>Interlingu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Interreto">
       <i>Interret</i>
@@ -734,8 +701,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Iosue">
-      <i>Iosue</i>
-      <par n="__invariant_n"/>
+      <i>Iosu</i>
+      <par n="e__adv"/>
     </e>
     <e lm="Irlando">
       <i>Irland</i>
@@ -762,16 +729,16 @@
       <par n="o__n"/>
     </e>
     <e lm="Jamaika">
-      <i>Jamaika</i>
-      <par n="__invariant_n"/>
+      <i>Jamaik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Japonia">
       <i>Japonia</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Java">
-      <i>Java</i>
-      <par n="__invariant_n"/>
+      <i>Jav</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Jordania">
       <i>Jordania</i>
@@ -790,20 +757,20 @@
       <par n="o__n"/>
     </e>
     <e lm="Kambodja">
-      <i>Kambodja</i>
-      <par n="__invariant_n"/>
+      <i>Kambodj</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Kamchatka">
-      <i>Kamchatka</i>
-      <par n="__invariant_n"/>
+      <i>Kamchatk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Kamerun">
       <i>Kamerun</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Kanada">
-      <i>Kanada</i>
-      <par n="__invariant_n"/>
+      <i>Kanad</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Katalunia">
       <i>Katalunia</i>
@@ -838,12 +805,12 @@
       <par n="o__n"/>
     </e>
     <e lm="Korea">
-      <i>Korea</i>
-      <par n="__invariant_n"/>
+      <i>Kore</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Kostarika">
-      <i>Kostarika</i>
-      <par n="__invariant_n"/>
+      <i>Kostarik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Kotava">
       <i>Kotava</i>
@@ -866,24 +833,24 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Kroatiana">
-      <i>Kroatiana</i>
-      <par n="__invariant_n"/>
+      <i>Kroatian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Kroniki">
       <i>Kroniki</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Kuba">
-      <i>Kuba</i>
-      <par n="__invariant_n"/>
+      <i>Kub</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Kuwait">
       <i>Kuwait</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Latina">
-      <i>Latina</i>
-      <par n="__invariant_n"/>
+      <i>Latin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Lesoto">
       <i>Lesot</i>
@@ -914,20 +881,20 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Lituaniana">
-      <i>Lituaniana</i>
-      <par n="__invariant_n"/>
+      <i>Lituanian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Lojban">
       <i>Lojban</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Lojbanala">
-      <i>Lojbanala</i>
-      <par n="__invariant_n"/>
+      <i>Lojbanal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Lojbanatra">
-      <i>Lojbanatra</i>
-      <par n="__invariant_n"/>
+      <i>Lojbanatr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Lojbanisto">
       <i>Lojbanist</i>
@@ -966,8 +933,8 @@
       <par n="o__n"/>
     </e>
     <e lm="Malta">
-      <i>Malta</i>
-      <par n="__invariant_n"/>
+      <i>Malt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Marilando">
       <i>Mariland</i>
@@ -1038,8 +1005,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Nederlandana">
-      <i>Nederlandana</i>
-      <par n="__invariant_n"/>
+      <i>Nederlandan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Nederlando">
       <i>Nederland</i>
@@ -1066,28 +1033,28 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="Nikaragua">
-      <i>Nikaragua</i>
-      <par n="__invariant_n"/>
+      <i>Nikaragu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Nombri">
       <i>Nombri</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Nord-Korea">
-      <i>Nord-Korea</i>
-      <par n="__invariant_n"/>
+      <i>Nord-Kore</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Norvegia">
       <i>Norvegia</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Norvegiana">
-      <i>Norvegiana</i>
-      <par n="__invariant_n"/>
+      <i>Norvegian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Nova-Guinea">
-      <i>Nova-Guinea</i>
-      <par n="__invariant_n"/>
+      <i>Nova-Guine</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Nova-Zelando">
       <i>Nova-Zeland</i>
@@ -1118,20 +1085,20 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Palestina">
-      <i>Palestina</i>
-      <par n="__invariant_n"/>
+      <i>Palestin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Panama">
-      <i>Panama</i>
-      <par n="__invariant_n"/>
+      <i>Panam</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Papua">
-      <i>Papua</i>
-      <par n="__invariant_n"/>
+      <i>Papu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Papua-Nova-Guinea">
-      <i>Papua-Nova-Guinea</i>
-      <par n="__invariant_n"/>
+      <i>Papua-Nova-Guine</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Paraguay">
       <i>Paraguay</i>
@@ -1186,8 +1153,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Ruanda">
-      <i>Ruanda</i>
-      <par n="__invariant_n"/>
+      <i>Ruand</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Rumania">
       <i>Rumania</i>
@@ -1210,16 +1177,16 @@
       <par n="o__n"/>
     </e>
     <e lm="Sahara">
-      <i>Sahara</i>
-      <par n="__invariant_n"/>
+      <i>Sahar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Salvador">
       <i>Salvador</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Samoa">
-      <i>Samoa</i>
-      <par n="__invariant_n"/>
+      <i>Samo</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Samuel">
       <i>Samuel</i>
@@ -1258,8 +1225,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Sierra Leone">
-      <i>Sierra Leone</i>
-      <par n="__invariant_n"/>
+      <i>Sierra Leon</i>
+      <par n="e__adv"/>
     </e>
     <e lm="Singapur">
       <i>Singapur</i>
@@ -1278,8 +1245,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Slovakiana">
-      <i>Slovakiana</i>
-      <par n="__invariant_n"/>
+      <i>Slovakian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Somalia">
       <i>Somalia</i>
@@ -1298,8 +1265,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Sri-Lanka">
-      <i>Sri-Lanka</i>
-      <par n="__invariant_n"/>
+      <i>Sri-Lank</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Sudan">
       <i>Sudan</i>
@@ -1310,8 +1277,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Suediana">
-      <i>Suediana</i>
-      <par n="__invariant_n"/>
+      <i>Suedian</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Suediano">
       <i>Suedian</i>
@@ -1334,8 +1301,8 @@
       <par n="o__n"/>
     </e>
     <e lm="Toki Pona">
-      <i>Toki Pona</i>
-      <par n="__invariant_n"/>
+      <i>Toki Pon</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Trakia">
       <i>Trakia</i>
@@ -1350,16 +1317,16 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Uganda">
-      <i>Uganda</i>
-      <par n="__invariant_n"/>
+      <i>Ugand</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Ukraina">
-      <i>Ukraina</i>
-      <par n="__invariant_n"/>
+      <i>Ukrain</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Ukrainana">
-      <i>Ukrainana</i>
-      <par n="__invariant_n"/>
+      <i>Ukrainan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Ukrainano">
       <i>Ukrainan</i>
@@ -1378,8 +1345,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Usa">
-      <i>Usa</i>
-      <par n="__invariant_n"/>
+      <i>Us</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Usano">
       <i>Usan</i>
@@ -1390,8 +1357,8 @@
       <par n="o__n"/>
     </e>
     <e lm="Venezuela">
-      <i>Venezuela</i>
-      <par n="__invariant_n"/>
+      <i>Venezuel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Venizia">
       <i>Venizia</i>
@@ -1422,24 +1389,24 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Walsana">
-      <i>Walsana</i>
-      <par n="__invariant_n"/>
+      <i>Walsan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Wikivortaro">
       <i>Wikivortar</i>
       <par n="o__n"/>
     </e>
     <e lm="Yidisha">
-      <i>Yidisha</i>
-      <par n="__invariant_n"/>
+      <i>Yidish</i>
+      <par n="a__adj"/>
     </e>
     <e lm="Yugoslavia">
       <i>Yugoslavia</i>
       <par n="__invariant_n"/>
     </e>
     <e lm="Zaire">
-      <i>Zaire</i>
-      <par n="__invariant_n"/>
+      <i>Zair</i>
+      <par n="e__adv"/>
     </e>
     <e lm="Zakarias">
       <i>Zakarias</i>
@@ -1450,8 +1417,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="Zimbabwe">
-      <i>Zimbabwe</i>
-      <par n="__invariant_n"/>
+      <i>Zimbabw</i>
+      <par n="e__adv"/>
     </e>
     <e lm="abadeyo">
       <i>abadey</i>
@@ -1498,8 +1465,8 @@
       <par n="o__n"/>
     </e>
     <e lm="abdominala">
-      <i>abdominala</i>
-      <par n="__invariant_n"/>
+      <i>abdominal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="abdomino">
       <i>abdomin</i>
@@ -1582,12 +1549,12 @@
       <par n="o__n"/>
     </e>
     <e lm="abrupta">
-      <i>abrupta</i>
-      <par n="__invariant_n"/>
+      <i>abrupt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="absenta">
-      <i>absenta</i>
-      <par n="__invariant_n"/>
+      <i>absent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="absenteso">
       <i>absentes</i>
@@ -1598,8 +1565,8 @@
       <par n="o__n"/>
     </e>
     <e lm="absoluta">
-      <i>absoluta</i>
-      <par n="__invariant_n"/>
+      <i>absolut</i>
+      <par n="a__adj"/>
     </e>
     <e lm="absolvo">
       <i>absolv</i>
@@ -1610,8 +1577,8 @@
       <par n="o__n"/>
     </e>
     <e lm="absorbiva">
-      <i>absorbiva</i>
-      <par n="__invariant_n"/>
+      <i>absorbiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="absorbo">
       <i>absorb</i>
@@ -1634,12 +1601,12 @@
       <par n="o__n"/>
     </e>
     <e lm="abstrakta">
-      <i>abstrakta</i>
-      <par n="__invariant_n"/>
+      <i>abstrakt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="absurda">
-      <i>absurda</i>
-      <par n="__invariant_n"/>
+      <i>absurd</i>
+      <par n="a__adj"/>
     </e>
     <e lm="abundar">
       <i>abund</i>
@@ -1654,20 +1621,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="acendebla">
-      <i>acendebla</i>
-      <par n="__invariant_n"/>
+      <i>acendebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="acensebla">
-      <i>acensebla</i>
-      <par n="__invariant_n"/>
+      <i>acensebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="aceptar">
       <i>acept</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="acerba">
-      <i>acerba</i>
-      <par n="__invariant_n"/>
+      <i>acerb</i>
+      <par n="a__adj"/>
     </e>
     <e lm="acero">
       <i>acer</i>
@@ -1682,12 +1649,12 @@
       <par n="o__n"/>
     </e>
     <e lm="acida">
-      <i>acida</i>
-      <par n="__invariant_n"/>
+      <i>acid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="acidentala">
-      <i>acidentala</i>
-      <par n="__invariant_n"/>
+      <i>acidental</i>
+      <par n="a__adj"/>
     </e>
     <e lm="acidento">
       <i>acident</i>
@@ -1718,8 +1685,8 @@
       <par n="__pr"/>
     </e>
     <e lm="adavane">
-      <i>adavane</i>
-      <par n="__invariant_n"/>
+      <i>adavan</i>
+      <par n="e__adv"/>
     </e>
     <e lm="addukto">
       <i>addukt</i>
@@ -1730,12 +1697,12 @@
       <par n="o__n"/>
     </e>
     <e lm="adequata">
-      <i>adequata</i>
-      <par n="__invariant_n"/>
+      <i>adequat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="adheriva">
-      <i>adheriva</i>
-      <par n="__invariant_n"/>
+      <i>adheriv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="adhero">
       <i>adher</i>
@@ -1762,12 +1729,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="adminime">
-      <i>adminime</i>
-      <par n="__invariant_n"/>
+      <i>adminim</i>
+      <par n="e__adv"/>
     </e>
     <e lm="administrala">
-      <i>administrala</i>
-      <par n="__invariant_n"/>
+      <i>administral</i>
+      <par n="a__adj"/>
     </e>
     <e lm="administristo">
       <i>administrist</i>
@@ -1866,8 +1833,8 @@
       <par n="o__n"/>
     </e>
     <e lm="afabla">
-      <i>afabla</i>
-      <par n="__invariant_n"/>
+      <i>afabl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="afektacar">
       <i>afektac</i>
@@ -1930,8 +1897,8 @@
       <par n="o__n"/>
     </e>
     <e lm="agiva">
-      <i>agiva</i>
-      <par n="__invariant_n"/>
+      <i>agiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="aglo">
       <i>agl</i>
@@ -1958,8 +1925,8 @@
       <par n="o__n"/>
     </e>
     <e lm="agreabla">
-      <i>agreabla</i>
-      <par n="__invariant_n"/>
+      <i>agreabl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="agrokultivisto">
       <i>agrokultivist</i>
@@ -1970,8 +1937,8 @@
       <par n="o__n"/>
     </e>
     <e lm="agronomiala">
-      <i>agronomiala</i>
-      <par n="__invariant_n"/>
+      <i>agronomial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="agronomio">
       <i>agronomi</i>
@@ -1986,8 +1953,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ajornebla">
-      <i>ajornebla</i>
-      <par n="__invariant_n"/>
+      <i>ajornebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ajustar">
       <i>ajust</i>
@@ -2022,8 +1989,8 @@
       <par n="o__n"/>
     </e>
     <e lm="akra-dolca">
-      <i>akra-dolca</i>
-      <par n="__invariant_n"/>
+      <i>akra-dolc</i>
+      <par n="a__adj"/>
     </e>
     <e lm="akrido">
       <i>akrid</i>
@@ -2050,8 +2017,8 @@
       <par n="o__n"/>
     </e>
     <e lm="aktiva">
-      <i>aktiva</i>
-      <par n="__invariant_n"/>
+      <i>aktiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="akto">
       <i>akt</i>
@@ -2082,8 +2049,8 @@
       <par n="o__n"/>
     </e>
     <e lm="akuta">
-      <i>akuta</i>
-      <par n="__invariant_n"/>
+      <i>akut</i>
+      <par n="a__adj"/>
     </e>
     <e lm="akuzar">
       <i>akuz</i>
@@ -2246,8 +2213,8 @@
       <par n="o__n"/>
     </e>
     <e lm="alta">
-      <i>alta</i>
-      <par n="__invariant_n"/>
+      <i>alt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="altaro">
       <i>altar</i>
@@ -2278,20 +2245,20 @@
       <par n="o__n"/>
     </e>
     <e lm="altra">
-      <i>altra</i>
-      <par n="__invariant_n"/>
+      <i>altr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="altralatere">
-      <i>altralatere</i>
-      <par n="__invariant_n"/>
+      <i>altralater</i>
+      <par n="e__adv"/>
     </e>
     <e lm="altramaniere">
-      <i>altramaniere</i>
-      <par n="__invariant_n"/>
+      <i>altramanier</i>
+      <par n="e__adv"/>
     </e>
     <e lm="altre">
-      <i>altre</i>
-      <par n="__invariant_n"/>
+      <i>altr</i>
+      <par n="e__adv"/>
     </e>
     <e lm="altro">
       <i>altr</i>
@@ -2338,8 +2305,8 @@
       <par n="o__n"/>
     </e>
     <e lm="amba">
-      <i>amba</i>
-      <par n="__invariant_n"/>
+      <i>amb</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ambasadisto">
       <i>ambasadist</i>
@@ -2354,8 +2321,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ambigua">
-      <i>ambigua</i>
-      <par n="__invariant_n"/>
+      <i>ambigu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="amblo">
       <i>ambl</i>
@@ -2434,8 +2401,8 @@
       <par n="o__n"/>
     </e>
     <e lm="amika">
-      <i>amika</i>
-      <par n="__invariant_n"/>
+      <i>amik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="amikino">
       <i>amikin</i>
@@ -2478,8 +2445,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="amorfa">
-      <i>amorfa</i>
-      <par n="__invariant_n"/>
+      <i>amorf</i>
+      <par n="a__adj"/>
     </e>
     <e lm="amortisar">
       <i>amortis</i>
@@ -2498,8 +2465,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ampla">
-      <i>ampla</i>
-      <par n="__invariant_n"/>
+      <i>ampl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="amplitudo">
       <i>amplitud</i>
@@ -2558,8 +2525,8 @@
       <par n="o__n"/>
     </e>
     <e lm="analoga">
-      <i>analoga</i>
-      <par n="__invariant_n"/>
+      <i>analog</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ananaso">
       <i>ananas</i>
@@ -2582,12 +2549,12 @@
       <par n="o__n"/>
     </e>
     <e lm="anciena">
-      <i>anciena</i>
-      <par n="__invariant_n"/>
+      <i>ancien</i>
+      <par n="a__adj"/>
     </e>
     <e lm="androgina">
-      <i>androgina</i>
-      <par n="__invariant_n"/>
+      <i>androgin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="androgino">
       <i>androgin</i>
@@ -2642,8 +2609,8 @@
       <par n="o__n"/>
     </e>
     <e lm="anglikana">
-      <i>anglikana</i>
-      <par n="__invariant_n"/>
+      <i>anglikan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="angoro">
       <i>angor</i>
@@ -2714,8 +2681,8 @@
       <par n="o__n"/>
     </e>
     <e lm="anonima">
-      <i>anonima</i>
-      <par n="__invariant_n"/>
+      <i>anonim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="anorako">
       <i>anorak</i>
@@ -2782,8 +2749,8 @@
       <par n="o__n"/>
     </e>
     <e lm="antiqua">
-      <i>antiqua</i>
-      <par n="__invariant_n"/>
+      <i>antiqu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="antirino">
       <i>antirin</i>
@@ -2814,8 +2781,8 @@
       <par n="o__n"/>
     </e>
     <e lm="antropomorfa">
-      <i>antropomorfa</i>
-      <par n="__invariant_n"/>
+      <i>antropomorf</i>
+      <par n="a__adj"/>
     </e>
     <e lm="antropomorfismo">
       <i>antropomorfism</i>
@@ -2882,8 +2849,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="apertita">
-      <i>apertita</i>
-      <par n="__invariant_n"/>
+      <i>apertit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="apetito">
       <i>apetit</i>
@@ -2914,8 +2881,8 @@
       <par n="o__n"/>
     </e>
     <e lm="apokrifa">
-      <i>apokrifa</i>
-      <par n="__invariant_n"/>
+      <i>apokrif</i>
+      <par n="a__adj"/>
     </e>
     <e lm="apologio">
       <i>apologi</i>
@@ -2966,8 +2933,8 @@
       <par n="__pr"/>
     </e>
     <e lm="apuda">
-      <i>apuda</i>
-      <par n="__invariant_n"/>
+      <i>apud</i>
+      <par n="a__adj"/>
     </e>
     <e lm="apuso">
       <i>apus</i>
@@ -3106,8 +3073,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="arida">
-      <i>arida</i>
-      <par n="__invariant_n"/>
+      <i>arid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ario">
       <i>ari</i>
@@ -3142,8 +3109,8 @@
       <par n="o__n"/>
     </e>
     <e lm="arkaika">
-      <i>arkaika</i>
-      <par n="__invariant_n"/>
+      <i>arkaik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="arkaismo">
       <i>arkaism</i>
@@ -3190,8 +3157,8 @@
       <par n="o__n"/>
     </e>
     <e lm="arktika">
-      <i>arktika</i>
-      <par n="__invariant_n"/>
+      <i>arktik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="arlekino">
       <i>arlekin</i>
@@ -3230,8 +3197,8 @@
       <par n="o__n"/>
     </e>
     <e lm="aroganta">
-      <i>aroganta</i>
-      <par n="__invariant_n"/>
+      <i>arogant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="arogar">
       <i>arog</i>
@@ -3270,8 +3237,8 @@
       <par n="o__n"/>
     </e>
     <e lm="arteza">
-      <i>arteza</i>
-      <par n="__invariant_n"/>
+      <i>artez</i>
+      <par n="a__adj"/>
     </e>
     <e lm="artichoko">
       <i>artichok</i>
@@ -3334,8 +3301,8 @@
       <par n="o__n"/>
     </e>
     <e lm="asidua">
-      <i>asidua</i>
-      <par n="__invariant_n"/>
+      <i>asidu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="asignar">
       <i>asign</i>
@@ -3398,8 +3365,8 @@
       <par n="o__n"/>
     </e>
     <e lm="aspera">
-      <i>aspera</i>
-      <par n="__invariant_n"/>
+      <i>asper</i>
+      <par n="a__adj"/>
     </e>
     <e lm="aspersar">
       <i>aspers</i>
@@ -3434,16 +3401,16 @@
       <par n="o__n"/>
     </e>
     <e lm="astigmata">
-      <i>astigmata</i>
-      <par n="__invariant_n"/>
+      <i>astigmat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="astmo">
       <i>astm</i>
       <par n="o__n"/>
     </e>
     <e lm="astonante">
-      <i>astonante</i>
-      <par n="__invariant_n"/>
+      <i>astonant</i>
+      <par n="e__adv"/>
     </e>
     <e lm="astonar">
       <i>aston</i>
@@ -3462,8 +3429,8 @@
       <par n="o__n"/>
     </e>
     <e lm="astronomiala">
-      <i>astronomiala</i>
-      <par n="__invariant_n"/>
+      <i>astronomial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="astronomio">
       <i>astronomi</i>
@@ -3502,8 +3469,8 @@
       <par n="o__n"/>
     </e>
     <e lm="atencoze">
-      <i>atencoze</i>
-      <par n="__invariant_n"/>
+      <i>atencoz</i>
+      <par n="e__adv"/>
     </e>
     <e lm="atentar">
       <i>atent</i>
@@ -3518,8 +3485,8 @@
       <par n="o__n"/>
     </e>
     <e lm="atika">
-      <i>atika</i>
-      <par n="__invariant_n"/>
+      <i>atik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="atingar">
       <i>ating</i>
@@ -3542,8 +3509,8 @@
       <par n="o__n"/>
     </e>
     <e lm="atomala">
-      <i>atomala</i>
-      <par n="__invariant_n"/>
+      <i>atomal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="atomo">
       <i>atom</i>
@@ -3618,8 +3585,8 @@
       <par n="o__n"/>
     </e>
     <e lm="autentika">
-      <i>autentika</i>
-      <par n="__invariant_n"/>
+      <i>autentik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="autobiografio">
       <i>autobiografi</i>
@@ -3654,8 +3621,8 @@
       <par n="o__n"/>
     </e>
     <e lm="autonoma">
-      <i>autonoma</i>
-      <par n="__invariant_n"/>
+      <i>autonom</i>
+      <par n="a__adj"/>
     </e>
     <e lm="autoritato">
       <i>autoritat</i>
@@ -3734,8 +3701,8 @@
       <par n="o__n"/>
     </e>
     <e lm="avida">
-      <i>avida</i>
-      <par n="__invariant_n"/>
+      <i>avid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="avino">
       <i>avin</i>
@@ -3874,8 +3841,8 @@
       <par n="o__n"/>
     </e>
     <e lm="balde">
-      <i>balde</i>
-      <par n="__invariant_n"/>
+      <i>bald</i>
+      <par n="e__adv"/>
     </e>
     <e lm="baleno">
       <i>balen</i>
@@ -4046,8 +4013,8 @@
       <par n="o__n"/>
     </e>
     <e lm="basa">
-      <i>basa</i>
-      <par n="__invariant_n"/>
+      <i>bas</i>
+      <par n="a__adj"/>
     </e>
     <e lm="baseno">
       <i>basen</i>
@@ -4134,8 +4101,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="beata">
-      <i>beata</i>
-      <par n="__invariant_n"/>
+      <i>beat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bebeo">
       <i>bebe</i>
@@ -4150,8 +4117,8 @@
       <par n="o__n"/>
     </e>
     <e lm="beja">
-      <i>beja</i>
-      <par n="__invariant_n"/>
+      <i>bej</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bekafiko">
       <i>bekafik</i>
@@ -4166,12 +4133,12 @@
       <par n="o__n"/>
     </e>
     <e lm="bela">
-      <i>bela</i>
-      <par n="__invariant_n"/>
+      <i>bel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="belega">
-      <i>belega</i>
-      <par n="__invariant_n"/>
+      <i>beleg</i>
+      <par n="a__adj"/>
     </e>
     <e lm="beleso">
       <i>beles</i>
@@ -4190,8 +4157,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="benigna">
-      <i>benigna</i>
-      <par n="__invariant_n"/>
+      <i>benign</i>
+      <par n="a__adj"/>
     </e>
     <e lm="benko">
       <i>benk</i>
@@ -4294,8 +4261,8 @@
       <par n="o__n"/>
     </e>
     <e lm="bigota">
-      <i>bigota</i>
-      <par n="__invariant_n"/>
+      <i>bigot</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bigoto">
       <i>bigot</i>
@@ -4306,8 +4273,8 @@
       <par n="o__n"/>
     </e>
     <e lm="bilatera">
-      <i>bilatera</i>
-      <par n="__invariant_n"/>
+      <i>bilater</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bilgo">
       <i>bilg</i>
@@ -4334,8 +4301,8 @@
       <par n="o__n"/>
     </e>
     <e lm="binara">
-      <i>binara</i>
-      <par n="__invariant_n"/>
+      <i>binar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bindar">
       <i>bind</i>
@@ -4410,28 +4377,28 @@
       <par n="o__n"/>
     </e>
     <e lm="bitra">
-      <i>bitra</i>
-      <par n="__invariant_n"/>
+      <i>bitr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bitumo">
       <i>bitum</i>
       <par n="o__n"/>
     </e>
     <e lm="bitumoza">
-      <i>bitumoza</i>
-      <par n="__invariant_n"/>
+      <i>bitumoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bizara">
-      <i>bizara</i>
-      <par n="__invariant_n"/>
+      <i>bizar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bizono">
       <i>bizon</i>
       <par n="o__n"/>
     </e>
     <e lm="blanka">
-      <i>blanka</i>
-      <par n="__invariant_n"/>
+      <i>blank</i>
+      <par n="a__adj"/>
     </e>
     <e lm="blasfemar">
       <i>blasfem</i>
@@ -4450,8 +4417,8 @@
       <par n="o__n"/>
     </e>
     <e lm="blinda">
-      <i>blinda</i>
-      <par n="__invariant_n"/>
+      <i>blind</i>
+      <par n="a__adj"/>
     </e>
     <e lm="blindeso">
       <i>blindes</i>
@@ -4474,12 +4441,12 @@
       <par n="o__n"/>
     </e>
     <e lm="blonda">
-      <i>blonda</i>
-      <par n="__invariant_n"/>
+      <i>blond</i>
+      <par n="a__adj"/>
     </e>
     <e lm="blua">
-      <i>blua</i>
-      <par n="__invariant_n"/>
+      <i>blu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="blufar">
       <i>bluf</i>
@@ -4558,16 +4525,16 @@
       <par n="o__n"/>
     </e>
     <e lm="bona">
-      <i>bona</i>
-      <par n="__invariant_n"/>
+      <i>bon</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bonbono">
       <i>bonbon</i>
       <par n="o__n"/>
     </e>
     <e lm="bonega">
-      <i>bonega</i>
-      <par n="__invariant_n"/>
+      <i>boneg</i>
+      <par n="a__adj"/>
     </e>
     <e lm="boneso">
       <i>bones</i>
@@ -4682,12 +4649,12 @@
       <par n="o__n"/>
     </e>
     <e lm="brava">
-      <i>brava</i>
-      <par n="__invariant_n"/>
+      <i>brav</i>
+      <par n="a__adj"/>
     </e>
     <e lm="brave">
-      <i>brave</i>
-      <par n="__invariant_n"/>
+      <i>brav</i>
+      <par n="e__adv"/>
     </e>
     <e lm="brazar">
       <i>braz</i>
@@ -4714,8 +4681,8 @@
       <par n="o__n"/>
     </e>
     <e lm="brilanta">
-      <i>brilanta</i>
-      <par n="__invariant_n"/>
+      <i>brilant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="brilar">
       <i>bril</i>
@@ -4786,16 +4753,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="brulebla">
-      <i>brulebla</i>
-      <par n="__invariant_n"/>
+      <i>brulebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bruna">
-      <i>bruna</i>
-      <par n="__invariant_n"/>
+      <i>brun</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bruska">
-      <i>bruska</i>
-      <par n="__invariant_n"/>
+      <i>brusk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="bruto">
       <i>brut</i>
@@ -4874,8 +4841,8 @@
       <par n="o__n"/>
     </e>
     <e lm="bunta">
-      <i>bunta</i>
-      <par n="__invariant_n"/>
+      <i>bunt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="buprestido">
       <i>buprestid</i>
@@ -4886,8 +4853,8 @@
       <par n="o__n"/>
     </e>
     <e lm="burleska">
-      <i>burleska</i>
-      <par n="__invariant_n"/>
+      <i>burlesk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="burokrataro">
       <i>burokratar</i>
@@ -4970,8 +4937,8 @@
       <par n="o__n"/>
     </e>
     <e lm="celiba">
-      <i>celiba</i>
-      <par n="__invariant_n"/>
+      <i>celib</i>
+      <par n="a__adj"/>
     </e>
     <e lm="celofano">
       <i>celofan</i>
@@ -5030,8 +4997,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="centripetala">
-      <i>centripetala</i>
-      <par n="__invariant_n"/>
+      <i>centripetal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="centro">
       <i>centr</i>
@@ -5066,12 +5033,12 @@
       <par n="o__n"/>
     </e>
     <e lm="certa">
-      <i>certa</i>
-      <par n="__invariant_n"/>
+      <i>cert</i>
+      <par n="a__adj"/>
     </e>
     <e lm="certena">
-      <i>certena</i>
-      <par n="__invariant_n"/>
+      <i>certen</i>
+      <par n="a__adj"/>
     </e>
     <e lm="certio">
       <i>certi</i>
@@ -5110,8 +5077,8 @@
       <par n="o__n"/>
     </e>
     <e lm="cetera">
-      <i>cetera</i>
-      <par n="__invariant_n"/>
+      <i>ceter</i>
+      <par n="a__adj"/>
     </e>
     <e lm="cezarala operaco">
       <i>cezarala operac</i>
@@ -5154,12 +5121,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="chanjebla">
-      <i>chanjebla</i>
-      <par n="__invariant_n"/>
+      <i>chanjebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="chanjema">
-      <i>chanjema</i>
-      <par n="__invariant_n"/>
+      <i>chanjem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="chapelistino">
       <i>chapelistin</i>
@@ -5198,8 +5165,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="chasta">
-      <i>chasta</i>
-      <par n="__invariant_n"/>
+      <i>chast</i>
+      <par n="a__adj"/>
     </e>
     <e lm="che">
       <i>che</i>
@@ -5210,8 +5177,8 @@
       <par n="o__n"/>
     </e>
     <e lm="chefa">
-      <i>chefa</i>
-      <par n="__invariant_n"/>
+      <i>chef</i>
+      <par n="a__adj"/>
     </e>
     <e lm="chefo">
       <i>chef</i>
@@ -5402,8 +5369,8 @@
       <par n="o__n"/>
     </e>
     <e lm="cinika">
-      <i>cinika</i>
-      <par n="__invariant_n"/>
+      <i>cinik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="cinklo">
       <i>cinkl</i>
@@ -5422,8 +5389,8 @@
       <par n="o__n"/>
     </e>
     <e lm="cirkla">
-      <i>cirkla</i>
-      <par n="__invariant_n"/>
+      <i>cirkl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="cirklo">
       <i>cirkl</i>
@@ -5458,8 +5425,8 @@
       <par n="__pr"/>
     </e>
     <e lm="cirkume">
-      <i>cirkume</i>
-      <par n="__invariant_n"/>
+      <i>cirkum</i>
+      <par n="e__adv"/>
     </e>
     <e lm="ciruso">
       <i>cirus</i>
@@ -5490,8 +5457,8 @@
       <par n="o__n"/>
     </e>
     <e lm="civila">
-      <i>civila</i>
-      <par n="__invariant_n"/>
+      <i>civil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="civitaneso">
       <i>civitanes</i>
@@ -5650,8 +5617,8 @@
       <par n="o__n"/>
     </e>
     <e lm="debila">
-      <i>debila</i>
-      <par n="__invariant_n"/>
+      <i>debil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="debito">
       <i>debit</i>
@@ -5694,8 +5661,8 @@
       <par n="o__n"/>
     </e>
     <e lm="decimala">
-      <i>decimala</i>
-      <par n="__invariant_n"/>
+      <i>decimal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dedikar">
       <i>dedik</i>
@@ -5714,8 +5681,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="deferenta">
-      <i>deferenta</i>
-      <par n="__invariant_n"/>
+      <i>deferent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="defiar">
       <i>defi</i>
@@ -5734,12 +5701,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="definitiva">
-      <i>definitiva</i>
-      <par n="__invariant_n"/>
+      <i>definitiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="definitive">
-      <i>definitive</i>
-      <par n="__invariant_n"/>
+      <i>definitiv</i>
+      <par n="e__adv"/>
     </e>
     <e lm="deformar">
       <i>deform</i>
@@ -5870,12 +5837,12 @@
       <par n="o__n"/>
     </e>
     <e lm="delicioza">
-      <i>delicioza</i>
-      <par n="__invariant_n"/>
+      <i>delicioz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="delikata">
-      <i>delikata</i>
-      <par n="__invariant_n"/>
+      <i>delikat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="deliktar">
       <i>delikt</i>
@@ -5922,8 +5889,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="dementa">
-      <i>dementa</i>
-      <par n="__invariant_n"/>
+      <i>dement</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dementeso">
       <i>dementes</i>
@@ -5942,8 +5909,8 @@
       <par n="o__n"/>
     </e>
     <e lm="demokrata">
-      <i>demokrata</i>
-      <par n="__invariant_n"/>
+      <i>demokrat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="demokratio">
       <i>demokrati</i>
@@ -5982,8 +5949,8 @@
       <par n="o__n"/>
     </e>
     <e lm="densa">
-      <i>densa</i>
-      <par n="__invariant_n"/>
+      <i>dens</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dentego">
       <i>denteg</i>
@@ -6050,8 +6017,8 @@
       <par n="__pr"/>
     </e>
     <e lm="depos ke">
-      <i>depos ke</i>
-      <par n="__invariant_n"/>
+      <i>depos k</i>
+      <par n="e__adv"/>
     </e>
     <e lm="depozar">
       <i>depoz</i>
@@ -6114,8 +6081,8 @@
       <par n="o__n"/>
     </e>
     <e lm="desbona">
-      <i>desbona</i>
-      <par n="__invariant_n"/>
+      <i>desbon</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desegnar">
       <i>desegn</i>
@@ -6134,8 +6101,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="desesperanta">
-      <i>desesperanta</i>
-      <par n="__invariant_n"/>
+      <i>desesperant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desespero">
       <i>desesper</i>
@@ -6146,8 +6113,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="desfacila">
-      <i>desfacila</i>
-      <par n="__invariant_n"/>
+      <i>desfacil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desfacileso">
       <i>desfaciles</i>
@@ -6158,16 +6125,16 @@
       <par n="o__n"/>
     </e>
     <e lm="desfortune">
-      <i>desfortune</i>
-      <par n="__invariant_n"/>
+      <i>desfortun</i>
+      <par n="e__adv"/>
     </e>
     <e lm="desfortuno">
       <i>desfortun</i>
       <par n="o__n"/>
     </e>
     <e lm="desfortunoze">
-      <i>desfortunoze</i>
-      <par n="__invariant_n"/>
+      <i>desfortunoz</i>
+      <par n="e__adv"/>
     </e>
     <e lm="deskovrado">
       <i>deskovrad</i>
@@ -6202,16 +6169,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="desnobla">
-      <i>desnobla</i>
-      <par n="__invariant_n"/>
+      <i>desnobl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desnutrado">
       <i>desnutrad</i>
       <par n="o__n"/>
     </e>
     <e lm="desoportuna">
-      <i>desoportuna</i>
-      <par n="__invariant_n"/>
+      <i>desoportun</i>
+      <par n="a__adj"/>
     </e>
     <e lm="despenso">
       <i>despens</i>
@@ -6222,24 +6189,24 @@
       <par n="o__n"/>
     </e>
     <e lm="desprofunda">
-      <i>desprofunda</i>
-      <par n="__invariant_n"/>
+      <i>desprofund</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desquieta">
-      <i>desquieta</i>
-      <par n="__invariant_n"/>
+      <i>desquiet</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desracionala">
-      <i>desracionala</i>
-      <par n="__invariant_n"/>
+      <i>desracional</i>
+      <par n="a__adj"/>
     </e>
     <e lm="desrespekteso">
       <i>desrespektes</i>
       <par n="o__n"/>
     </e>
     <e lm="dessaja">
-      <i>dessaja</i>
-      <par n="__invariant_n"/>
+      <i>dessaj</i>
+      <par n="a__adj"/>
     </e>
     <e lm="destinar">
       <i>destin</i>
@@ -6270,8 +6237,8 @@
       <par n="o__n"/>
     </e>
     <e lm="detaloza">
-      <i>detaloza</i>
-      <par n="__invariant_n"/>
+      <i>detaloz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="detektivo">
       <i>detektiv</i>
@@ -6326,20 +6293,20 @@
       <par n="o__n"/>
     </e>
     <e lm="devota">
-      <i>devota</i>
-      <par n="__invariant_n"/>
+      <i>devot</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dextra">
-      <i>dextra</i>
-      <par n="__invariant_n"/>
+      <i>dextr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dextrano">
       <i>dextran</i>
       <par n="o__n"/>
     </e>
     <e lm="dezerta">
-      <i>dezerta</i>
-      <par n="__invariant_n"/>
+      <i>dezert</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dezerto">
       <i>dezert</i>
@@ -6386,8 +6353,8 @@
       <par n="o__n"/>
     </e>
     <e lm="diafana">
-      <i>diafana</i>
-      <par n="__invariant_n"/>
+      <i>diafan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="diafragmo">
       <i>diafragm</i>
@@ -6398,12 +6365,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="diagonala">
-      <i>diagonala</i>
-      <par n="__invariant_n"/>
+      <i>diagonal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="diagonale">
-      <i>diagonale</i>
-      <par n="__invariant_n"/>
+      <i>diagonal</i>
+      <par n="e__adv"/>
     </e>
     <e lm="diagramo">
       <i>diagram</i>
@@ -6418,8 +6385,8 @@
       <par n="o__n"/>
     </e>
     <e lm="diakritika">
-      <i>diakritika</i>
-      <par n="__invariant_n"/>
+      <i>diakritik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dialektiko">
       <i>dialektik</i>
@@ -6474,8 +6441,8 @@
       <par n="o__n"/>
     </e>
     <e lm="diatonika">
-      <i>diatonika</i>
-      <par n="__invariant_n"/>
+      <i>diatonik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dicar">
       <i>dic</i>
@@ -6550,8 +6517,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="digna">
-      <i>digna</i>
-      <par n="__invariant_n"/>
+      <i>dign</i>
+      <par n="a__adj"/>
     </e>
     <e lm="digneso">
       <i>dignes</i>
@@ -6570,16 +6537,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="dijitala">
-      <i>dijitala</i>
-      <par n="__invariant_n"/>
+      <i>dijital</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dika">
-      <i>dika</i>
-      <par n="__invariant_n"/>
+      <i>dik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="diklina">
-      <i>diklina</i>
-      <par n="__invariant_n"/>
+      <i>diklin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="diktar">
       <i>dikt</i>
@@ -6614,8 +6581,8 @@
       <par n="o__n"/>
     </e>
     <e lm="diligenta">
-      <i>diligenta</i>
-      <par n="__invariant_n"/>
+      <i>diligent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dilijenco">
       <i>dilijenc</i>
@@ -6642,8 +6609,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="dina">
-      <i>dina</i>
-      <par n="__invariant_n"/>
+      <i>din</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dinamito">
       <i>dinamit</i>
@@ -6686,8 +6653,8 @@
       <par n="o__n"/>
     </e>
     <e lm="dioika">
-      <i>dioika</i>
-      <par n="__invariant_n"/>
+      <i>dioik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dioptriko">
       <i>dioptrik</i>
@@ -6730,8 +6697,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="direta">
-      <i>direta</i>
-      <par n="__invariant_n"/>
+      <i>diret</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dis">
       <i>dis</i>
@@ -6762,8 +6729,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="diskreta">
-      <i>diskreta</i>
-      <par n="__invariant_n"/>
+      <i>diskret</i>
+      <par n="a__adj"/>
     </e>
     <e lm="diskriminacar">
       <i>diskriminac</i>
@@ -6802,8 +6769,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="disponebla">
-      <i>disponebla</i>
-      <par n="__invariant_n"/>
+      <i>disponebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="disputar">
       <i>disput</i>
@@ -6818,8 +6785,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="distanta">
-      <i>distanta</i>
-      <par n="__invariant_n"/>
+      <i>distant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="distar">
       <i>dist</i>
@@ -6842,8 +6809,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="distinta">
-      <i>distinta</i>
-      <par n="__invariant_n"/>
+      <i>distint</i>
+      <par n="a__adj"/>
     </e>
     <e lm="disto">
       <i>dist</i>
@@ -6854,8 +6821,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="distraktiva">
-      <i>distraktiva</i>
-      <par n="__invariant_n"/>
+      <i>distraktiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="distributar">
       <i>distribut</i>
@@ -6894,8 +6861,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="diversa">
-      <i>diversa</i>
-      <par n="__invariant_n"/>
+      <i>divers</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dividar">
       <i>divid</i>
@@ -6934,8 +6901,8 @@
       <par n="o__n"/>
     </e>
     <e lm="docila">
-      <i>docila</i>
-      <par n="__invariant_n"/>
+      <i>docil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dodekagono">
       <i>dodekagon</i>
@@ -6986,12 +6953,12 @@
       <par n="o__n"/>
     </e>
     <e lm="dolca">
-      <i>dolca</i>
-      <par n="__invariant_n"/>
+      <i>dolc</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dolcacha">
-      <i>dolcacha</i>
-      <par n="__invariant_n"/>
+      <i>dolcach</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dolcigivo">
       <i>dolcigiv</i>
@@ -7030,8 +6997,8 @@
       <par n="o__n"/>
     </e>
     <e lm="domestika">
-      <i>domestika</i>
-      <par n="__invariant_n"/>
+      <i>domestik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dometo">
       <i>domet</i>
@@ -7070,8 +7037,8 @@
       <par n="__pr"/>
     </e>
     <e lm="dorika">
-      <i>dorika</i>
-      <par n="__invariant_n"/>
+      <i>dorik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dorlotar">
       <i>dorlot</i>
@@ -7150,12 +7117,12 @@
       <par n="o__n"/>
     </e>
     <e lm="drastika">
-      <i>drastika</i>
-      <par n="__invariant_n"/>
+      <i>drastik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="drastike">
-      <i>drastike</i>
-      <par n="__invariant_n"/>
+      <i>drastik</i>
+      <par n="e__adv"/>
     </e>
     <e lm="drenar">
       <i>dren</i>
@@ -7222,8 +7189,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="duala">
-      <i>duala</i>
-      <par n="__invariant_n"/>
+      <i>dual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dualismo">
       <i>dualism</i>
@@ -7242,8 +7209,8 @@
       <par n="o__n"/>
     </e>
     <e lm="duesma">
-      <i>duesma</i>
-      <par n="__invariant_n"/>
+      <i>duesm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dueto">
       <i>duet</i>
@@ -7270,8 +7237,8 @@
       <par n="__pr"/>
     </e>
     <e lm="dumviva">
-      <i>dumviva</i>
-      <par n="__invariant_n"/>
+      <i>dumviv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="dungo">
       <i>dung</i>
@@ -7290,8 +7257,8 @@
       <par n="o__n"/>
     </e>
     <e lm="duopla">
-      <i>duopla</i>
-      <par n="__invariant_n"/>
+      <i>duopl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="duplikato">
       <i>duplikat</i>
@@ -7338,8 +7305,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="ecelanta">
-      <i>ecelanta</i>
-      <par n="__invariant_n"/>
+      <i>ecelant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ecelar">
       <i>ecel</i>
@@ -7354,8 +7321,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ecentrika">
-      <i>ecentrika</i>
-      <par n="__invariant_n"/>
+      <i>ecentrik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eceptar">
       <i>ecept</i>
@@ -7442,16 +7409,16 @@
       <par n="o__n"/>
     </e>
     <e lm="efemera">
-      <i>efemera</i>
-      <par n="__invariant_n"/>
+      <i>efemer</i>
+      <par n="a__adj"/>
     </e>
     <e lm="efemero">
       <i>efemer</i>
       <par n="o__n"/>
     </e>
     <e lm="eficienta">
-      <i>eficienta</i>
-      <par n="__invariant_n"/>
+      <i>eficient</i>
+      <par n="a__adj"/>
     </e>
     <e lm="efikar">
       <i>efik</i>
@@ -7462,8 +7429,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="egala">
-      <i>egala</i>
-      <par n="__invariant_n"/>
+      <i>egal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="egarar">
       <i>egar</i>
@@ -7482,8 +7449,8 @@
       <par n="o__n"/>
     </e>
     <e lm="egoista">
-      <i>egoista</i>
-      <par n="__invariant_n"/>
+      <i>egoist</i>
+      <par n="a__adj"/>
     </e>
     <e lm="egoisto">
       <i>egoist</i>
@@ -7518,8 +7485,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="ekleziala">
-      <i>ekleziala</i>
-      <par n="__invariant_n"/>
+      <i>eklezial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eklezio">
       <i>eklezi</i>
@@ -7574,16 +7541,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="elastika">
-      <i>elastika</i>
-      <par n="__invariant_n"/>
+      <i>elastik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="elefanto">
       <i>elefant</i>
       <par n="o__n"/>
     </e>
     <e lm="eleganta">
-      <i>eleganta</i>
-      <par n="__invariant_n"/>
+      <i>elegant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="elegio">
       <i>elegi</i>
@@ -7594,8 +7561,8 @@
       <par n="o__n"/>
     </e>
     <e lm="elektala">
-      <i>elektala</i>
-      <par n="__invariant_n"/>
+      <i>elektal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="elektar">
       <i>elekt</i>
@@ -7662,8 +7629,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="eloquenta">
-      <i>eloquenta</i>
-      <par n="__invariant_n"/>
+      <i>eloquent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eloquenteso">
       <i>eloquentes</i>
@@ -7674,8 +7641,8 @@
       <par n="__prn"/>
     </e>
     <e lm="elua">
-      <i>elua</i>
-      <par n="__invariant_n"/>
+      <i>elu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eludar">
       <i>elud</i>
@@ -7742,8 +7709,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="emerita">
-      <i>emerita</i>
-      <par n="__invariant_n"/>
+      <i>emerit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="emersar">
       <i>emers</i>
@@ -7762,8 +7729,8 @@
       <par n="o__n"/>
     </e>
     <e lm="eminenta">
-      <i>eminenta</i>
-      <par n="__invariant_n"/>
+      <i>eminent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="emirio">
       <i>emiri</i>
@@ -7774,8 +7741,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="emocale">
-      <i>emocale</i>
-      <par n="__invariant_n"/>
+      <i>emocal</i>
+      <par n="e__adv"/>
     </e>
     <e lm="emocar">
       <i>emoc</i>
@@ -7834,8 +7801,8 @@
       <par n="o__n"/>
     </e>
     <e lm="endetala">
-      <i>endetala</i>
-      <par n="__invariant_n"/>
+      <i>endetal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="enduktar">
       <i>endukt</i>
@@ -7850,8 +7817,8 @@
       <par n="o__n"/>
     </e>
     <e lm="energioza">
-      <i>energioza</i>
-      <par n="__invariant_n"/>
+      <i>energioz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="enfluar">
       <i>enflu</i>
@@ -7862,8 +7829,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="engrosa">
-      <i>engrosa</i>
-      <par n="__invariant_n"/>
+      <i>engros</i>
+      <par n="a__adj"/>
     </e>
     <e lm="enigmato">
       <i>enigmat</i>
@@ -7934,8 +7901,8 @@
       <par n="o__n"/>
     </e>
     <e lm="entote">
-      <i>entote</i>
-      <par n="__invariant_n"/>
+      <i>entot</i>
+      <par n="e__adv"/>
     </e>
     <e lm="entraprezar">
       <i>entraprez</i>
@@ -8006,8 +7973,8 @@
       <par n="o__n"/>
     </e>
     <e lm="epika">
-      <i>epika</i>
-      <par n="__invariant_n"/>
+      <i>epik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="epilepsio">
       <i>epilepsi</i>
@@ -8094,8 +8061,8 @@
       <par n="o__n"/>
     </e>
     <e lm="equivalanta">
-      <i>equivalanta</i>
-      <par n="__invariant_n"/>
+      <i>equivalant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="equivalar">
       <i>equival</i>
@@ -8150,16 +8117,16 @@
       <par n="o__n"/>
     </e>
     <e lm="eroroza">
-      <i>eroroza</i>
-      <par n="__invariant_n"/>
+      <i>eroroz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eroroze">
-      <i>eroroze</i>
-      <par n="__invariant_n"/>
+      <i>eroroz</i>
+      <par n="e__adv"/>
     </e>
     <e lm="erotika">
-      <i>erotika</i>
-      <par n="__invariant_n"/>
+      <i>erotik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="erste">
       <i>erst</i>
@@ -8234,8 +8201,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="eskarpa">
-      <i>eskarpa</i>
-      <par n="__invariant_n"/>
+      <i>eskarp</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eskartar">
       <i>eskart</i>
@@ -8398,8 +8365,8 @@
       <par n="o__n"/>
     </e>
     <e lm="eterna">
-      <i>eterna</i>
-      <par n="__invariant_n"/>
+      <i>etern</i>
+      <par n="a__adj"/>
     </e>
     <e lm="etero">
       <i>eter</i>
@@ -8494,16 +8461,16 @@
       <par n="o__n"/>
     </e>
     <e lm="eventuala">
-      <i>eventuala</i>
-      <par n="__invariant_n"/>
+      <i>eventual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eventuale">
-      <i>eventuale</i>
-      <par n="__invariant_n"/>
+      <i>eventual</i>
+      <par n="e__adv"/>
     </e>
     <e lm="evidenta">
-      <i>evidenta</i>
-      <par n="__invariant_n"/>
+      <i>evident</i>
+      <par n="a__adj"/>
     </e>
     <e lm="eviero">
       <i>evier</i>
@@ -8534,8 +8501,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="exajere">
-      <i>exajere</i>
-      <par n="__invariant_n"/>
+      <i>exajer</i>
+      <par n="e__adv"/>
     </e>
     <e lm="exajero">
       <i>exajer</i>
@@ -8546,8 +8513,8 @@
       <par n="o__n"/>
     </e>
     <e lm="exakta">
-      <i>exakta</i>
-      <par n="__invariant_n"/>
+      <i>exakt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="exaltar">
       <i>exalt</i>
@@ -8598,8 +8565,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="exhaustita">
-      <i>exhaustita</i>
-      <par n="__invariant_n"/>
+      <i>exhaustit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="exhortar">
       <i>exhort</i>
@@ -8626,8 +8593,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="exkluziva">
-      <i>exkluziva</i>
-      <par n="__invariant_n"/>
+      <i>exkluziv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="exkomunikar">
       <i>exkomunik</i>
@@ -8654,8 +8621,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="exotika">
-      <i>exotika</i>
-      <par n="__invariant_n"/>
+      <i>exotik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="expansar">
       <i>expans</i>
@@ -8690,8 +8657,8 @@
       <par n="o__n"/>
     </e>
     <e lm="experta">
-      <i>experta</i>
-      <par n="__invariant_n"/>
+      <i>expert</i>
+      <par n="a__adj"/>
     </e>
     <e lm="expertizar">
       <i>expertiz</i>
@@ -8702,12 +8669,12 @@
       <par n="o__n"/>
     </e>
     <e lm="expiacala">
-      <i>expiacala</i>
-      <par n="__invariant_n"/>
+      <i>expiacal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="expiacanta">
-      <i>expiacanta</i>
-      <par n="__invariant_n"/>
+      <i>expiacant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="expiacar">
       <i>expiac</i>
@@ -8718,8 +8685,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="explicita">
-      <i>explicita</i>
-      <par n="__invariant_n"/>
+      <i>explicit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="explikar">
       <i>explik</i>
@@ -8774,8 +8741,8 @@
       <par n="__pr"/>
     </e>
     <e lm="exterlanda">
-      <i>exterlanda</i>
-      <par n="__invariant_n"/>
+      <i>exterland</i>
+      <par n="a__adj"/>
     </e>
     <e lm="exterminar">
       <i>extermin</i>
@@ -8810,12 +8777,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="extraordinara">
-      <i>extraordinara</i>
-      <par n="__invariant_n"/>
+      <i>extraordinar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="extrema">
-      <i>extrema</i>
-      <par n="__invariant_n"/>
+      <i>extrem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="extremisto">
       <i>extremist</i>
@@ -8834,8 +8801,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fabloza">
-      <i>fabloza</i>
-      <par n="__invariant_n"/>
+      <i>fabloz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fabo">
       <i>fab</i>
@@ -8858,8 +8825,8 @@
       <par n="o__n"/>
     </e>
     <e lm="facila">
-      <i>facila</i>
-      <par n="__invariant_n"/>
+      <i>facil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="facinar">
       <i>facin</i>
@@ -8942,8 +8909,8 @@
       <par n="o__n"/>
     </e>
     <e lm="falsa">
-      <i>falsa</i>
-      <par n="__invariant_n"/>
+      <i>fals</i>
+      <par n="a__adj"/>
     </e>
     <e lm="falseto">
       <i>falset</i>
@@ -8954,12 +8921,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="falva">
-      <i>falva</i>
-      <par n="__invariant_n"/>
+      <i>falv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="familiara">
-      <i>familiara</i>
-      <par n="__invariant_n"/>
+      <i>familiar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="familio">
       <i>famili</i>
@@ -8978,16 +8945,16 @@
       <par n="o__n"/>
     </e>
     <e lm="famoza">
-      <i>famoza</i>
-      <par n="__invariant_n"/>
+      <i>famoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fanar">
       <i>fan</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="fanatika">
-      <i>fanatika</i>
-      <par n="__invariant_n"/>
+      <i>fanatik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fanfaro">
       <i>fanfar</i>
@@ -9002,8 +8969,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fantastika">
-      <i>fantastika</i>
-      <par n="__invariant_n"/>
+      <i>fantastik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fantaziar">
       <i>fantazi</i>
@@ -9078,16 +9045,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="fatigita">
-      <i>fatigita</i>
-      <par n="__invariant_n"/>
+      <i>fatigit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fato">
       <i>fat</i>
       <par n="o__n"/>
     </e>
     <e lm="fatua">
-      <i>fatua</i>
-      <par n="__invariant_n"/>
+      <i>fatu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fauco">
       <i>fauc</i>
@@ -9134,8 +9101,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fekunda">
-      <i>fekunda</i>
-      <par n="__invariant_n"/>
+      <i>fekund</i>
+      <par n="a__adj"/>
     </e>
     <e lm="felacar">
       <i>felac</i>
@@ -9154,8 +9121,8 @@
       <par n="o__n"/>
     </e>
     <e lm="felica">
-      <i>felica</i>
-      <par n="__invariant_n"/>
+      <i>felic</i>
+      <par n="a__adj"/>
     </e>
     <e lm="felo">
       <i>fel</i>
@@ -9166,8 +9133,8 @@
       <par n="o__n"/>
     </e>
     <e lm="femina">
-      <i>femina</i>
-      <par n="__invariant_n"/>
+      <i>femin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="feminismo">
       <i>feminism</i>
@@ -9230,8 +9197,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ferma">
-      <i>ferma</i>
-      <par n="__invariant_n"/>
+      <i>ferm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fermentacado">
       <i>fermentacad</i>
@@ -9258,8 +9225,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fertila">
-      <i>fertila</i>
-      <par n="__invariant_n"/>
+      <i>fertil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fertiligado">
       <i>fertiligad</i>
@@ -9306,8 +9273,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fetida">
-      <i>fetida</i>
-      <par n="__invariant_n"/>
+      <i>fetid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fetisho">
       <i>fetish</i>
@@ -9358,12 +9325,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="fidela">
-      <i>fidela</i>
-      <par n="__invariant_n"/>
+      <i>fidel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fiera">
-      <i>fiera</i>
-      <par n="__invariant_n"/>
+      <i>fier</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fiereso">
       <i>fieres</i>
@@ -9482,8 +9449,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="finita">
-      <i>finita</i>
-      <par n="__invariant_n"/>
+      <i>finit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="finko">
       <i>fink</i>
@@ -9514,12 +9481,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="fixa">
-      <i>fixa</i>
-      <par n="__invariant_n"/>
+      <i>fix</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fixe">
-      <i>fixe</i>
-      <par n="__invariant_n"/>
+      <i>fix</i>
+      <par n="e__adv"/>
     </e>
     <e lm="fizikisto">
       <i>fizikist</i>
@@ -9586,8 +9553,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="flava">
-      <i>flava</i>
-      <par n="__invariant_n"/>
+      <i>flav</i>
+      <par n="a__adj"/>
     </e>
     <e lm="flecho">
       <i>flech</i>
@@ -9606,8 +9573,8 @@
       <par n="o__n"/>
     </e>
     <e lm="flegmoza">
-      <i>flegmoza</i>
-      <par n="__invariant_n"/>
+      <i>flegmoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="flexar">
       <i>flex</i>
@@ -9666,8 +9633,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fluida">
-      <i>fluida</i>
-      <par n="__invariant_n"/>
+      <i>fluid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fluido">
       <i>fluid</i>
@@ -9710,8 +9677,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fola">
-      <i>fola</i>
-      <par n="__invariant_n"/>
+      <i>fol</i>
+      <par n="a__adj"/>
     </e>
     <e lm="folietono">
       <i>folieton</i>
@@ -9802,8 +9769,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="formala">
-      <i>formala</i>
-      <par n="__invariant_n"/>
+      <i>formal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="formaldehido">
       <i>formaldehid</i>
@@ -9846,16 +9813,16 @@
       <par n="e__adv"/>
     </e>
     <e lm="forta">
-      <i>forta</i>
-      <par n="__invariant_n"/>
+      <i>fort</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fortreso">
       <i>fortres</i>
       <par n="o__n"/>
     </e>
     <e lm="fortune">
-      <i>fortune</i>
-      <par n="__invariant_n"/>
+      <i>fortun</i>
+      <par n="e__adv"/>
     </e>
     <e lm="fortuno">
       <i>fortun</i>
@@ -9922,16 +9889,16 @@
       <par n="o__n"/>
     </e>
     <e lm="fracionala">
-      <i>fracionala</i>
-      <par n="__invariant_n"/>
+      <i>fracional</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fraciono">
       <i>fracion</i>
       <par n="o__n"/>
     </e>
     <e lm="fragmenta">
-      <i>fragmenta</i>
-      <par n="__invariant_n"/>
+      <i>fragment</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fragmento">
       <i>fragment</i>
@@ -9942,8 +9909,8 @@
       <par n="o__n"/>
     </e>
     <e lm="frajila">
-      <i>frajila</i>
-      <par n="__invariant_n"/>
+      <i>frajil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="frakasar">
       <i>frakas</i>
@@ -10026,8 +9993,8 @@
       <par n="o__n"/>
     </e>
     <e lm="frequa">
-      <i>frequa</i>
-      <par n="__invariant_n"/>
+      <i>frequ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="frequenco">
       <i>frequenc</i>
@@ -10042,8 +10009,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fresha">
-      <i>fresha</i>
-      <par n="__invariant_n"/>
+      <i>fresh</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fresko">
       <i>fresk</i>
@@ -10054,8 +10021,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="frianda">
-      <i>frianda</i>
-      <par n="__invariant_n"/>
+      <i>friand</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fricionar">
       <i>fricion</i>
@@ -10082,8 +10049,8 @@
       <par n="o__n"/>
     </e>
     <e lm="fripona">
-      <i>fripona</i>
-      <par n="__invariant_n"/>
+      <i>fripon</i>
+      <par n="a__adj"/>
     </e>
     <e lm="friskar">
       <i>frisk</i>
@@ -10106,8 +10073,8 @@
       <par n="o__n"/>
     </e>
     <e lm="frivola">
-      <i>frivola</i>
-      <par n="__invariant_n"/>
+      <i>frivol</i>
+      <par n="a__adj"/>
     </e>
     <e lm="frizar">
       <i>friz</i>
@@ -10138,12 +10105,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="frua">
-      <i>frua</i>
-      <par n="__invariant_n"/>
+      <i>fru</i>
+      <par n="a__adj"/>
     </e>
     <e lm="frue">
-      <i>frue</i>
-      <par n="__invariant_n"/>
+      <i>fru</i>
+      <par n="e__adv"/>
     </e>
     <e lm="frugaleso">
       <i>frugales</i>
@@ -10246,8 +10213,8 @@
       <par n="o__n"/>
     </e>
     <e lm="funikulara">
-      <i>funikulara</i>
-      <par n="__invariant_n"/>
+      <i>funikular</i>
+      <par n="a__adj"/>
     </e>
     <e lm="fuorto">
       <i>fuort</i>
@@ -10354,12 +10321,12 @@
       <par n="o__n"/>
     </e>
     <e lm="gala">
-      <i>gala</i>
-      <par n="__invariant_n"/>
+      <i>gal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="galanta">
-      <i>galanta</i>
-      <par n="__invariant_n"/>
+      <i>galant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="galanteno">
       <i>galanten</i>
@@ -10386,8 +10353,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="galvanala">
-      <i>galvanala</i>
-      <par n="__invariant_n"/>
+      <i>galvanal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="galvanizar">
       <i>galvaniz</i>
@@ -10522,8 +10489,8 @@
       <par n="o__n"/>
     </e>
     <e lm="gaya">
-      <i>gaya</i>
-      <par n="__invariant_n"/>
+      <i>gay</i>
+      <par n="a__adj"/>
     </e>
     <e lm="gazelo">
       <i>gazel</i>
@@ -10570,8 +10537,8 @@
       <par n="o__n"/>
     </e>
     <e lm="genealogiala">
-      <i>genealogiala</i>
-      <par n="__invariant_n"/>
+      <i>genealogial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="genealogio">
       <i>genealogi</i>
@@ -10582,8 +10549,8 @@
       <par n="o__n"/>
     </e>
     <e lm="generala">
-      <i>generala</i>
-      <par n="__invariant_n"/>
+      <i>general</i>
+      <par n="a__adj"/>
     </e>
     <e lm="generalo">
       <i>general</i>
@@ -10606,8 +10573,8 @@
       <par n="o__n"/>
     </e>
     <e lm="genitala">
-      <i>genitala</i>
-      <par n="__invariant_n"/>
+      <i>genital</i>
+      <par n="a__adj"/>
     </e>
     <e lm="genitar">
       <i>genit</i>
@@ -10694,12 +10661,12 @@
       <par n="o__n"/>
     </e>
     <e lm="geya">
-      <i>geya</i>
-      <par n="__invariant_n"/>
+      <i>gey</i>
+      <par n="a__adj"/>
     </e>
     <e lm="geyala">
-      <i>geyala</i>
-      <par n="__invariant_n"/>
+      <i>geyal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="geyo">
       <i>gey</i>
@@ -10722,8 +10689,8 @@
       <par n="o__n"/>
     </e>
     <e lm="giganta">
-      <i>giganta</i>
-      <par n="__invariant_n"/>
+      <i>gigant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="giganto">
       <i>gigant</i>
@@ -10814,8 +10781,8 @@
       <par n="o__n"/>
     </e>
     <e lm="glata">
-      <i>glata</i>
-      <par n="__invariant_n"/>
+      <i>glat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="glaukomo">
       <i>glaukom</i>
@@ -10930,8 +10897,8 @@
       <par n="o__n"/>
     </e>
     <e lm="gotika">
-      <i>gotika</i>
-      <par n="__invariant_n"/>
+      <i>gotik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="goto">
       <i>got</i>
@@ -10942,8 +10909,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="gracila">
-      <i>gracila</i>
-      <par n="__invariant_n"/>
+      <i>gracil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="gracio">
       <i>graci</i>
@@ -10962,8 +10929,8 @@
       <par n="o__n"/>
     </e>
     <e lm="grafika">
-      <i>grafika</i>
-      <par n="__invariant_n"/>
+      <i>grafik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="grafiko">
       <i>grafik</i>
@@ -10998,12 +10965,12 @@
       <par n="o__n"/>
     </e>
     <e lm="granda">
-      <i>granda</i>
-      <par n="__invariant_n"/>
+      <i>grand</i>
+      <par n="a__adj"/>
     </e>
     <e lm="grandega">
-      <i>grandega</i>
-      <par n="__invariant_n"/>
+      <i>grandeg</i>
+      <par n="a__adj"/>
     </e>
     <e lm="grandeso">
       <i>grandes</i>
@@ -11014,8 +10981,8 @@
       <par n="o__n"/>
     </e>
     <e lm="grandioza">
-      <i>grandioza</i>
-      <par n="__invariant_n"/>
+      <i>grandioz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="granito">
       <i>granit</i>
@@ -11030,8 +10997,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="grasa">
-      <i>grasa</i>
-      <par n="__invariant_n"/>
+      <i>gras</i>
+      <par n="a__adj"/>
     </e>
     <e lm="graso">
       <i>gras</i>
@@ -11058,8 +11025,8 @@
       <par n="o__n"/>
     </e>
     <e lm="gratuita">
-      <i>gratuita</i>
-      <par n="__invariant_n"/>
+      <i>gratuit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="gratular">
       <i>gratul</i>
@@ -11070,12 +11037,12 @@
       <par n="o__n"/>
     </e>
     <e lm="grava">
-      <i>grava</i>
-      <par n="__invariant_n"/>
+      <i>grav</i>
+      <par n="a__adj"/>
     </e>
     <e lm="gravida">
-      <i>gravida</i>
-      <par n="__invariant_n"/>
+      <i>gravid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="gravideso">
       <i>gravides</i>
@@ -11146,8 +11113,8 @@
       <par n="o__n"/>
     </e>
     <e lm="griza">
-      <i>griza</i>
-      <par n="__invariant_n"/>
+      <i>griz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="grondar">
       <i>grond</i>
@@ -11158,16 +11125,16 @@
       <par n="o__n"/>
     </e>
     <e lm="grosa">
-      <i>grosa</i>
-      <par n="__invariant_n"/>
+      <i>gros</i>
+      <par n="a__adj"/>
     </e>
     <e lm="grosdekeduo">
       <i>grosdekedu</i>
       <par n="o__n"/>
     </e>
     <e lm="grosiera">
-      <i>grosiera</i>
-      <par n="__invariant_n"/>
+      <i>grosier</i>
+      <par n="a__adj"/>
     </e>
     <e lm="grosierajo">
       <i>grosieraj</i>
@@ -11178,8 +11145,8 @@
       <par n="o__n"/>
     </e>
     <e lm="groteska">
-      <i>groteska</i>
-      <par n="__invariant_n"/>
+      <i>grotesk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="groto">
       <i>grot</i>
@@ -11334,8 +11301,8 @@
       <par n="o__n"/>
     </e>
     <e lm="harda">
-      <i>harda</i>
-      <par n="__invariant_n"/>
+      <i>hard</i>
+      <par n="a__adj"/>
     </e>
     <e lm="hardigo">
       <i>hardig</i>
@@ -11366,12 +11333,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="hazarda">
-      <i>hazarda</i>
-      <par n="__invariant_n"/>
+      <i>hazard</i>
+      <par n="a__adj"/>
     </e>
     <e lm="hazardala">
-      <i>hazardala</i>
-      <par n="__invariant_n"/>
+      <i>hazardal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="hazardo">
       <i>hazard</i>
@@ -11386,8 +11353,8 @@
       <par n="o__n"/>
     </e>
     <e lm="hela">
-      <i>hela</i>
-      <par n="__invariant_n"/>
+      <i>hel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="helianto">
       <i>heliant</i>
@@ -11430,8 +11397,8 @@
       <par n="o__n"/>
     </e>
     <e lm="heme">
-      <i>heme</i>
-      <par n="__invariant_n"/>
+      <i>hem</i>
+      <par n="e__adv"/>
     </e>
     <e lm="hemiptero">
       <i>hemipter</i>
@@ -11470,8 +11437,8 @@
       <par n="o__n"/>
     </e>
     <e lm="heredala">
-      <i>heredala</i>
-      <par n="__invariant_n"/>
+      <i>heredal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="heroeso">
       <i>heroes</i>
@@ -11490,8 +11457,8 @@
       <par n="o__n"/>
     </e>
     <e lm="heterosexuala">
-      <i>heterosexuala</i>
-      <par n="__invariant_n"/>
+      <i>heterosexual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="heterosexualeso">
       <i>heterosexuales</i>
@@ -11518,8 +11485,8 @@
       <par n="o__n"/>
     </e>
     <e lm="hiere">
-      <i>hiere</i>
-      <par n="__invariant_n"/>
+      <i>hier</i>
+      <par n="e__adv"/>
     </e>
     <e lm="hiero">
       <i>hier</i>
@@ -11586,8 +11553,8 @@
       <par n="o__n"/>
     </e>
     <e lm="homa">
-      <i>homa</i>
-      <par n="__invariant_n"/>
+      <i>hom</i>
+      <par n="a__adj"/>
     </e>
     <e lm="homajar">
       <i>homaj</i>
@@ -11598,16 +11565,16 @@
       <par n="o__n"/>
     </e>
     <e lm="homala">
-      <i>homala</i>
-      <par n="__invariant_n"/>
+      <i>homal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="homaro">
       <i>homar</i>
       <par n="o__n"/>
     </e>
     <e lm="homeosexuala">
-      <i>homeosexuala</i>
-      <par n="__invariant_n"/>
+      <i>homeosexual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="homeosexualeso">
       <i>homeosexuales</i>
@@ -11626,8 +11593,8 @@
       <par n="o__n"/>
     </e>
     <e lm="honesta">
-      <i>honesta</i>
-      <par n="__invariant_n"/>
+      <i>honest</i>
+      <par n="a__adj"/>
     </e>
     <e lm="honesteso">
       <i>honestes</i>
@@ -11674,12 +11641,12 @@
       <par n="o__n"/>
     </e>
     <e lm="humida">
-      <i>humida</i>
-      <par n="__invariant_n"/>
+      <i>humid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="humila">
-      <i>humila</i>
-      <par n="__invariant_n"/>
+      <i>humil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="humoro">
       <i>humor</i>
@@ -11730,16 +11697,16 @@
       <par n="o__n"/>
     </e>
     <e lm="identa">
-      <i>identa</i>
-      <par n="__invariant_n"/>
+      <i>ident</i>
+      <par n="a__adj"/>
     </e>
     <e lm="identifikar">
       <i>identifik</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="identifikebla">
-      <i>identifikebla</i>
-      <par n="__invariant_n"/>
+      <i>identifikebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="identigo">
       <i>identig</i>
@@ -11754,8 +11721,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ideologiala">
-      <i>ideologiala</i>
-      <par n="__invariant_n"/>
+      <i>ideologial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ideologio">
       <i>ideologi</i>
@@ -11770,8 +11737,8 @@
       <par n="o__n"/>
     </e>
     <e lm="idiota">
-      <i>idiota</i>
-      <par n="__invariant_n"/>
+      <i>idiot</i>
+      <par n="a__adj"/>
     </e>
     <e lm="idiotismo">
       <i>idiotism</i>
@@ -11814,8 +11781,8 @@
       <par n="__prn"/>
     </e>
     <e lm="iliterata">
-      <i>iliterata</i>
-      <par n="__invariant_n"/>
+      <i>iliterat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="iliterato">
       <i>iliterat</i>
@@ -11850,8 +11817,8 @@
       <par n="o__n"/>
     </e>
     <e lm="imananta">
-      <i>imananta</i>
-      <par n="__invariant_n"/>
+      <i>imanant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="imanar">
       <i>iman</i>
@@ -11862,12 +11829,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="imbecila">
-      <i>imbecila</i>
-      <par n="__invariant_n"/>
+      <i>imbecil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="imensa">
-      <i>imensa</i>
-      <par n="__invariant_n"/>
+      <i>imens</i>
+      <par n="a__adj"/>
     </e>
     <e lm="imersar">
       <i>imers</i>
@@ -11902,16 +11869,16 @@
       <par n="o__n"/>
     </e>
     <e lm="impertinenta">
-      <i>impertinenta</i>
-      <par n="__invariant_n"/>
+      <i>impertinent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="impetuo">
       <i>impetu</i>
       <par n="o__n"/>
     </e>
     <e lm="implicita">
-      <i>implicita</i>
-      <par n="__invariant_n"/>
+      <i>implicit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="implikar">
       <i>implik</i>
@@ -11942,8 +11909,8 @@
       <par n="o__n"/>
     </e>
     <e lm="impotenta">
-      <i>impotenta</i>
-      <par n="__invariant_n"/>
+      <i>impotent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="impozar">
       <i>impoz</i>
@@ -11954,8 +11921,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="impresanta">
-      <i>impresanta</i>
-      <par n="__invariant_n"/>
+      <i>impresant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="impresar">
       <i>impres</i>
@@ -11986,8 +11953,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="imuna">
-      <i>imuna</i>
-      <par n="__invariant_n"/>
+      <i>imun</i>
+      <par n="a__adj"/>
     </e>
     <e lm="imunigo">
       <i>imunig</i>
@@ -11998,8 +11965,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="inata">
-      <i>inata</i>
-      <par n="__invariant_n"/>
+      <i>inat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inaugurar">
       <i>inaugur</i>
@@ -12034,12 +12001,12 @@
       <par n="o__n"/>
     </e>
     <e lm="indiferenta">
-      <i>indiferenta</i>
-      <par n="__invariant_n"/>
+      <i>indiferent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="indiferente">
-      <i>indiferente</i>
-      <par n="__invariant_n"/>
+      <i>indiferent</i>
+      <par n="e__adv"/>
     </e>
     <e lm="indignar">
       <i>indign</i>
@@ -12054,8 +12021,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="indijena">
-      <i>indijena</i>
-      <par n="__invariant_n"/>
+      <i>indijen</i>
+      <par n="a__adj"/>
     </e>
     <e lm="indikar">
       <i>indik</i>
@@ -12070,8 +12037,8 @@
       <par n="o__n"/>
     </e>
     <e lm="indolenta">
-      <i>indolenta</i>
-      <par n="__invariant_n"/>
+      <i>indolent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="indosar">
       <i>indos</i>
@@ -12086,8 +12053,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="indulgema">
-      <i>indulgema</i>
-      <par n="__invariant_n"/>
+      <i>indulgem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="industrio">
       <i>industri</i>
@@ -12102,24 +12069,24 @@
       <par n="o__n"/>
     </e>
     <e lm="inerta">
-      <i>inerta</i>
-      <par n="__invariant_n"/>
+      <i>inert</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inerteso">
       <i>inertes</i>
       <par n="o__n"/>
     </e>
     <e lm="infalibla">
-      <i>infalibla</i>
-      <par n="__invariant_n"/>
+      <i>infalibl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="infant-vetureto">
       <i>infant-veturet</i>
       <par n="o__n"/>
     </e>
     <e lm="infantala">
-      <i>infantala</i>
-      <par n="__invariant_n"/>
+      <i>infantal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="infanto">
       <i>infant</i>
@@ -12146,8 +12113,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="inferiora">
-      <i>inferiora</i>
-      <par n="__invariant_n"/>
+      <i>inferior</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inferno">
       <i>infern</i>
@@ -12158,8 +12125,8 @@
       <par n="o__n"/>
     </e>
     <e lm="inflacionala">
-      <i>inflacionala</i>
-      <par n="__invariant_n"/>
+      <i>inflacional</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inflaciono">
       <i>inflacion</i>
@@ -12170,8 +12137,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="inflamebla">
-      <i>inflamebla</i>
-      <par n="__invariant_n"/>
+      <i>inflamebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inflar">
       <i>infl</i>
@@ -12190,8 +12157,8 @@
       <par n="o__n"/>
     </e>
     <e lm="influiva">
-      <i>influiva</i>
-      <par n="__invariant_n"/>
+      <i>influiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="influro">
       <i>influr</i>
@@ -12242,8 +12209,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="iniciala">
-      <i>iniciala</i>
-      <par n="__invariant_n"/>
+      <i>inicial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="iniciar">
       <i>inici</i>
@@ -12306,8 +12273,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="inocenta">
-      <i>inocenta</i>
-      <par n="__invariant_n"/>
+      <i>inocent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inokular">
       <i>inokul</i>
@@ -12346,8 +12313,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="insistanta">
-      <i>insistanta</i>
-      <par n="__invariant_n"/>
+      <i>insistant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="insistar">
       <i>insist</i>
@@ -12438,8 +12405,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="integra">
-      <i>integra</i>
-      <par n="__invariant_n"/>
+      <i>integr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="integralo">
       <i>integral</i>
@@ -12462,8 +12429,8 @@
       <par n="o__n"/>
     </e>
     <e lm="inteligenta">
-      <i>inteligenta</i>
-      <par n="__invariant_n"/>
+      <i>inteligent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inteligenteso">
       <i>inteligentes</i>
@@ -12474,8 +12441,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="intensa">
-      <i>intensa</i>
-      <par n="__invariant_n"/>
+      <i>intens</i>
+      <par n="a__adj"/>
     </e>
     <e lm="intensigar">
       <i>intensig</i>
@@ -12522,24 +12489,24 @@
       <par n="__ij"/>
     </e>
     <e lm="intermilitanta">
-      <i>intermilitanta</i>
-      <par n="__invariant_n"/>
+      <i>intermilitant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="intermitar">
       <i>intermit</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="interna">
-      <i>interna</i>
-      <par n="__invariant_n"/>
+      <i>intern</i>
+      <par n="a__adj"/>
     </e>
     <e lm="internaciona">
-      <i>internaciona</i>
-      <par n="__invariant_n"/>
+      <i>internacion</i>
+      <par n="a__adj"/>
     </e>
     <e lm="interogativa">
-      <i>interogativa</i>
-      <par n="__invariant_n"/>
+      <i>interogativ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="interogativo">
       <i>interogativ</i>
@@ -12574,8 +12541,8 @@
       <par n="o__n"/>
     </e>
     <e lm="intima">
-      <i>intima</i>
-      <par n="__invariant_n"/>
+      <i>intim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="intonar">
       <i>inton</i>
@@ -12622,20 +12589,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="invalida">
-      <i>invalida</i>
-      <par n="__invariant_n"/>
+      <i>invalid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inventar">
       <i>invent</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="inversa">
-      <i>inversa</i>
-      <par n="__invariant_n"/>
+      <i>invers</i>
+      <par n="a__adj"/>
     </e>
     <e lm="inverse">
-      <i>inverse</i>
-      <par n="__invariant_n"/>
+      <i>invers</i>
+      <par n="e__adv"/>
     </e>
     <e lm="investar">
       <i>invest</i>
@@ -12662,20 +12629,20 @@
       <par n="o__n"/>
     </e>
     <e lm="ipsa">
-      <i>ipsa</i>
-      <par n="__invariant_n"/>
+      <i>ips</i>
+      <par n="a__adj"/>
     </e>
     <e lm="iracar">
       <i>irac</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="iracema">
-      <i>iracema</i>
-      <par n="__invariant_n"/>
+      <i>iracem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="iracoza">
-      <i>iracoza</i>
-      <par n="__invariant_n"/>
+      <i>iracoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="iradiar">
       <i>iradi</i>
@@ -12686,12 +12653,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="irga">
-      <i>irga</i>
-      <par n="__invariant_n"/>
+      <i>irg</i>
+      <par n="a__adj"/>
     </e>
     <e lm="irgekande">
-      <i>irgekande</i>
-      <par n="__invariant_n"/>
+      <i>irgekand</i>
+      <par n="e__adv"/>
     </e>
     <e lm="irgo">
       <i>irg</i>
@@ -12774,8 +12741,8 @@
       <par n="o__n"/>
     </e>
     <e lm="jaluza">
-      <i>jaluza</i>
-      <par n="__invariant_n"/>
+      <i>jaluz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="jaluzeso">
       <i>jaluzes</i>
@@ -12838,8 +12805,8 @@
       <par n="o__n"/>
     </e>
     <e lm="jentila">
-      <i>jentila</i>
-      <par n="__invariant_n"/>
+      <i>jentil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="jeo">
       <i>je</i>
@@ -12914,8 +12881,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="joyoza">
-      <i>joyoza</i>
-      <par n="__invariant_n"/>
+      <i>joyoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="juar">
       <i>ju</i>
@@ -12926,8 +12893,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="judiciala">
-      <i>judiciala</i>
-      <par n="__invariant_n"/>
+      <i>judicial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="judiciero">
       <i>judicier</i>
@@ -12974,8 +12941,8 @@
       <par n="o__n"/>
     </e>
     <e lm="juniora">
-      <i>juniora</i>
-      <par n="__invariant_n"/>
+      <i>junior</i>
+      <par n="a__adj"/>
     </e>
     <e lm="junipero">
       <i>juniper</i>
@@ -13014,12 +12981,12 @@
       <par n="e__adv"/>
     </e>
     <e lm="justa">
-      <i>justa</i>
-      <par n="__invariant_n"/>
+      <i>just</i>
+      <par n="a__adj"/>
     </e>
     <e lm="juste">
-      <i>juste</i>
-      <par n="__invariant_n"/>
+      <i>just</i>
+      <par n="e__adv"/>
     </e>
     <e lm="justifikar">
       <i>justifik</i>
@@ -13070,8 +13037,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kaduka">
-      <i>kaduka</i>
-      <par n="__invariant_n"/>
+      <i>kaduk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kafeiero">
       <i>kafeier</i>
@@ -13194,8 +13161,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kalma">
-      <i>kalma</i>
-      <par n="__invariant_n"/>
+      <i>kalm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kalo">
       <i>kal</i>
@@ -13226,8 +13193,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kalva">
-      <i>kalva</i>
-      <par n="__invariant_n"/>
+      <i>kalv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kalzeto">
       <i>kalzet</i>
@@ -13342,8 +13309,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kandida">
-      <i>kandida</i>
-      <par n="__invariant_n"/>
+      <i>kandid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kandidato">
       <i>kandidat</i>
@@ -13362,8 +13329,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kanibala">
-      <i>kanibala</i>
-      <par n="__invariant_n"/>
+      <i>kanibal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kanibalo">
       <i>kanibal</i>
@@ -13426,20 +13393,20 @@
       <par n="o__n"/>
     </e>
     <e lm="kapabla">
-      <i>kapabla</i>
-      <par n="__invariant_n"/>
+      <i>kapabl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kapaca">
-      <i>kapaca</i>
-      <par n="__invariant_n"/>
+      <i>kapac</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kapelo">
       <i>kapel</i>
       <par n="o__n"/>
     </e>
     <e lm="kapilara">
-      <i>kapilara</i>
-      <par n="__invariant_n"/>
+      <i>kapilar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kapitalo">
       <i>kapital</i>
@@ -13526,8 +13493,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kara">
-      <i>kara</i>
-      <par n="__invariant_n"/>
+      <i>kar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="karafo">
       <i>karaf</i>
@@ -13642,8 +13609,8 @@
       <par n="o__n"/>
     </e>
     <e lm="karnivora">
-      <i>karnivora</i>
-      <par n="__invariant_n"/>
+      <i>karnivor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="karnivoro">
       <i>karnivor</i>
@@ -13678,16 +13645,16 @@
       <par n="o__n"/>
     </e>
     <e lm="kartilagatra">
-      <i>kartilagatra</i>
-      <par n="__invariant_n"/>
+      <i>kartilagatr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kartilago">
       <i>kartilag</i>
       <par n="o__n"/>
     </e>
     <e lm="kartilagoza">
-      <i>kartilagoza</i>
-      <par n="__invariant_n"/>
+      <i>kartilagoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="karto">
       <i>kart</i>
@@ -13842,16 +13809,16 @@
       <par n="o__n"/>
     </e>
     <e lm="katolika">
-      <i>katolika</i>
-      <par n="__invariant_n"/>
+      <i>katolik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="katoliko">
       <i>katolik</i>
       <par n="o__n"/>
     </e>
     <e lm="kauchuka">
-      <i>kauchuka</i>
-      <par n="__invariant_n"/>
+      <i>kauchuk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kauchuko">
       <i>kauchuk</i>
@@ -13882,8 +13849,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kava">
-      <i>kava</i>
-      <par n="__invariant_n"/>
+      <i>kav</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kavaliero">
       <i>kavalier</i>
@@ -13950,8 +13917,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kazuala">
-      <i>kazuala</i>
-      <par n="__invariant_n"/>
+      <i>kazual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ke">
       <i>ke</i>
@@ -13962,12 +13929,12 @@
       <par n="o__n"/>
     </e>
     <e lm="kelka">
-      <i>kelka</i>
-      <par n="__invariant_n"/>
+      <i>kelk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kelkete">
-      <i>kelkete</i>
-      <par n="__invariant_n"/>
+      <i>kelket</i>
+      <par n="e__adv"/>
     </e>
     <e lm="kelko">
       <i>kelk</i>
@@ -14098,8 +14065,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="klasika">
-      <i>klasika</i>
-      <par n="__invariant_n"/>
+      <i>klasik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="klaso">
       <i>klas</i>
@@ -14142,8 +14109,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="klementa">
-      <i>klementa</i>
-      <par n="__invariant_n"/>
+      <i>klement</i>
+      <par n="a__adj"/>
     </e>
     <e lm="klementino">
       <i>klementin</i>
@@ -14366,8 +14333,8 @@
       <par n="o__n"/>
     </e>
     <e lm="koketa">
-      <i>koketa</i>
-      <par n="__invariant_n"/>
+      <i>koket</i>
+      <par n="a__adj"/>
     </e>
     <e lm="koklusho">
       <i>koklush</i>
@@ -14390,12 +14357,12 @@
       <par n="o__n"/>
     </e>
     <e lm="kolaterala">
-      <i>kolaterala</i>
-      <par n="__invariant_n"/>
+      <i>kolateral</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kolda">
-      <i>kolda</i>
-      <par n="__invariant_n"/>
+      <i>kold</i>
+      <par n="a__adj"/>
     </e>
     <e lm="koldkremo">
       <i>koldkrem</i>
@@ -14470,8 +14437,8 @@
       <par n="o__n"/>
     </e>
     <e lm="koloida">
-      <i>koloida</i>
-      <par n="__invariant_n"/>
+      <i>koloid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="koloido">
       <i>koloid</i>
@@ -14566,8 +14533,8 @@
       <par n="o__n"/>
     </e>
     <e lm="komencala">
-      <i>komencala</i>
-      <par n="__invariant_n"/>
+      <i>komencal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="komencar">
       <i>komenc</i>
@@ -14602,8 +14569,8 @@
       <par n="o__n"/>
     </e>
     <e lm="komika">
-      <i>komika</i>
-      <par n="__invariant_n"/>
+      <i>komik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="komisar">
       <i>komis</i>
@@ -14630,8 +14597,8 @@
       <par n="o__n"/>
     </e>
     <e lm="komoda">
-      <i>komoda</i>
-      <par n="__invariant_n"/>
+      <i>komod</i>
+      <par n="a__adj"/>
     </e>
     <e lm="komodo">
       <i>komod</i>
@@ -14646,8 +14613,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kompakta">
-      <i>kompakta</i>
-      <par n="__invariant_n"/>
+      <i>kompakt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kompanio">
       <i>kompani</i>
@@ -14678,8 +14645,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kompetenta">
-      <i>kompetenta</i>
-      <par n="__invariant_n"/>
+      <i>kompetent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kompilar">
       <i>kompil</i>
@@ -14694,16 +14661,16 @@
       <par n="o__n"/>
     </e>
     <e lm="kompleta">
-      <i>kompleta</i>
-      <par n="__invariant_n"/>
+      <i>komplet</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kompletorio">
       <i>kompletori</i>
       <par n="o__n"/>
     </e>
     <e lm="komplexa">
-      <i>komplexa</i>
-      <par n="__invariant_n"/>
+      <i>komplex</i>
+      <par n="a__adj"/>
     </e>
     <e lm="komplexiono">
       <i>komplexion</i>
@@ -14758,8 +14725,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="komprenende">
-      <i>komprenende</i>
-      <par n="__invariant_n"/>
+      <i>komprenend</i>
+      <par n="e__adv"/>
     </e>
     <e lm="kompresar">
       <i>kompres</i>
@@ -14790,8 +14757,8 @@
       <par n="o__n"/>
     </e>
     <e lm="komuna">
-      <i>komuna</i>
-      <par n="__invariant_n"/>
+      <i>komun</i>
+      <par n="a__adj"/>
     </e>
     <e lm="komuniar">
       <i>komuni</i>
@@ -14866,8 +14833,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konciza">
-      <i>konciza</i>
-      <par n="__invariant_n"/>
+      <i>konciz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kondamnar">
       <i>kondamn</i>
@@ -14986,8 +14953,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konforma">
-      <i>konforma</i>
-      <par n="__invariant_n"/>
+      <i>konform</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konfrontar">
       <i>konfront</i>
@@ -14998,8 +14965,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konfuza">
-      <i>konfuza</i>
-      <par n="__invariant_n"/>
+      <i>konfuz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konglomerato">
       <i>konglomerat</i>
@@ -15070,8 +15037,8 @@
       <par n="o__n"/>
     </e>
     <e lm="konkava">
-      <i>konkava</i>
-      <par n="__invariant_n"/>
+      <i>konkav</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konklavo">
       <i>konklav</i>
@@ -15090,8 +15057,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konkreta">
-      <i>konkreta</i>
-      <par n="__invariant_n"/>
+      <i>konkret</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konkubinato">
       <i>konkubinat</i>
@@ -15142,8 +15109,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konseque">
-      <i>konseque</i>
-      <par n="__invariant_n"/>
+      <i>konsequ</i>
+      <par n="e__adv"/>
     </e>
     <e lm="konservar">
       <i>konserv</i>
@@ -15202,12 +15169,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konstanta">
-      <i>konstanta</i>
-      <par n="__invariant_n"/>
+      <i>konstant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konstante">
-      <i>konstante</i>
-      <par n="__invariant_n"/>
+      <i>konstant</i>
+      <par n="e__adv"/>
     </e>
     <e lm="konstatar">
       <i>konstat</i>
@@ -15278,8 +15245,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kontanta">
-      <i>kontanta</i>
-      <par n="__invariant_n"/>
+      <i>kontant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kontar">
       <i>kont</i>
@@ -15294,16 +15261,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kontenta">
-      <i>kontenta</i>
-      <par n="__invariant_n"/>
+      <i>kontent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kontestar">
       <i>kontest</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="kontigua">
-      <i>kontigua</i>
-      <par n="__invariant_n"/>
+      <i>kontigu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kontinencar">
       <i>kontinenc</i>
@@ -15318,8 +15285,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kontinua">
-      <i>kontinua</i>
-      <par n="__invariant_n"/>
+      <i>kontinu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konto">
       <i>kont</i>
@@ -15374,12 +15341,12 @@
       <par n="__pr"/>
     </e>
     <e lm="kontree">
-      <i>kontree</i>
-      <par n="__invariant_n"/>
+      <i>kontre</i>
+      <par n="e__adv"/>
     </e>
     <e lm="kontreetika">
-      <i>kontreetika</i>
-      <par n="__invariant_n"/>
+      <i>kontreetik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kontreindiko">
       <i>kontreindik</i>
@@ -15422,8 +15389,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konvenanta">
-      <i>konvenanta</i>
-      <par n="__invariant_n"/>
+      <i>konvenant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konvenar">
       <i>konven</i>
@@ -15454,8 +15421,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="konvexa">
-      <i>konvexa</i>
-      <par n="__invariant_n"/>
+      <i>konvex</i>
+      <par n="a__adj"/>
     </e>
     <e lm="konvinkar">
       <i>konvink</i>
@@ -15654,8 +15621,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kosmopolita">
-      <i>kosmopolita</i>
-      <par n="__invariant_n"/>
+      <i>kosmopolit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kosmopolito">
       <i>kosmopolit</i>
@@ -15862,8 +15829,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kripla">
-      <i>kripla</i>
-      <par n="__invariant_n"/>
+      <i>kripl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kripo">
       <i>krip</i>
@@ -15874,12 +15841,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kriptomera">
-      <i>kriptomera</i>
-      <par n="__invariant_n"/>
+      <i>kriptomer</i>
+      <par n="a__adj"/>
     </e>
     <e lm="krispa">
-      <i>krispa</i>
-      <par n="__invariant_n"/>
+      <i>krisp</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kristalino">
       <i>kristalin</i>
@@ -15942,8 +15909,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kronika">
-      <i>kronika</i>
-      <par n="__invariant_n"/>
+      <i>kronik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kronikisto">
       <i>kronikist</i>
@@ -15990,12 +15957,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kruda">
-      <i>kruda</i>
-      <par n="__invariant_n"/>
+      <i>krud</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kruela">
-      <i>kruela</i>
-      <par n="__invariant_n"/>
+      <i>kruel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="krular">
       <i>krul</i>
@@ -16174,8 +16141,8 @@
       <par n="o__n"/>
     </e>
     <e lm="kuracala">
-      <i>kuracala</i>
-      <par n="__invariant_n"/>
+      <i>kuracal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kuracao">
       <i>kuraca</i>
@@ -16214,12 +16181,12 @@
       <par n="o__n"/>
     </e>
     <e lm="kurioza">
-      <i>kurioza</i>
-      <par n="__invariant_n"/>
+      <i>kurioz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kursiva">
-      <i>kursiva</i>
-      <par n="__invariant_n"/>
+      <i>kursiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kurso">
       <i>kurs</i>
@@ -16242,8 +16209,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kurva">
-      <i>kurva</i>
-      <par n="__invariant_n"/>
+      <i>kurv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kuseneto">
       <i>kusenet</i>
@@ -16262,8 +16229,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="kustumala">
-      <i>kustumala</i>
-      <par n="__invariant_n"/>
+      <i>kustumal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="kustumar">
       <i>kustum</i>
@@ -16334,8 +16301,8 @@
       <par n="o__n"/>
     </e>
     <e lm="laciva">
-      <i>laciva</i>
-      <par n="__invariant_n"/>
+      <i>laciv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="laco">
       <i>lac</i>
@@ -16354,8 +16321,8 @@
       <par n="o__n"/>
     </e>
     <e lm="laika">
-      <i>laika</i>
-      <par n="__invariant_n"/>
+      <i>laik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lakeo">
       <i>lake</i>
@@ -16366,8 +16333,8 @@
       <par n="o__n"/>
     </e>
     <e lm="lakonika">
-      <i>lakonika</i>
-      <par n="__invariant_n"/>
+      <i>lakonik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lakrimo">
       <i>lakrim</i>
@@ -16482,8 +16449,8 @@
       <par n="o__n"/>
     </e>
     <e lm="larja">
-      <i>larja</i>
-      <par n="__invariant_n"/>
+      <i>larj</i>
+      <par n="a__adj"/>
     </e>
     <e lm="larvo">
       <i>larv</i>
@@ -16498,12 +16465,12 @@
       <par n="o__n"/>
     </e>
     <e lm="lasta">
-      <i>lasta</i>
-      <par n="__invariant_n"/>
+      <i>last</i>
+      <par n="a__adj"/>
     </e>
     <e lm="latenta">
-      <i>latenta</i>
-      <par n="__invariant_n"/>
+      <i>latent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="latero">
       <i>later</i>
@@ -16538,8 +16505,8 @@
       <par n="o__n"/>
     </e>
     <e lm="lauta">
-      <i>lauta</i>
-      <par n="__invariant_n"/>
+      <i>laut</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lavao">
       <i>lava</i>
@@ -16562,8 +16529,8 @@
       <par n="o__n"/>
     </e>
     <e lm="laxa">
-      <i>laxa</i>
-      <par n="__invariant_n"/>
+      <i>lax</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lazanyo">
       <i>lazany</i>
@@ -16586,8 +16553,8 @@
       <par n="o__n"/>
     </e>
     <e lm="leda">
-      <i>leda</i>
-      <par n="__invariant_n"/>
+      <i>led</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ledeso">
       <i>ledes</i>
@@ -16614,8 +16581,8 @@
       <par n="o__n"/>
     </e>
     <e lm="legitima">
-      <i>legitima</i>
-      <par n="__invariant_n"/>
+      <i>legitim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lego">
       <i>leg</i>
@@ -16626,8 +16593,8 @@
       <par n="o__n"/>
     </e>
     <e lm="lejera">
-      <i>lejera</i>
-      <par n="__invariant_n"/>
+      <i>lejer</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lekar">
       <i>lek</i>
@@ -16654,8 +16621,8 @@
       <par n="o__n"/>
     </e>
     <e lm="lenta">
-      <i>lenta</i>
-      <par n="__invariant_n"/>
+      <i>lent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lentigino">
       <i>lentigin</i>
@@ -16746,8 +16713,8 @@
       <par n="o__n"/>
     </e>
     <e lm="libera">
-      <i>libera</i>
-      <par n="__invariant_n"/>
+      <i>liber</i>
+      <par n="a__adj"/>
     </e>
     <e lm="libera tempo">
       <i>libera temp</i>
@@ -16830,8 +16797,8 @@
       <par n="o__n"/>
     </e>
     <e lm="limpida">
-      <i>limpida</i>
-      <par n="__invariant_n"/>
+      <i>limpid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="linchar">
       <i>linch</i>
@@ -16874,8 +16841,8 @@
       <par n="o__n"/>
     </e>
     <e lm="liquida">
-      <i>liquida</i>
-      <par n="__invariant_n"/>
+      <i>liquid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="liquidacar">
       <i>liquidac</i>
@@ -16886,8 +16853,8 @@
       <par n="o__n"/>
     </e>
     <e lm="lirika">
-      <i>lirika</i>
-      <par n="__invariant_n"/>
+      <i>lirik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="liro">
       <i>lir</i>
@@ -16950,8 +16917,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="livida">
-      <i>livida</i>
-      <par n="__invariant_n"/>
+      <i>livid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="livrar">
       <i>livr</i>
@@ -17042,8 +17009,8 @@
       <par n="o__n"/>
     </e>
     <e lm="longa">
-      <i>longa</i>
-      <par n="__invariant_n"/>
+      <i>long</i>
+      <par n="a__adj"/>
     </e>
     <e lm="longitudo">
       <i>longitud</i>
@@ -17054,8 +17021,8 @@
       <par n="__pr"/>
     </e>
     <e lm="lore">
-      <i>lore</i>
-      <par n="__invariant_n"/>
+      <i>lor</i>
+      <par n="e__adv"/>
     </e>
     <e lm="lorno">
       <i>lorn</i>
@@ -17082,8 +17049,8 @@
       <par n="o__n"/>
     </e>
     <e lm="loyala">
-      <i>loyala</i>
-      <par n="__invariant_n"/>
+      <i>loyal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="loyaleso">
       <i>loyales</i>
@@ -17098,8 +17065,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="lucida">
-      <i>lucida</i>
-      <par n="__invariant_n"/>
+      <i>lucid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lucio">
       <i>luci</i>
@@ -17158,12 +17125,12 @@
       <par n="o__n"/>
     </e>
     <e lm="lunala">
-      <i>lunala</i>
-      <par n="__invariant_n"/>
+      <i>lunal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lunatika">
-      <i>lunatika</i>
-      <par n="__invariant_n"/>
+      <i>lunatik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="lunatiko">
       <i>lunatik</i>
@@ -17214,8 +17181,8 @@
       <par n="o__n"/>
     </e>
     <e lm="luxoza">
-      <i>luxoza</i>
-      <par n="__invariant_n"/>
+      <i>luxoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="luxurio">
       <i>luxuri</i>
@@ -17286,8 +17253,8 @@
       <par n="o__n"/>
     </e>
     <e lm="majora">
-      <i>majora</i>
-      <par n="__invariant_n"/>
+      <i>major</i>
+      <par n="a__adj"/>
     </e>
     <e lm="majorano">
       <i>majoran</i>
@@ -17314,12 +17281,12 @@
       <par n="o__n"/>
     </e>
     <e lm="mala">
-      <i>mala</i>
-      <par n="__invariant_n"/>
+      <i>mal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="malada">
-      <i>malada</i>
-      <par n="__invariant_n"/>
+      <i>malad</i>
+      <par n="a__adj"/>
     </e>
     <e lm="maladeso">
       <i>malades</i>
@@ -17346,8 +17313,8 @@
       <par n="o__n"/>
     </e>
     <e lm="maligna">
-      <i>maligna</i>
-      <par n="__invariant_n"/>
+      <i>malign</i>
+      <par n="a__adj"/>
     </e>
     <e lm="malto">
       <i>malt</i>
@@ -17670,16 +17637,16 @@
       <par n="o__n"/>
     </e>
     <e lm="masiva">
-      <i>masiva</i>
-      <par n="__invariant_n"/>
+      <i>masiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="maskar">
       <i>mask</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="maskula">
-      <i>maskula</i>
-      <par n="__invariant_n"/>
+      <i>maskul</i>
+      <par n="a__adj"/>
     </e>
     <e lm="maso">
       <i>mas</i>
@@ -17726,8 +17693,8 @@
       <par n="o__n"/>
     </e>
     <e lm="matida">
-      <i>matida</i>
-      <par n="__invariant_n"/>
+      <i>matid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="matino">
       <i>matin</i>
@@ -17742,24 +17709,24 @@
       <par n="o__n"/>
     </e>
     <e lm="matrala">
-      <i>matrala</i>
-      <par n="__invariant_n"/>
+      <i>matral</i>
+      <par n="a__adj"/>
     </e>
     <e lm="matrico">
       <i>matric</i>
       <par n="o__n"/>
     </e>
     <e lm="matriochka">
-      <i>matriochka</i>
-      <par n="__invariant_n"/>
+      <i>matriochk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="matro">
       <i>matr</i>
       <par n="o__n"/>
     </e>
     <e lm="matura">
-      <i>matura</i>
-      <par n="__invariant_n"/>
+      <i>matur</i>
+      <par n="a__adj"/>
     </e>
     <e lm="maxilo">
       <i>maxil</i>
@@ -17814,20 +17781,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="mediana">
-      <i>mediana</i>
-      <par n="__invariant_n"/>
+      <i>median</i>
+      <par n="a__adj"/>
     </e>
     <e lm="mediano">
       <i>median</i>
       <par n="o__n"/>
     </e>
     <e lm="mediata">
-      <i>mediata</i>
-      <par n="__invariant_n"/>
+      <i>mediat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="medicinala">
-      <i>medicinala</i>
-      <par n="__invariant_n"/>
+      <i>medicinal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="medicino">
       <i>medicin</i>
@@ -18034,16 +18001,16 @@
       <par n="o__n"/>
     </e>
     <e lm="meskina">
-      <i>meskina</i>
-      <par n="__invariant_n"/>
+      <i>meskin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="meso">
       <i>mes</i>
       <par n="o__n"/>
     </e>
     <e lm="mestica">
-      <i>mestica</i>
-      <par n="__invariant_n"/>
+      <i>mestic</i>
+      <par n="a__adj"/>
     </e>
     <e lm="mestico">
       <i>mestic</i>
@@ -18110,12 +18077,12 @@
       <par n="o__n"/>
     </e>
     <e lm="meza">
-      <i>meza</i>
-      <par n="__invariant_n"/>
+      <i>mez</i>
+      <par n="a__adj"/>
     </e>
     <e lm="mezagrade">
-      <i>mezagrade</i>
-      <par n="__invariant_n"/>
+      <i>mezagrad</i>
+      <par n="e__adv"/>
     </e>
     <e lm="mezurar">
       <i>mezur</i>
@@ -18130,8 +18097,8 @@
       <par n="o__n"/>
     </e>
     <e lm="miapertita">
-      <i>miapertita</i>
-      <par n="__invariant_n"/>
+      <i>miapertit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="miaular">
       <i>miaul</i>
@@ -18166,8 +18133,8 @@
       <par n="o__n"/>
     </e>
     <e lm="mikra">
-      <i>mikra</i>
-      <par n="__invariant_n"/>
+      <i>mikr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="mikrobo">
       <i>mikrob</i>
@@ -18258,8 +18225,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="mine">
-      <i>mine</i>
-      <par n="__invariant_n"/>
+      <i>min</i>
+      <par n="e__adv"/>
     </e>
     <e lm="mineralo">
       <i>mineral</i>
@@ -18270,16 +18237,16 @@
       <par n="o__n"/>
     </e>
     <e lm="minime">
-      <i>minime</i>
-      <par n="__invariant_n"/>
+      <i>minim</i>
+      <par n="e__adv"/>
     </e>
     <e lm="minimo">
       <i>minim</i>
       <par n="o__n"/>
     </e>
     <e lm="miniona">
-      <i>miniona</i>
-      <par n="__invariant_n"/>
+      <i>minion</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ministerio">
       <i>ministeri</i>
@@ -18290,8 +18257,8 @@
       <par n="o__n"/>
     </e>
     <e lm="minora">
-      <i>minora</i>
-      <par n="__invariant_n"/>
+      <i>minor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="minto">
       <i>mint</i>
@@ -18414,12 +18381,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="moderna">
-      <i>moderna</i>
-      <par n="__invariant_n"/>
+      <i>modern</i>
+      <par n="a__adj"/>
     </e>
     <e lm="modesta">
-      <i>modesta</i>
-      <par n="__invariant_n"/>
+      <i>modest</i>
+      <par n="a__adj"/>
     </e>
     <e lm="modifikar">
       <i>modifik</i>
@@ -18454,12 +18421,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="mola">
-      <i>mola</i>
-      <par n="__invariant_n"/>
+      <i>mol</i>
+      <par n="a__adj"/>
     </e>
     <e lm="molara">
-      <i>molara</i>
-      <par n="__invariant_n"/>
+      <i>molar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="moldar">
       <i>mold</i>
@@ -18530,8 +18497,8 @@
       <par n="o__n"/>
     </e>
     <e lm="monokroma">
-      <i>monokroma</i>
-      <par n="__invariant_n"/>
+      <i>monokrom</i>
+      <par n="a__adj"/>
     </e>
     <e lm="monologo">
       <i>monolog</i>
@@ -18546,8 +18513,8 @@
       <par n="o__n"/>
     </e>
     <e lm="monotona">
-      <i>monotona</i>
-      <par n="__invariant_n"/>
+      <i>monoton</i>
+      <par n="a__adj"/>
     </e>
     <e lm="monstro">
       <i>monstr</i>
@@ -18574,8 +18541,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="monumentala">
-      <i>monumentala</i>
-      <par n="__invariant_n"/>
+      <i>monumental</i>
+      <par n="a__adj"/>
     </e>
     <e lm="monumento">
       <i>monument</i>
@@ -18750,8 +18717,8 @@
       <par n="o__n"/>
     </e>
     <e lm="multa">
-      <i>multa</i>
-      <par n="__invariant_n"/>
+      <i>mult</i>
+      <par n="a__adj"/>
     </e>
     <e lm="multiplikar">
       <i>multiplik</i>
@@ -18826,20 +18793,20 @@
       <par n="o__n"/>
     </e>
     <e lm="muta">
-      <i>muta</i>
-      <par n="__invariant_n"/>
+      <i>mut</i>
+      <par n="a__adj"/>
     </e>
     <e lm="mutacebla">
-      <i>mutacebla</i>
-      <par n="__invariant_n"/>
+      <i>mutacebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="mutono">
       <i>muton</i>
       <par n="o__n"/>
     </e>
     <e lm="mutuala">
-      <i>mutuala</i>
-      <par n="__invariant_n"/>
+      <i>mutual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="muzelo">
       <i>muzel</i>
@@ -18878,12 +18845,12 @@
       <par n="o__n"/>
     </e>
     <e lm="naiva">
-      <i>naiva</i>
-      <par n="__invariant_n"/>
+      <i>naiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="naive">
-      <i>naive</i>
-      <par n="__invariant_n"/>
+      <i>naiv</i>
+      <par n="e__adv"/>
     </e>
     <e lm="naktigalo">
       <i>naktigal</i>
@@ -18930,8 +18897,8 @@
       <par n="o__n"/>
     </e>
     <e lm="naturala">
-      <i>naturala</i>
-      <par n="__invariant_n"/>
+      <i>natural</i>
+      <par n="a__adj"/>
     </e>
     <e lm="naturo">
       <i>natur</i>
@@ -18966,16 +18933,16 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="neadmisebla">
-      <i>neadmisebla</i>
-      <par n="__invariant_n"/>
+      <i>neadmisebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neago">
       <i>neag</i>
       <par n="o__n"/>
     </e>
     <e lm="neatencoza">
-      <i>neatencoza</i>
-      <par n="__invariant_n"/>
+      <i>neatencoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nebular">
       <i>nebul</i>
@@ -18986,64 +18953,64 @@
       <par n="o__n"/>
     </e>
     <e lm="necerta">
-      <i>necerta</i>
-      <par n="__invariant_n"/>
+      <i>necert</i>
+      <par n="a__adj"/>
     </e>
     <e lm="necesa">
-      <i>necesa</i>
-      <par n="__invariant_n"/>
+      <i>neces</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nechanjebla">
-      <i>nechanjebla</i>
-      <par n="__invariant_n"/>
+      <i>nechanjebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nedependo">
       <i>nedepend</i>
       <par n="o__n"/>
     </e>
     <e lm="nedicebla">
-      <i>nedicebla</i>
-      <par n="__invariant_n"/>
+      <i>nedicebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nedireta">
-      <i>nedireta</i>
-      <par n="__invariant_n"/>
+      <i>nediret</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nedormado">
       <i>nedormad</i>
       <par n="o__n"/>
     </e>
     <e lm="nedubitebla">
-      <i>nedubitebla</i>
-      <par n="__invariant_n"/>
+      <i>nedubitebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neeroriva">
-      <i>neeroriva</i>
-      <par n="__invariant_n"/>
+      <i>neeroriv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neevaluebla">
-      <i>neevaluebla</i>
-      <par n="__invariant_n"/>
+      <i>neevaluebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neevitebla">
-      <i>neevitebla</i>
-      <par n="__invariant_n"/>
+      <i>neevitebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neeviteble">
-      <i>neeviteble</i>
-      <par n="__invariant_n"/>
+      <i>neevitebl</i>
+      <par n="e__adv"/>
     </e>
     <e lm="neexpektita">
-      <i>neexpektita</i>
-      <par n="__invariant_n"/>
+      <i>neexpektit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nefacila">
-      <i>nefacila</i>
-      <par n="__invariant_n"/>
+      <i>nefacil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neflexebla">
-      <i>neflexebla</i>
-      <par n="__invariant_n"/>
+      <i>neflexebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nefrito">
       <i>nefrit</i>
@@ -19054,8 +19021,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="negativa">
-      <i>negativa</i>
-      <par n="__invariant_n"/>
+      <i>negativ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neglijar">
       <i>neglij</i>
@@ -19078,8 +19045,8 @@
       <par n="o__n"/>
     </e>
     <e lm="nehomala">
-      <i>nehomala</i>
-      <par n="__invariant_n"/>
+      <i>nehomal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nek">
       <i>nek</i>
@@ -19090,28 +19057,28 @@
       <par n="__cnjcoo"/>
     </e>
     <e lm="nekalkulebla">
-      <i>nekalkulebla</i>
-      <par n="__invariant_n"/>
+      <i>nekalkulebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nekohero">
       <i>nekoher</i>
       <par n="o__n"/>
     </e>
     <e lm="nekomprenebla">
-      <i>nekomprenebla</i>
-      <par n="__invariant_n"/>
+      <i>nekomprenebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nekontenta">
-      <i>nekontenta</i>
-      <par n="__invariant_n"/>
+      <i>nekontent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nekonvenanta">
-      <i>nekonvenanta</i>
-      <par n="__invariant_n"/>
+      <i>nekonvenant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nekredebla">
-      <i>nekredebla</i>
-      <par n="__invariant_n"/>
+      <i>nekredebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nekrofilio">
       <i>nekrofili</i>
@@ -19134,44 +19101,44 @@
       <par n="o__n"/>
     </e>
     <e lm="neloyala">
-      <i>neloyala</i>
-      <par n="__invariant_n"/>
+      <i>neloyal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nematodo">
       <i>nematod</i>
       <par n="o__n"/>
     </e>
     <e lm="nemezurebla">
-      <i>nemezurebla</i>
-      <par n="__invariant_n"/>
+      <i>nemezurebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nemortiva">
-      <i>nemortiva</i>
-      <par n="__invariant_n"/>
+      <i>nemortiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nemovanta">
-      <i>nemovanta</i>
-      <par n="__invariant_n"/>
+      <i>nemovant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nenaturala">
-      <i>nenaturala</i>
-      <par n="__invariant_n"/>
+      <i>nenatural</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nenobelo">
       <i>nenobel</i>
       <par n="o__n"/>
     </e>
     <e lm="nenormala">
-      <i>nenormala</i>
-      <par n="__invariant_n"/>
+      <i>nenormal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nenufaro">
       <i>nenufar</i>
       <par n="o__n"/>
     </e>
     <e lm="neobliviebla">
-      <i>neobliviebla</i>
-      <par n="__invariant_n"/>
+      <i>neobliviebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neodimio">
       <i>neodimi</i>
@@ -19186,32 +19153,32 @@
       <par n="o__n"/>
     </e>
     <e lm="neoportune">
-      <i>neoportune</i>
-      <par n="__invariant_n"/>
+      <i>neoportun</i>
+      <par n="e__adv"/>
     </e>
     <e lm="neordinara">
-      <i>neordinara</i>
-      <par n="__invariant_n"/>
+      <i>neordinar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neorganika">
-      <i>neorganika</i>
-      <par n="__invariant_n"/>
+      <i>neorganik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nepacienta">
-      <i>nepacienta</i>
-      <par n="__invariant_n"/>
+      <i>nepacient</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neperfekta">
-      <i>neperfekta</i>
-      <par n="__invariant_n"/>
+      <i>neperfekt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nepolita">
-      <i>nepolita</i>
-      <par n="__invariant_n"/>
+      <i>nepolit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neposibla">
-      <i>neposibla</i>
-      <par n="__invariant_n"/>
+      <i>neposibl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nepotino">
       <i>nepotin</i>
@@ -19230,12 +19197,12 @@
       <par n="o__n"/>
     </e>
     <e lm="neprezenta">
-      <i>neprezenta</i>
-      <par n="__invariant_n"/>
+      <i>neprezent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nepura">
-      <i>nepura</i>
-      <par n="__invariant_n"/>
+      <i>nepur</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neregulozajo">
       <i>neregulozaj</i>
@@ -19258,20 +19225,20 @@
       <par n="o__n"/>
     </e>
     <e lm="nervoza">
-      <i>nervoza</i>
-      <par n="__invariant_n"/>
+      <i>nervoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nesanigebla">
-      <i>nesanigebla</i>
-      <par n="__invariant_n"/>
+      <i>nesanigebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neseparebla">
-      <i>neseparebla</i>
-      <par n="__invariant_n"/>
+      <i>neseparebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nestabila">
-      <i>nestabila</i>
-      <par n="__invariant_n"/>
+      <i>nestabil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nesto">
       <i>nest</i>
@@ -19282,36 +19249,36 @@
       <par n="o__n"/>
     </e>
     <e lm="neta">
-      <i>neta</i>
-      <par n="__invariant_n"/>
+      <i>net</i>
+      <par n="a__adj"/>
     </e>
     <e lm="netoleranta">
-      <i>netoleranta</i>
-      <par n="__invariant_n"/>
+      <i>netolerant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="netranquila">
-      <i>netranquila</i>
-      <par n="__invariant_n"/>
+      <i>netranquil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="netransitiva">
-      <i>netransitiva</i>
-      <par n="__invariant_n"/>
+      <i>netransitiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neurono">
       <i>neuron</i>
       <par n="o__n"/>
     </e>
     <e lm="neutila">
-      <i>neutila</i>
-      <par n="__invariant_n"/>
+      <i>neutil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neutra">
-      <i>neutra</i>
-      <par n="__invariant_n"/>
+      <i>neutr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nevidebla">
-      <i>nevidebla</i>
-      <par n="__invariant_n"/>
+      <i>nevidebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nevino">
       <i>nevin</i>
@@ -19346,20 +19313,20 @@
       <par n="o__n"/>
     </e>
     <e lm="nexta">
-      <i>nexta</i>
-      <par n="__invariant_n"/>
+      <i>next</i>
+      <par n="a__adj"/>
     </e>
     <e lm="neyusta">
-      <i>neyusta</i>
-      <par n="__invariant_n"/>
+      <i>neyust</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ni">
       <i>ni</i>
       <par n="__prn"/>
     </e>
     <e lm="nigra">
-      <i>nigra</i>
-      <par n="__invariant_n"/>
+      <i>nigr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nigra truo">
       <i>nigra tru</i>
@@ -19378,8 +19345,8 @@
       <par n="o__n"/>
     </e>
     <e lm="niktalopa">
-      <i>niktalopa</i>
-      <par n="__invariant_n"/>
+      <i>niktalop</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nimbo">
       <i>nimb</i>
@@ -19422,12 +19389,12 @@
       <par n="__ij"/>
     </e>
     <e lm="nobela">
-      <i>nobela</i>
-      <par n="__invariant_n"/>
+      <i>nobel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nobla">
-      <i>nobla</i>
-      <par n="__invariant_n"/>
+      <i>nobl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nocar">
       <i>noc</i>
@@ -19442,8 +19409,8 @@
       <par n="o__n"/>
     </e>
     <e lm="nociva">
-      <i>nociva</i>
-      <par n="__invariant_n"/>
+      <i>nociv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nodo">
       <i>nod</i>
@@ -19498,8 +19465,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="nonesma">
-      <i>nonesma</i>
-      <par n="__invariant_n"/>
+      <i>nonesm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="noniliardo">
       <i>noniliard</i>
@@ -19546,12 +19513,12 @@
       <par n="o__n"/>
     </e>
     <e lm="notora">
-      <i>notora</i>
-      <par n="__invariant_n"/>
+      <i>notor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nova">
-      <i>nova</i>
-      <par n="__invariant_n"/>
+      <i>nov</i>
+      <par n="a__adj"/>
     </e>
     <e lm="novelo">
       <i>novel</i>
@@ -19590,8 +19557,8 @@
       <par n="o__n"/>
     </e>
     <e lm="nuda">
-      <i>nuda</i>
-      <par n="__invariant_n"/>
+      <i>nud</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nudlo">
       <i>nudl</i>
@@ -19610,20 +19577,20 @@
       <par n="o__n"/>
     </e>
     <e lm="nula">
-      <i>nula</i>
-      <par n="__invariant_n"/>
+      <i>nul</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nulo">
       <i>nul</i>
       <par n="o__n"/>
     </e>
     <e lm="nulosavanta">
-      <i>nulosavanta</i>
-      <par n="__invariant_n"/>
+      <i>nulosavant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nultempe">
-      <i>nultempe</i>
-      <par n="__invariant_n"/>
+      <i>nultemp</i>
+      <par n="e__adv"/>
     </e>
     <e lm="nulu">
       <i>nulu</i>
@@ -19646,12 +19613,12 @@
       <par n="e__adv"/>
     </e>
     <e lm="nuna">
-      <i>nuna</i>
-      <par n="__invariant_n"/>
+      <i>nun</i>
+      <par n="a__adj"/>
     </e>
     <e lm="nuntempe">
-      <i>nuntempe</i>
-      <par n="__invariant_n"/>
+      <i>nuntemp</i>
+      <par n="e__adv"/>
     </e>
     <e lm="nur">
       <i>nur</i>
@@ -19674,8 +19641,8 @@
       <par n="o__n"/>
     </e>
     <e lm="obcena">
-      <i>obcena</i>
-      <par n="__invariant_n"/>
+      <i>obcen</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obediar">
       <i>obedi</i>
@@ -19710,8 +19677,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="obliqua">
-      <i>obliqua</i>
-      <par n="__invariant_n"/>
+      <i>obliqu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obliterar">
       <i>obliter</i>
@@ -19722,8 +19689,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="oblonga">
-      <i>oblonga</i>
-      <par n="__invariant_n"/>
+      <i>oblong</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obsedar">
       <i>obsed</i>
@@ -19742,16 +19709,16 @@
       <par n="o__n"/>
     </e>
     <e lm="obskura">
-      <i>obskura</i>
-      <par n="__invariant_n"/>
+      <i>obskur</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obskurigo">
       <i>obskurig</i>
       <par n="o__n"/>
     </e>
     <e lm="obsoleta">
-      <i>obsoleta</i>
-      <par n="__invariant_n"/>
+      <i>obsolet</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obstaklo">
       <i>obstakl</i>
@@ -19762,8 +19729,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="obstinema">
-      <i>obstinema</i>
-      <par n="__invariant_n"/>
+      <i>obstinem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obstruktar">
       <i>obstrukt</i>
@@ -19774,8 +19741,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="obtuza">
-      <i>obtuza</i>
-      <par n="__invariant_n"/>
+      <i>obtuz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="obuso">
       <i>obus</i>
@@ -19802,12 +19769,12 @@
       <par n="o__n"/>
     </e>
     <e lm="ociema">
-      <i>ociema</i>
-      <par n="__invariant_n"/>
+      <i>ociem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ociera">
-      <i>ociera</i>
-      <par n="__invariant_n"/>
+      <i>ocier</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ocilar">
       <i>ocil</i>
@@ -19830,8 +19797,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="odiinda">
-      <i>odiinda</i>
-      <par n="__invariant_n"/>
+      <i>odiind</i>
+      <par n="a__adj"/>
     </e>
     <e lm="odorar">
       <i>odor</i>
@@ -19870,8 +19837,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ofta">
-      <i>ofta</i>
-      <par n="__invariant_n"/>
+      <i>oft</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ofte">
       <i>oft</i>
@@ -19930,8 +19897,8 @@
       <par n="o__n"/>
     </e>
     <e lm="okulta">
-      <i>okulta</i>
-      <par n="__invariant_n"/>
+      <i>okult</i>
+      <par n="a__adj"/>
     </e>
     <e lm="okupar">
       <i>okup</i>
@@ -19942,8 +19909,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="olda">
-      <i>olda</i>
-      <par n="__invariant_n"/>
+      <i>old</i>
+      <par n="a__adj"/>
     </e>
     <e lm="oleo">
       <i>ole</i>
@@ -19974,8 +19941,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="olua">
-      <i>olua</i>
-      <par n="__invariant_n"/>
+      <i>olu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ombro">
       <i>ombr</i>
@@ -19990,16 +19957,16 @@
       <par n="o__n"/>
     </e>
     <e lm="omna">
-      <i>omna</i>
-      <par n="__invariant_n"/>
+      <i>omn</i>
+      <par n="a__adj"/>
     </e>
     <e lm="omnaloke">
-      <i>omnaloke</i>
-      <par n="__invariant_n"/>
+      <i>omnalok</i>
+      <par n="e__adv"/>
     </e>
     <e lm="omnasorta">
-      <i>omnasorta</i>
-      <par n="__invariant_n"/>
+      <i>omnasort</i>
+      <par n="a__adj"/>
     </e>
     <e lm="omnibuso">
       <i>omnibus</i>
@@ -20038,8 +20005,8 @@
       <par n="o__n"/>
     </e>
     <e lm="opaka">
-      <i>opaka</i>
-      <par n="__invariant_n"/>
+      <i>opak</i>
+      <par n="a__adj"/>
     </e>
     <e lm="opalo">
       <i>opal</i>
@@ -20094,8 +20061,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ora">
-      <i>ora</i>
-      <par n="__invariant_n"/>
+      <i>or</i>
+      <par n="a__adj"/>
     </e>
     <e lm="oraklo">
       <i>orakl</i>
@@ -20122,8 +20089,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ordinara">
-      <i>ordinara</i>
-      <par n="__invariant_n"/>
+      <i>ordinar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="orelo">
       <i>orel</i>
@@ -20138,8 +20105,8 @@
       <par n="o__n"/>
     </e>
     <e lm="organika">
-      <i>organika</i>
-      <par n="__invariant_n"/>
+      <i>organik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="organismo">
       <i>organism</i>
@@ -20166,8 +20133,8 @@
       <par n="o__n"/>
     </e>
     <e lm="originala">
-      <i>originala</i>
-      <par n="__invariant_n"/>
+      <i>original</i>
+      <par n="a__adj"/>
     </e>
     <e lm="origino">
       <i>origin</i>
@@ -20198,16 +20165,16 @@
       <par n="o__n"/>
     </e>
     <e lm="orofila">
-      <i>orofila</i>
-      <par n="__invariant_n"/>
+      <i>orofil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="orta">
-      <i>orta</i>
-      <par n="__invariant_n"/>
+      <i>ort</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ortodoxa">
-      <i>ortodoxa</i>
-      <par n="__invariant_n"/>
+      <i>ortodox</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ortografio">
       <i>ortografi</i>
@@ -20222,8 +20189,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ostala">
-      <i>ostala</i>
-      <par n="__invariant_n"/>
+      <i>ostal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ostentar">
       <i>ostent</i>
@@ -20242,8 +20209,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ovala">
-      <i>ovala</i>
-      <par n="__invariant_n"/>
+      <i>oval</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ovalo">
       <i>oval</i>
@@ -20254,8 +20221,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ovoida">
-      <i>ovoida</i>
-      <par n="__invariant_n"/>
+      <i>ovoid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ovulo">
       <i>ovul</i>
@@ -20286,8 +20253,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="pacienta">
-      <i>pacienta</i>
-      <par n="__invariant_n"/>
+      <i>pacient</i>
+      <par n="a__adj"/>
     </e>
     <e lm="paciente">
       <i>pacient</i>
@@ -20322,8 +20289,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pagana">
-      <i>pagana</i>
-      <par n="__invariant_n"/>
+      <i>pagan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pagano">
       <i>pagan</i>
@@ -20362,8 +20329,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="pala">
-      <i>pala</i>
-      <par n="__invariant_n"/>
+      <i>pal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="palaco">
       <i>palac</i>
@@ -20382,8 +20349,8 @@
       <par n="o__n"/>
     </e>
     <e lm="paliativa">
-      <i>paliativa</i>
-      <par n="__invariant_n"/>
+      <i>paliativ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="palindromo">
       <i>palindrom</i>
@@ -20458,8 +20425,8 @@
       <par n="o__n"/>
     </e>
     <e lm="panika">
-      <i>panika</i>
-      <par n="__invariant_n"/>
+      <i>panik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="paniko">
       <i>panik</i>
@@ -20542,8 +20509,8 @@
       <par n="o__n"/>
     </e>
     <e lm="para">
-      <i>para</i>
-      <par n="__invariant_n"/>
+      <i>par</i>
+      <par n="a__adj"/>
     </e>
     <e lm="parabolo">
       <i>parabol</i>
@@ -20582,8 +20549,8 @@
       <par n="o__n"/>
     </e>
     <e lm="paralela">
-      <i>paralela</i>
-      <par n="__invariant_n"/>
+      <i>paralel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="paralizar">
       <i>paraliz</i>
@@ -20610,8 +20577,8 @@
       <par n="o__n"/>
     </e>
     <e lm="parazita">
-      <i>parazita</i>
-      <par n="__invariant_n"/>
+      <i>parazit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="parazitar">
       <i>parazit</i>
@@ -20630,8 +20597,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="parenta">
-      <i>parenta</i>
-      <par n="__invariant_n"/>
+      <i>parent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="parfumo">
       <i>parfum</i>
@@ -20690,8 +20657,8 @@
       <par n="o__n"/>
     </e>
     <e lm="partala">
-      <i>partala</i>
-      <par n="__invariant_n"/>
+      <i>partal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="partenero">
       <i>partener</i>
@@ -20710,8 +20677,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="partikulara">
-      <i>partikulara</i>
-      <par n="__invariant_n"/>
+      <i>partikular</i>
+      <par n="a__adj"/>
     </e>
     <e lm="partikulo">
       <i>partikul</i>
@@ -20770,8 +20737,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pasiva">
-      <i>pasiva</i>
-      <par n="__invariant_n"/>
+      <i>pasiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pasko">
       <i>pask</i>
@@ -20830,8 +20797,8 @@
       <par n="o__n"/>
     </e>
     <e lm="patogena">
-      <i>patogena</i>
-      <par n="__invariant_n"/>
+      <i>patogen</i>
+      <par n="a__adj"/>
     </e>
     <e lm="patologio">
       <i>patologi</i>
@@ -20930,8 +20897,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pejorativa">
-      <i>pejorativa</i>
-      <par n="__invariant_n"/>
+      <i>pejorativ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pejorativo">
       <i>pejorativ</i>
@@ -20946,8 +20913,8 @@
       <par n="o__n"/>
     </e>
     <e lm="peko originala">
-      <i>peko originala</i>
-      <par n="__invariant_n"/>
+      <i>peko original</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pektar">
       <i>pekt</i>
@@ -21002,8 +20969,8 @@
       <par n="o__n"/>
     </e>
     <e lm="penetranta">
-      <i>penetranta</i>
-      <par n="__invariant_n"/>
+      <i>penetrant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="penetrar">
       <i>penetr</i>
@@ -21078,12 +21045,12 @@
       <par n="o__n"/>
     </e>
     <e lm="perena">
-      <i>perena</i>
-      <par n="__invariant_n"/>
+      <i>peren</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perfekta">
-      <i>perfekta</i>
-      <par n="__invariant_n"/>
+      <i>perfekt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perfekteso">
       <i>perfektes</i>
@@ -21094,8 +21061,8 @@
       <par n="o__n"/>
     </e>
     <e lm="perfida">
-      <i>perfida</i>
-      <par n="__invariant_n"/>
+      <i>perfid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perforar">
       <i>perfor</i>
@@ -21114,8 +21081,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="periodala">
-      <i>periodala</i>
-      <par n="__invariant_n"/>
+      <i>periodal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="periodo">
       <i>period</i>
@@ -21154,20 +21121,20 @@
       <par n="o__n"/>
     </e>
     <e lm="perlomatra">
-      <i>perlomatra</i>
-      <par n="__invariant_n"/>
+      <i>perlomatr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perlomatro">
       <i>perlomatr</i>
       <par n="o__n"/>
     </e>
     <e lm="permananta">
-      <i>permananta</i>
-      <par n="__invariant_n"/>
+      <i>permanant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="permanante">
-      <i>permanante</i>
-      <par n="__invariant_n"/>
+      <i>permanant</i>
+      <par n="e__adv"/>
     </e>
     <e lm="permanar">
       <i>perman</i>
@@ -21190,20 +21157,20 @@
       <par n="o__n"/>
     </e>
     <e lm="perpendikla">
-      <i>perpendikla</i>
-      <par n="__invariant_n"/>
+      <i>perpendikl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perpendikleso">
       <i>perpendikles</i>
       <par n="o__n"/>
     </e>
     <e lm="perpetua">
-      <i>perpetua</i>
-      <par n="__invariant_n"/>
+      <i>perpetu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perplexa">
-      <i>perplexa</i>
-      <par n="__invariant_n"/>
+      <i>perplex</i>
+      <par n="a__adj"/>
     </e>
     <e lm="persekutar">
       <i>persekut</i>
@@ -21238,12 +21205,12 @@
       <par n="o__n"/>
     </e>
     <e lm="personoza">
-      <i>personoza</i>
-      <par n="__invariant_n"/>
+      <i>personoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perspektiva">
-      <i>perspektiva</i>
-      <par n="__invariant_n"/>
+      <i>perspektiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="perspektivo">
       <i>perspektiv</i>
@@ -21362,8 +21329,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pikanta">
-      <i>pikanta</i>
-      <par n="__invariant_n"/>
+      <i>pikant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pikar">
       <i>pik</i>
@@ -21538,8 +21505,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pitoreska">
-      <i>pitoreska</i>
-      <par n="__invariant_n"/>
+      <i>pitoresk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pizo">
       <i>piz</i>
@@ -21586,8 +21553,8 @@
       <par n="o__n"/>
     </e>
     <e lm="plana">
-      <i>plana</i>
-      <par n="__invariant_n"/>
+      <i>plan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="planakanto">
       <i>planakant</i>
@@ -21630,16 +21597,16 @@
       <par n="o__n"/>
     </e>
     <e lm="plastika">
-      <i>plastika</i>
-      <par n="__invariant_n"/>
+      <i>plastik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="plastro">
       <i>plastr</i>
       <par n="o__n"/>
     </e>
     <e lm="plata">
-      <i>plata</i>
-      <par n="__invariant_n"/>
+      <i>plat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="platano">
       <i>platan</i>
@@ -21678,8 +21645,8 @@
       <par n="o__n"/>
     </e>
     <e lm="plena">
-      <i>plena</i>
-      <par n="__invariant_n"/>
+      <i>plen</i>
+      <par n="a__adj"/>
     </e>
     <e lm="plendar">
       <i>plend</i>
@@ -21754,16 +21721,16 @@
       <par n="o__n"/>
     </e>
     <e lm="plumpa">
-      <i>plumpa</i>
-      <par n="__invariant_n"/>
+      <i>plump</i>
+      <par n="a__adj"/>
     </e>
     <e lm="plunjar">
       <i>plunj</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="plura">
-      <i>plura</i>
-      <par n="__invariant_n"/>
+      <i>plur</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pluse">
       <i>plus</i>
@@ -21802,12 +21769,12 @@
       <par n="o__n"/>
     </e>
     <e lm="poka">
-      <i>poka</i>
-      <par n="__invariant_n"/>
+      <i>pok</i>
+      <par n="a__adj"/>
     </e>
     <e lm="polara">
-      <i>polara</i>
-      <par n="__invariant_n"/>
+      <i>polar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="polarimetro">
       <i>polarimetr</i>
@@ -21834,12 +21801,12 @@
       <par n="o__n"/>
     </e>
     <e lm="poligama">
-      <i>poligama</i>
-      <par n="__invariant_n"/>
+      <i>poligam</i>
+      <par n="a__adj"/>
     </e>
     <e lm="poliglota">
-      <i>poliglota</i>
-      <par n="__invariant_n"/>
+      <i>poliglot</i>
+      <par n="a__adj"/>
     </e>
     <e lm="poligono">
       <i>poligon</i>
@@ -21854,8 +21821,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="polita">
-      <i>polita</i>
-      <par n="__invariant_n"/>
+      <i>polit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="politeso">
       <i>polites</i>
@@ -21910,8 +21877,8 @@
       <par n="o__n"/>
     </e>
     <e lm="polvoza">
-      <i>polvoza</i>
-      <par n="__invariant_n"/>
+      <i>polvoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pomado">
       <i>pomad</i>
@@ -21958,16 +21925,16 @@
       <par n="o__n"/>
     </e>
     <e lm="populara">
-      <i>populara</i>
-      <par n="__invariant_n"/>
+      <i>popular</i>
+      <par n="a__adj"/>
     </e>
     <e lm="populo">
       <i>popul</i>
       <par n="o__n"/>
     </e>
     <e lm="porcelana">
-      <i>porcelana</i>
-      <par n="__invariant_n"/>
+      <i>porcelan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="porciono">
       <i>porcion</i>
@@ -22002,8 +21969,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pornografa">
-      <i>pornografa</i>
-      <par n="__invariant_n"/>
+      <i>pornograf</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pornografio">
       <i>pornografi</i>
@@ -22038,8 +22005,8 @@
       <par n="__pr"/>
     </e>
     <e lm="pose">
-      <i>pose</i>
-      <par n="__invariant_n"/>
+      <i>pos</i>
+      <par n="e__adv"/>
     </e>
     <e lm="posedar">
       <i>posed</i>
@@ -22050,16 +22017,16 @@
       <par n="o__n"/>
     </e>
     <e lm="posibla">
-      <i>posibla</i>
-      <par n="__invariant_n"/>
+      <i>posibl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="posmorge">
       <i>posmorg</i>
       <par n="e__adv"/>
     </e>
     <e lm="posmorta">
-      <i>posmorta</i>
-      <par n="__invariant_n"/>
+      <i>posmort</i>
+      <par n="a__adj"/>
     </e>
     <e lm="posteno">
       <i>posten</i>
@@ -22074,8 +22041,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="postuma">
-      <i>postuma</i>
-      <par n="__invariant_n"/>
+      <i>postum</i>
+      <par n="a__adj"/>
     </e>
     <e lm="posturar">
       <i>postur</i>
@@ -22086,8 +22053,8 @@
       <par n="o__n"/>
     </e>
     <e lm="potenciala">
-      <i>potenciala</i>
-      <par n="__invariant_n"/>
+      <i>potencial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="potencialo">
       <i>potencial</i>
@@ -22098,8 +22065,8 @@
       <par n="o__n"/>
     </e>
     <e lm="potenta">
-      <i>potenta</i>
-      <par n="__invariant_n"/>
+      <i>potent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="poto">
       <i>pot</i>
@@ -22110,8 +22077,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="povra">
-      <i>povra</i>
-      <par n="__invariant_n"/>
+      <i>povr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pozar">
       <i>poz</i>
@@ -22122,8 +22089,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pozitiva">
-      <i>pozitiva</i>
-      <par n="__invariant_n"/>
+      <i>pozitiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pragmato">
       <i>pragmat</i>
@@ -22158,20 +22125,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="precipua">
-      <i>precipua</i>
-      <par n="__invariant_n"/>
+      <i>precipu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="precipue">
       <i>precipu</i>
       <par n="e__adv"/>
     </e>
     <e lm="preciza">
-      <i>preciza</i>
-      <par n="__invariant_n"/>
+      <i>preciz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="precize">
-      <i>precize</i>
-      <par n="__invariant_n"/>
+      <i>preciz</i>
+      <par n="e__adv"/>
     </e>
     <e lm="preco">
       <i>prec</i>
@@ -22182,8 +22149,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="predicebla">
-      <i>predicebla</i>
-      <par n="__invariant_n"/>
+      <i>predicebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="predikar">
       <i>predik</i>
@@ -22218,20 +22185,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="prehiere">
-      <i>prehiere</i>
-      <par n="__invariant_n"/>
+      <i>prehier</i>
+      <par n="e__adv"/>
     </e>
     <e lm="prekoca">
-      <i>prekoca</i>
-      <par n="__invariant_n"/>
+      <i>prekoc</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prelasta">
-      <i>prelasta</i>
-      <par n="__invariant_n"/>
+      <i>prelast</i>
+      <par n="a__adj"/>
     </e>
     <e lm="preliminara">
-      <i>preliminara</i>
-      <par n="__invariant_n"/>
+      <i>preliminar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="preliminaro">
       <i>preliminar</i>
@@ -22274,8 +22241,8 @@
       <par n="o__n"/>
     </e>
     <e lm="prepucala">
-      <i>prepucala</i>
-      <par n="__invariant_n"/>
+      <i>prepucal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prepuco">
       <i>prepuc</i>
@@ -22286,8 +22253,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="presbita">
-      <i>presbita</i>
-      <par n="__invariant_n"/>
+      <i>presbit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="preske">
       <i>presk</i>
@@ -22346,12 +22313,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="previdebla">
-      <i>previdebla</i>
-      <par n="__invariant_n"/>
+      <i>previdebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prezenta">
-      <i>prezenta</i>
-      <par n="__invariant_n"/>
+      <i>prezent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prezervar">
       <i>prezerv</i>
@@ -22378,16 +22345,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="prima">
-      <i>prima</i>
-      <par n="__invariant_n"/>
+      <i>prim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="primadono">
       <i>primadon</i>
       <par n="o__n"/>
     </e>
     <e lm="primitiva">
-      <i>primitiva</i>
-      <par n="__invariant_n"/>
+      <i>primitiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="primulo">
       <i>primul</i>
@@ -22414,8 +22381,8 @@
       <par n="o__n"/>
     </e>
     <e lm="priora">
-      <i>priora</i>
-      <par n="__invariant_n"/>
+      <i>prior</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prioreso">
       <i>priores</i>
@@ -22430,8 +22397,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="privata">
-      <i>privata</i>
-      <par n="__invariant_n"/>
+      <i>privat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="privilejo">
       <i>privilej</i>
@@ -22458,8 +22425,8 @@
       <par n="o__n"/>
     </e>
     <e lm="probabla">
-      <i>probabla</i>
-      <par n="__invariant_n"/>
+      <i>probabl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="probar">
       <i>prob</i>
@@ -22502,8 +22469,8 @@
       <par n="o__n"/>
     </e>
     <e lm="proda">
-      <i>proda</i>
-      <par n="__invariant_n"/>
+      <i>prod</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prodigar">
       <i>prodig</i>
@@ -22514,8 +22481,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="profana">
-      <i>profana</i>
-      <par n="__invariant_n"/>
+      <i>profan</i>
+      <par n="a__adj"/>
     </e>
     <e lm="profanacar">
       <i>profanac</i>
@@ -22526,8 +22493,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="profesionala">
-      <i>profesionala</i>
-      <par n="__invariant_n"/>
+      <i>profesional</i>
+      <par n="a__adj"/>
     </e>
     <e lm="profesiono">
       <i>profesion</i>
@@ -22554,8 +22521,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="profunda">
-      <i>profunda</i>
-      <par n="__invariant_n"/>
+      <i>profund</i>
+      <par n="a__adj"/>
     </e>
     <e lm="profundeso">
       <i>profundes</i>
@@ -22602,8 +22569,8 @@
       <par n="o__n"/>
     </e>
     <e lm="prolixa">
-      <i>prolixa</i>
-      <par n="__invariant_n"/>
+      <i>prolix</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prologo">
       <i>prolog</i>
@@ -22622,8 +22589,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="promiskua">
-      <i>promiskua</i>
-      <par n="__invariant_n"/>
+      <i>promisku</i>
+      <par n="a__adj"/>
     </e>
     <e lm="promiso">
       <i>promis</i>
@@ -22638,8 +22605,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pronta">
-      <i>pronta</i>
-      <par n="__invariant_n"/>
+      <i>pront</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pronuncar">
       <i>pronunc</i>
@@ -22666,8 +22633,8 @@
       <par n="o__n"/>
     </e>
     <e lm="propra">
-      <i>propra</i>
-      <par n="__invariant_n"/>
+      <i>propr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="proprietajo">
       <i>proprietaj</i>
@@ -22718,8 +22685,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="protestanta">
-      <i>protestanta</i>
-      <par n="__invariant_n"/>
+      <i>protestant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="protestantismo">
       <i>protestantism</i>
@@ -22758,8 +22725,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="provizora">
-      <i>provizora</i>
-      <par n="__invariant_n"/>
+      <i>provizor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="provokar">
       <i>provok</i>
@@ -22778,12 +22745,12 @@
       <par n="o__n"/>
     </e>
     <e lm="pruda">
-      <i>pruda</i>
-      <par n="__invariant_n"/>
+      <i>prud</i>
+      <par n="a__adj"/>
     </e>
     <e lm="prudenta">
-      <i>prudenta</i>
-      <par n="__invariant_n"/>
+      <i>prudent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pruinar">
       <i>pruin</i>
@@ -22822,8 +22789,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pseudonima">
-      <i>pseudonima</i>
-      <par n="__invariant_n"/>
+      <i>pseudonim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pseudonimo">
       <i>pseudonim</i>
@@ -22850,16 +22817,16 @@
       <par n="o__n"/>
     </e>
     <e lm="pubera">
-      <i>pubera</i>
-      <par n="__invariant_n"/>
+      <i>puber</i>
+      <par n="a__adj"/>
     </e>
     <e lm="pubio">
       <i>pubi</i>
       <par n="o__n"/>
     </e>
     <e lm="publika">
-      <i>publika</i>
-      <par n="__invariant_n"/>
+      <i>publik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="publikigo">
       <i>publikig</i>
@@ -22974,8 +22941,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="punisita">
-      <i>punisita</i>
-      <par n="__invariant_n"/>
+      <i>punisit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="punsar">
       <i>puns</i>
@@ -22998,8 +22965,8 @@
       <par n="o__n"/>
     </e>
     <e lm="pura">
-      <i>pura</i>
-      <par n="__invariant_n"/>
+      <i>pur</i>
+      <par n="a__adj"/>
     </e>
     <e lm="purgar">
       <i>purg</i>
@@ -23010,8 +22977,8 @@
       <par n="o__n"/>
     </e>
     <e lm="purpurea">
-      <i>purpurea</i>
-      <par n="__invariant_n"/>
+      <i>purpure</i>
+      <par n="a__adj"/>
     </e>
     <e lm="purpuro">
       <i>purpur</i>
@@ -23042,20 +23009,20 @@
       <par n="o__n"/>
     </e>
     <e lm="qua">
-      <i>qua</i>
-      <par n="__invariant_n"/>
+      <i>qu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quadrata">
-      <i>quadrata</i>
-      <par n="__invariant_n"/>
+      <i>quadrat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quadrato">
       <i>quadrat</i>
       <par n="o__n"/>
     </e>
     <e lm="quadrika">
-      <i>quadrika</i>
-      <par n="__invariant_n"/>
+      <i>quadrik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quadriliardo">
       <i>quadriliard</i>
@@ -23082,8 +23049,8 @@
       <par n="__prn"/>
     </e>
     <e lm="quale">
-      <i>quale</i>
-      <par n="__invariant_n"/>
+      <i>qual</i>
+      <par n="e__adv"/>
     </e>
     <e lm="quale tu standas">
       <i>quale tu standas</i>
@@ -23110,12 +23077,12 @@
       <par n="__cnjcoo"/>
     </e>
     <e lm="quanta">
-      <i>quanta</i>
-      <par n="__invariant_n"/>
+      <i>quant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quantesma">
-      <i>quantesma</i>
-      <par n="__invariant_n"/>
+      <i>quantesm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quanto">
       <i>quant</i>
@@ -23134,8 +23101,8 @@
       <par n="o__n"/>
     </e>
     <e lm="quaresma">
-      <i>quaresma</i>
-      <par n="__invariant_n"/>
+      <i>quaresm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quarimo">
       <i>quarim</i>
@@ -23154,12 +23121,12 @@
       <par n="o__n"/>
     </e>
     <e lm="quaza">
-      <i>quaza</i>
-      <par n="__invariant_n"/>
+      <i>quaz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quaze">
-      <i>quaze</i>
-      <par n="__invariant_n"/>
+      <i>quaz</i>
+      <par n="e__adv"/>
     </e>
     <e lm="querar">
       <i>quer</i>
@@ -23186,8 +23153,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="quieta">
-      <i>quieta</i>
-      <par n="__invariant_n"/>
+      <i>quiet</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quik">
       <i>quik</i>
@@ -23230,8 +23197,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="quita">
-      <i>quita</i>
-      <par n="__invariant_n"/>
+      <i>quit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="quo">
       <i>qu</i>
@@ -23302,8 +23269,8 @@
       <par n="o__n"/>
     </e>
     <e lm="radioaktiva">
-      <i>radioaktiva</i>
-      <par n="__invariant_n"/>
+      <i>radioaktiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="radiografar">
       <i>radiograf</i>
@@ -23382,8 +23349,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ranca">
-      <i>ranca</i>
-      <par n="__invariant_n"/>
+      <i>ranc</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rankorar">
       <i>rankor</i>
@@ -23406,8 +23373,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="rapida">
-      <i>rapida</i>
-      <par n="__invariant_n"/>
+      <i>rapid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rapo">
       <i>rap</i>
@@ -23434,8 +23401,8 @@
       <par n="o__n"/>
     </e>
     <e lm="rara">
-      <i>rara</i>
-      <par n="__invariant_n"/>
+      <i>rar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="raskalo">
       <i>raskal</i>
@@ -23470,8 +23437,8 @@
       <par n="o__n"/>
     </e>
     <e lm="rauka">
-      <i>rauka</i>
-      <par n="__invariant_n"/>
+      <i>rauk</i>
+      <par n="a__adj"/>
     </e>
     <e lm="raupo">
       <i>raup</i>
@@ -23502,12 +23469,12 @@
       <par n="o__n"/>
     </e>
     <e lm="reala">
-      <i>reala</i>
-      <par n="__invariant_n"/>
+      <i>real</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rebela">
-      <i>rebela</i>
-      <par n="__invariant_n"/>
+      <i>rebel</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rebelesko">
       <i>rebelesk</i>
@@ -23522,12 +23489,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="recenta">
-      <i>recenta</i>
-      <par n="__invariant_n"/>
+      <i>recent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="recente">
-      <i>recente</i>
-      <par n="__invariant_n"/>
+      <i>recent</i>
+      <par n="e__adv"/>
     </e>
     <e lm="recepto">
       <i>recept</i>
@@ -23542,20 +23509,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="reciklebla">
-      <i>reciklebla</i>
-      <par n="__invariant_n"/>
+      <i>reciklebl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="reciproka">
-      <i>reciproka</i>
-      <par n="__invariant_n"/>
+      <i>reciprok</i>
+      <par n="a__adj"/>
     </e>
     <e lm="recitar">
       <i>recit</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="reda">
-      <i>reda</i>
-      <par n="__invariant_n"/>
+      <i>red</i>
+      <par n="a__adj"/>
     </e>
     <e lm="redaktar">
       <i>redakt</i>
@@ -23586,8 +23553,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="reflexa">
-      <i>reflexa</i>
-      <par n="__invariant_n"/>
+      <i>reflex</i>
+      <par n="a__adj"/>
     </e>
     <e lm="reflexo">
       <i>reflex</i>
@@ -23770,8 +23737,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="rekta">
-      <i>rekta</i>
-      <par n="__invariant_n"/>
+      <i>rekt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rektangulo">
       <i>rektangul</i>
@@ -23858,8 +23825,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="renala">
-      <i>renala</i>
-      <par n="__invariant_n"/>
+      <i>renal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rendevuo">
       <i>rendevu</i>
@@ -23930,8 +23897,8 @@
       <par n="o__n"/>
     </e>
     <e lm="repetala">
-      <i>repetala</i>
-      <par n="__invariant_n"/>
+      <i>repetal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="repetar">
       <i>repet</i>
@@ -24186,8 +24153,8 @@
       <par n="o__n"/>
     </e>
     <e lm="reza">
-      <i>reza</i>
-      <par n="__invariant_n"/>
+      <i>rez</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rezedo">
       <i>rezed</i>
@@ -24198,8 +24165,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="rezidala">
-      <i>rezidala</i>
-      <par n="__invariant_n"/>
+      <i>rezidal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rezidar">
       <i>rezid</i>
@@ -24222,16 +24189,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="rezinatra">
-      <i>rezinatra</i>
-      <par n="__invariant_n"/>
+      <i>rezinatr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rezino">
       <i>rezin</i>
       <par n="o__n"/>
     </e>
     <e lm="rezinoza">
-      <i>rezinoza</i>
-      <par n="__invariant_n"/>
+      <i>rezinoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rezistar">
       <i>rezist</i>
@@ -24286,8 +24253,8 @@
       <par n="o__n"/>
     </e>
     <e lm="richa">
-      <i>richa</i>
-      <par n="__invariant_n"/>
+      <i>rich</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ricino">
       <i>ricin</i>
@@ -24310,8 +24277,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="rigida">
-      <i>rigida</i>
-      <par n="__invariant_n"/>
+      <i>rigid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="riglo">
       <i>rigl</i>
@@ -24326,8 +24293,8 @@
       <par n="o__n"/>
     </e>
     <e lm="rigoroza">
-      <i>rigoroza</i>
-      <par n="__invariant_n"/>
+      <i>rigoroz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rikochar">
       <i>rikoch</i>
@@ -24406,8 +24373,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="rispektiva">
-      <i>rispektiva</i>
-      <par n="__invariant_n"/>
+      <i>rispektiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ristornar">
       <i>ristorn</i>
@@ -24458,8 +24425,8 @@
       <par n="o__n"/>
     </e>
     <e lm="robusta">
-      <i>robusta</i>
-      <par n="__invariant_n"/>
+      <i>robust</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rodar">
       <i>rod</i>
@@ -24478,8 +24445,8 @@
       <par n="o__n"/>
     </e>
     <e lm="rokoka">
-      <i>rokoka</i>
-      <par n="__invariant_n"/>
+      <i>rokok</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rokoko">
       <i>rokok</i>
@@ -24494,16 +24461,16 @@
       <par n="o__n"/>
     </e>
     <e lm="romantika">
-      <i>romantika</i>
-      <par n="__invariant_n"/>
+      <i>romantik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rombo">
       <i>romb</i>
       <par n="o__n"/>
     </e>
     <e lm="ronda">
-      <i>ronda</i>
-      <par n="__invariant_n"/>
+      <i>rond</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ronkar">
       <i>ronk</i>
@@ -24594,12 +24561,12 @@
       <par n="o__n"/>
     </e>
     <e lm="ruda">
-      <i>ruda</i>
-      <par n="__invariant_n"/>
+      <i>rud</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rufa">
-      <i>rufa</i>
-      <par n="__invariant_n"/>
+      <i>ruf</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rugbio">
       <i>rugbi</i>
@@ -24658,20 +24625,20 @@
       <par n="o__n"/>
     </e>
     <e lm="rustika">
-      <i>rustika</i>
-      <par n="__invariant_n"/>
+      <i>rustik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rustizita">
-      <i>rustizita</i>
-      <par n="__invariant_n"/>
+      <i>rustizit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rusto">
       <i>rust</i>
       <par n="o__n"/>
     </e>
     <e lm="rustoza">
-      <i>rustoza</i>
-      <par n="__invariant_n"/>
+      <i>rustoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="rutino">
       <i>rutin</i>
@@ -24726,16 +24693,16 @@
       <par n="o__n"/>
     </e>
     <e lm="sagaca">
-      <i>sagaca</i>
-      <par n="__invariant_n"/>
+      <i>sagac</i>
+      <par n="a__adj"/>
     </e>
     <e lm="saimo">
       <i>saim</i>
       <par n="o__n"/>
     </e>
     <e lm="saja">
-      <i>saja</i>
-      <par n="__invariant_n"/>
+      <i>saj</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sakarino">
       <i>sakarin</i>
@@ -24750,8 +24717,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sakra">
-      <i>sakra</i>
-      <par n="__invariant_n"/>
+      <i>sakr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sakramento">
       <i>sakrament</i>
@@ -24818,8 +24785,8 @@
       <par n="o__n"/>
     </e>
     <e lm="saloza">
-      <i>saloza</i>
-      <par n="__invariant_n"/>
+      <i>saloz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="salpetro">
       <i>salpetr</i>
@@ -24830,12 +24797,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="salubra">
-      <i>salubra</i>
-      <par n="__invariant_n"/>
+      <i>salubr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="salutara">
-      <i>salutara</i>
-      <par n="__invariant_n"/>
+      <i>salutar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="salvar">
       <i>salv</i>
@@ -24846,20 +24813,20 @@
       <par n="o__n"/>
     </e>
     <e lm="sama">
-      <i>sama</i>
-      <par n="__invariant_n"/>
+      <i>sam</i>
+      <par n="a__adj"/>
     </e>
     <e lm="samatempano">
       <i>samatempan</i>
       <par n="o__n"/>
     </e>
     <e lm="samatempe">
-      <i>samatempe</i>
-      <par n="__invariant_n"/>
+      <i>samatemp</i>
+      <par n="e__adv"/>
     </e>
     <e lm="sana">
-      <i>sana</i>
-      <par n="__invariant_n"/>
+      <i>san</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sancionar">
       <i>sancion</i>
@@ -24894,8 +24861,8 @@
       <par n="o__n"/>
     </e>
     <e lm="santa">
-      <i>santa</i>
-      <par n="__invariant_n"/>
+      <i>sant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="santalo">
       <i>santal</i>
@@ -24910,8 +24877,8 @@
       <par n="o__n"/>
     </e>
     <e lm="saporoza">
-      <i>saporoza</i>
-      <par n="__invariant_n"/>
+      <i>saporoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sapto">
       <i>sapt</i>
@@ -24950,8 +24917,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sate">
-      <i>sate</i>
-      <par n="__invariant_n"/>
+      <i>sat</i>
+      <par n="e__adv"/>
     </e>
     <e lm="satelito">
       <i>satelit</i>
@@ -25022,16 +24989,16 @@
       <par n="o__n"/>
     </e>
     <e lm="sedicianta">
-      <i>sedicianta</i>
-      <par n="__invariant_n"/>
+      <i>sediciant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sediciar">
       <i>sedici</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="sediciema">
-      <i>sediciema</i>
-      <par n="__invariant_n"/>
+      <i>sediciem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sedicio">
       <i>sedici</i>
@@ -25086,36 +25053,36 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sekreta">
-      <i>sekreta</i>
-      <par n="__invariant_n"/>
+      <i>sekret</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sekretario">
       <i>sekretari</i>
       <par n="o__n"/>
     </e>
     <e lm="sekrete">
-      <i>sekrete</i>
-      <par n="__invariant_n"/>
+      <i>sekret</i>
+      <par n="e__adv"/>
     </e>
     <e lm="sekto">
       <i>sekt</i>
       <par n="o__n"/>
     </e>
     <e lm="sekulara">
-      <i>sekulara</i>
-      <par n="__invariant_n"/>
+      <i>sekular</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sekundara">
-      <i>sekundara</i>
-      <par n="__invariant_n"/>
+      <i>sekundar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sekundo">
       <i>sekund</i>
       <par n="o__n"/>
     </e>
     <e lm="sekura">
-      <i>sekura</i>
-      <par n="__invariant_n"/>
+      <i>sekur</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sekureso">
       <i>sekures</i>
@@ -25146,8 +25113,8 @@
       <par n="o__n"/>
     </e>
     <e lm="semantikala">
-      <i>semantikala</i>
-      <par n="__invariant_n"/>
+      <i>semantikal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="semar">
       <i>sem</i>
@@ -25174,12 +25141,12 @@
       <par n="o__n"/>
     </e>
     <e lm="sencesa">
-      <i>sencesa</i>
-      <par n="__invariant_n"/>
+      <i>sences</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sencese">
-      <i>sencese</i>
-      <par n="__invariant_n"/>
+      <i>sences</i>
+      <par n="e__adv"/>
     </e>
     <e lm="senco">
       <i>senc</i>
@@ -25190,16 +25157,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sendefekte">
-      <i>sendefekte</i>
-      <par n="__invariant_n"/>
+      <i>sendefekt</i>
+      <par n="e__adv"/>
     </e>
     <e lm="senfina">
-      <i>senfina</i>
-      <par n="__invariant_n"/>
+      <i>senfin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="seniora">
-      <i>seniora</i>
-      <par n="__invariant_n"/>
+      <i>senior</i>
+      <par n="a__adj"/>
     </e>
     <e lm="senioro">
       <i>senior</i>
@@ -25218,16 +25185,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="senmova">
-      <i>senmova</i>
-      <par n="__invariant_n"/>
+      <i>senmov</i>
+      <par n="a__adj"/>
     </e>
     <e lm="senmovigo">
       <i>senmovig</i>
       <par n="o__n"/>
     </e>
     <e lm="senpaga">
-      <i>senpaga</i>
-      <par n="__invariant_n"/>
+      <i>senpag</i>
+      <par n="a__adj"/>
     </e>
     <e lm="senpolvigar">
       <i>senpolvig</i>
@@ -25238,16 +25205,16 @@
       <par n="o__n"/>
     </e>
     <e lm="sensenca">
-      <i>sensenca</i>
-      <par n="__invariant_n"/>
+      <i>sensenc</i>
+      <par n="a__adj"/>
     </e>
     <e lm="senso">
       <i>sens</i>
       <par n="o__n"/>
     </e>
     <e lm="sensorga">
-      <i>sensorga</i>
-      <par n="__invariant_n"/>
+      <i>sensorg</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sentar">
       <i>sent</i>
@@ -25258,12 +25225,12 @@
       <par n="o__n"/>
     </e>
     <e lm="senvalora">
-      <i>senvalora</i>
-      <par n="__invariant_n"/>
+      <i>senvalor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="senvertebra">
-      <i>senvertebra</i>
-      <par n="__invariant_n"/>
+      <i>senvertebr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="senvertebro">
       <i>senvertebr</i>
@@ -25294,8 +25261,8 @@
       <par n="o__n"/>
     </e>
     <e lm="septa">
-      <i>septa</i>
-      <par n="__invariant_n"/>
+      <i>sept</i>
+      <par n="a__adj"/>
     </e>
     <e lm="septembro">
       <i>septembr</i>
@@ -25326,8 +25293,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sequanta">
-      <i>sequanta</i>
-      <par n="__invariant_n"/>
+      <i>sequant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sequar">
       <i>sequ</i>
@@ -25350,8 +25317,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="serena">
-      <i>serena</i>
-      <par n="__invariant_n"/>
+      <i>seren</i>
+      <par n="a__adj"/>
     </e>
     <e lm="serenado">
       <i>serenad</i>
@@ -25370,8 +25337,8 @@
       <par n="o__n"/>
     </e>
     <e lm="serioza">
-      <i>serioza</i>
-      <par n="__invariant_n"/>
+      <i>serioz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="serjento">
       <i>serjent</i>
@@ -25430,8 +25397,8 @@
       <par n="o__n"/>
     </e>
     <e lm="severa">
-      <i>severa</i>
-      <par n="__invariant_n"/>
+      <i>sever</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sexteto">
       <i>sextet</i>
@@ -25506,16 +25473,16 @@
       <par n="o__n"/>
     </e>
     <e lm="shama">
-      <i>shama</i>
-      <par n="__invariant_n"/>
+      <i>sham</i>
+      <par n="a__adj"/>
     </e>
     <e lm="shamar">
       <i>sham</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="shaminda">
-      <i>shaminda</i>
-      <par n="__invariant_n"/>
+      <i>shamind</i>
+      <par n="a__adj"/>
     </e>
     <e lm="shamo">
       <i>sham</i>
@@ -25678,12 +25645,12 @@
       <par n="o__n"/>
     </e>
     <e lm="signifikala">
-      <i>signifikala</i>
-      <par n="__invariant_n"/>
+      <i>signifikal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="signifikanta">
-      <i>signifikanta</i>
-      <par n="__invariant_n"/>
+      <i>signifikant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="signifikar">
       <i>signifik</i>
@@ -25694,8 +25661,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sika">
-      <i>sika</i>
-      <par n="__invariant_n"/>
+      <i>sik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="siklo">
       <i>sikl</i>
@@ -25742,24 +25709,24 @@
       <par n="o__n"/>
     </e>
     <e lm="simbolatra">
-      <i>simbolatra</i>
-      <par n="__invariant_n"/>
+      <i>simbolatr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="simbolo">
       <i>simbol</i>
       <par n="o__n"/>
     </e>
     <e lm="simetra">
-      <i>simetra</i>
-      <par n="__invariant_n"/>
+      <i>simetr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="simfonio">
       <i>simfoni</i>
       <par n="o__n"/>
     </e>
     <e lm="simila">
-      <i>simila</i>
-      <par n="__invariant_n"/>
+      <i>simil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="simio">
       <i>simi</i>
@@ -25774,8 +25741,8 @@
       <par n="o__n"/>
     </e>
     <e lm="simpla">
-      <i>simpla</i>
-      <par n="__invariant_n"/>
+      <i>simpl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="simptomo">
       <i>simptom</i>
@@ -25802,8 +25769,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sincera">
-      <i>sincera</i>
-      <par n="__invariant_n"/>
+      <i>sincer</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sindikatano">
       <i>sindikatan</i>
@@ -25818,8 +25785,8 @@
       <par n="o__n"/>
     </e>
     <e lm="singla">
-      <i>singla</i>
-      <par n="__invariant_n"/>
+      <i>singl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="singlutar">
       <i>singlut</i>
@@ -25830,8 +25797,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="singulara">
-      <i>singulara</i>
-      <par n="__invariant_n"/>
+      <i>singular</i>
+      <par n="a__adj"/>
     </e>
     <e lm="singulareso">
       <i>singulares</i>
@@ -25854,16 +25821,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sinkrona">
-      <i>sinkrona</i>
-      <par n="__invariant_n"/>
+      <i>sinkron</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sino">
       <i>sin</i>
       <par n="o__n"/>
     </e>
     <e lm="sinonima">
-      <i>sinonima</i>
-      <par n="__invariant_n"/>
+      <i>sinonim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sinso">
       <i>sins</i>
@@ -25874,8 +25841,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sintezala">
-      <i>sintezala</i>
-      <par n="__invariant_n"/>
+      <i>sintezal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sintezo">
       <i>sintez</i>
@@ -25906,8 +25873,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sisadekesma">
-      <i>sisadekesma</i>
-      <par n="__invariant_n"/>
+      <i>sisadekesm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sisadekesmo">
       <i>sisadekesm</i>
@@ -26010,8 +25977,8 @@
       <par n="o__n"/>
     </e>
     <e lm="skarlata">
-      <i>skarlata</i>
-      <par n="__invariant_n"/>
+      <i>skarlat</i>
+      <par n="a__adj"/>
     </e>
     <e lm="skarlatino">
       <i>skarlatin</i>
@@ -26022,8 +25989,8 @@
       <par n="o__n"/>
     </e>
     <e lm="skarsa">
-      <i>skarsa</i>
-      <par n="__invariant_n"/>
+      <i>skars</i>
+      <par n="a__adj"/>
     </e>
     <e lm="skeleto">
       <i>skelet</i>
@@ -26038,8 +26005,8 @@
       <par n="o__n"/>
     </e>
     <e lm="skeptika">
-      <i>skeptika</i>
-      <par n="__invariant_n"/>
+      <i>skeptik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="skermar">
       <i>skerm</i>
@@ -26082,8 +26049,8 @@
       <par n="o__n"/>
     </e>
     <e lm="skolastika">
-      <i>skolastika</i>
-      <par n="__invariant_n"/>
+      <i>skolastik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="skolastiko">
       <i>skolastik</i>
@@ -26218,8 +26185,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sobra">
-      <i>sobra</i>
-      <par n="__invariant_n"/>
+      <i>sobr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="socialismo">
       <i>socialism</i>
@@ -26286,8 +26253,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sola">
-      <i>sola</i>
-      <par n="__invariant_n"/>
+      <i>sol</i>
+      <par n="a__adj"/>
     </e>
     <e lm="soldar">
       <i>sold</i>
@@ -26298,8 +26265,8 @@
       <par n="o__n"/>
     </e>
     <e lm="solena">
-      <i>solena</i>
-      <par n="__invariant_n"/>
+      <i>solen</i>
+      <par n="a__adj"/>
     </e>
     <e lm="soleo">
       <i>sole</i>
@@ -26310,12 +26277,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="solida">
-      <i>solida</i>
-      <par n="__invariant_n"/>
+      <i>solid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="solidara">
-      <i>solidara</i>
-      <par n="__invariant_n"/>
+      <i>solidar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="solidareso">
       <i>solidares</i>
@@ -26326,16 +26293,16 @@
       <par n="o__n"/>
     </e>
     <e lm="solitara">
-      <i>solitara</i>
-      <par n="__invariant_n"/>
+      <i>solitar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="solvar">
       <i>solv</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="solventa">
-      <i>solventa</i>
-      <par n="__invariant_n"/>
+      <i>solvent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="somero">
       <i>somer</i>
@@ -26386,8 +26353,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sonora">
-      <i>sonora</i>
-      <par n="__invariant_n"/>
+      <i>sonor</i>
+      <par n="a__adj"/>
     </e>
     <e lm="soporto">
       <i>soport</i>
@@ -26422,8 +26389,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sovaja">
-      <i>sovaja</i>
-      <par n="__invariant_n"/>
+      <i>sovaj</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sovaja kapro">
       <i>sovaja kapr</i>
@@ -26458,8 +26425,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sparema">
-      <i>sparema</i>
-      <par n="__invariant_n"/>
+      <i>sparem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sparviero">
       <i>sparvier</i>
@@ -26474,8 +26441,8 @@
       <par n="o__n"/>
     </e>
     <e lm="specigiva">
-      <i>specigiva</i>
-      <par n="__invariant_n"/>
+      <i>specigiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="specimeno">
       <i>specimen</i>
@@ -26490,8 +26457,8 @@
       <par n="o__n"/>
     </e>
     <e lm="spektaklala">
-      <i>spektaklala</i>
-      <par n="__invariant_n"/>
+      <i>spektaklal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="spektar">
       <i>spekt</i>
@@ -26614,8 +26581,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sporadika">
-      <i>sporadika</i>
-      <par n="__invariant_n"/>
+      <i>sporadik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sporno">
       <i>sporn</i>
@@ -26686,8 +26653,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="stabila">
-      <i>stabila</i>
-      <par n="__invariant_n"/>
+      <i>stabil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stablo">
       <i>stabl</i>
@@ -26702,8 +26669,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="stacionara">
-      <i>stacionara</i>
-      <par n="__invariant_n"/>
+      <i>stacionar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="staciono">
       <i>stacion</i>
@@ -26818,8 +26785,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sterila">
-      <i>sterila</i>
-      <par n="__invariant_n"/>
+      <i>steril</i>
+      <par n="a__adj"/>
     </e>
     <e lm="steriligar">
       <i>sterilig</i>
@@ -26858,8 +26825,8 @@
       <par n="o__n"/>
     </e>
     <e lm="stifa">
-      <i>stifa</i>
-      <par n="__invariant_n"/>
+      <i>stif</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stifto">
       <i>stift</i>
@@ -26890,8 +26857,8 @@
       <par n="o__n"/>
     </e>
     <e lm="stoika">
-      <i>stoika</i>
-      <par n="__invariant_n"/>
+      <i>stoik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stoko">
       <i>stok</i>
@@ -26918,8 +26885,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="straba">
-      <i>straba</i>
-      <par n="__invariant_n"/>
+      <i>strab</i>
+      <par n="a__adj"/>
     </e>
     <e lm="strado">
       <i>strad</i>
@@ -26934,12 +26901,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="stranja">
-      <i>stranja</i>
-      <par n="__invariant_n"/>
+      <i>stranj</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stranjera">
-      <i>stranjera</i>
-      <par n="__invariant_n"/>
+      <i>stranjer</i>
+      <par n="a__adj"/>
     </e>
     <e lm="strategio">
       <i>strategi</i>
@@ -26954,8 +26921,8 @@
       <par n="o__n"/>
     </e>
     <e lm="stridanta">
-      <i>stridanta</i>
-      <par n="__invariant_n"/>
+      <i>stridant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stridar">
       <i>strid</i>
@@ -26974,8 +26941,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="strikta">
-      <i>strikta</i>
-      <par n="__invariant_n"/>
+      <i>strikt</i>
+      <par n="a__adj"/>
     </e>
     <e lm="strio">
       <i>stri</i>
@@ -27014,8 +26981,8 @@
       <par n="o__n"/>
     </e>
     <e lm="stulta">
-      <i>stulta</i>
-      <par n="__invariant_n"/>
+      <i>stult</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stumpo">
       <i>stump</i>
@@ -27026,8 +26993,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="stupida">
-      <i>stupida</i>
-      <par n="__invariant_n"/>
+      <i>stupid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="stupideso">
       <i>stupides</i>
@@ -27078,28 +27045,28 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="subita">
-      <i>subita</i>
-      <par n="__invariant_n"/>
+      <i>subit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="subite">
-      <i>subite</i>
-      <par n="__invariant_n"/>
+      <i>subit</i>
+      <par n="e__adv"/>
     </e>
     <e lm="subjupo">
       <i>subjup</i>
       <par n="o__n"/>
     </e>
     <e lm="sublima">
-      <i>sublima</i>
-      <par n="__invariant_n"/>
+      <i>sublim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sublimar">
       <i>sublim</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="submara">
-      <i>submara</i>
-      <par n="__invariant_n"/>
+      <i>submar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="submersar">
       <i>submers</i>
@@ -27166,12 +27133,12 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="subtera">
-      <i>subtera</i>
-      <par n="__invariant_n"/>
+      <i>subter</i>
+      <par n="a__adj"/>
     </e>
     <e lm="subtila">
-      <i>subtila</i>
-      <par n="__invariant_n"/>
+      <i>subtil</i>
+      <par n="a__adj"/>
     </e>
     <e lm="subvencionar">
       <i>subvencion</i>
@@ -27258,8 +27225,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="sukoza">
-      <i>sukoza</i>
-      <par n="__invariant_n"/>
+      <i>sukoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sukro">
       <i>sukr</i>
@@ -27306,8 +27273,8 @@
       <par n="o__n"/>
     </e>
     <e lm="sunala">
-      <i>sunala</i>
-      <par n="__invariant_n"/>
+      <i>sunal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="sundio">
       <i>sundi</i>
@@ -27334,8 +27301,8 @@
       <par n="__pr"/>
     </e>
     <e lm="superba">
-      <i>superba</i>
-      <par n="__invariant_n"/>
+      <i>superb</i>
+      <par n="a__adj"/>
     </e>
     <e lm="superbeso">
       <i>superbes</i>
@@ -27346,20 +27313,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="superflua">
-      <i>superflua</i>
-      <par n="__invariant_n"/>
+      <i>superflu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="superfluar">
       <i>superflu</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="superiora">
-      <i>superiora</i>
-      <par n="__invariant_n"/>
+      <i>superior</i>
+      <par n="a__adj"/>
     </e>
     <e lm="superlativa">
-      <i>superlativa</i>
-      <par n="__invariant_n"/>
+      <i>superlativ</i>
+      <par n="a__adj"/>
     </e>
     <e lm="superlativo">
       <i>superlativ</i>
@@ -27398,20 +27365,20 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="supre">
-      <i>supre</i>
-      <par n="__invariant_n"/>
+      <i>supr</i>
+      <par n="e__adv"/>
     </e>
     <e lm="supresar">
       <i>supres</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="surda">
-      <i>surda</i>
-      <par n="__invariant_n"/>
+      <i>surd</i>
+      <par n="a__adj"/>
     </e>
     <e lm="surfacala">
-      <i>surfacala</i>
-      <par n="__invariant_n"/>
+      <i>surfacal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="surfaco">
       <i>surfac</i>
@@ -27502,8 +27469,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="suverena">
-      <i>suverena</i>
-      <par n="__invariant_n"/>
+      <i>suveren</i>
+      <par n="a__adj"/>
     </e>
     <e lm="suvereneso">
       <i>suverenes</i>
@@ -27602,8 +27569,8 @@
       <par n="o__n"/>
     </e>
     <e lm="tarde">
-      <i>tarde</i>
-      <par n="__invariant_n"/>
+      <i>tard</i>
+      <par n="e__adv"/>
     </e>
     <e lm="tatuo">
       <i>tatu</i>
@@ -27706,16 +27673,16 @@
       <par n="o__n"/>
     </e>
     <e lm="teologiala">
-      <i>teologiala</i>
-      <par n="__invariant_n"/>
+      <i>teologial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="teologiisto">
       <i>teologiist</i>
       <par n="o__n"/>
     </e>
     <e lm="tepida">
-      <i>tepida</i>
-      <par n="__invariant_n"/>
+      <i>tepid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="teplico">
       <i>teplic</i>
@@ -27858,16 +27825,16 @@
       <par n="o__n"/>
     </e>
     <e lm="tote">
-      <i>tote</i>
-      <par n="__invariant_n"/>
+      <i>tot</i>
+      <par n="e__adv"/>
     </e>
     <e lm="toto">
       <i>tot</i>
       <par n="o__n"/>
     </e>
     <e lm="toxika">
-      <i>toxika</i>
-      <par n="__invariant_n"/>
+      <i>toxik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="toxikeso">
       <i>toxikes</i>
@@ -27878,8 +27845,8 @@
       <par n="o__n"/>
     </e>
     <e lm="tradicionala">
-      <i>tradicionala</i>
-      <par n="__invariant_n"/>
+      <i>tradicional</i>
+      <par n="a__adj"/>
     </e>
     <e lm="tradukanto">
       <i>tradukant</i>
@@ -27922,16 +27889,16 @@
       <par n="o__n"/>
     </e>
     <e lm="trancendanta">
-      <i>trancendanta</i>
-      <par n="__invariant_n"/>
+      <i>trancendant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="trans">
       <i>trans</i>
       <par n="__pr"/>
     </e>
     <e lm="transe">
-      <i>transe</i>
-      <par n="__invariant_n"/>
+      <i>trans</i>
+      <par n="e__adv"/>
     </e>
     <e lm="transfigurar">
       <i>transfigur</i>
@@ -28002,8 +27969,8 @@
       <par n="o__n"/>
     </e>
     <e lm="triesma">
-      <i>triesma</i>
-      <par n="__invariant_n"/>
+      <i>triesm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="triimo">
       <i>triim</i>
@@ -28022,8 +27989,8 @@
       <par n="o__n"/>
     </e>
     <e lm="triopla">
-      <i>triopla</i>
-      <par n="__invariant_n"/>
+      <i>triopl</i>
+      <par n="a__adj"/>
     </e>
     <e lm="trioplo">
       <i>triopl</i>
@@ -28034,8 +28001,8 @@
       <par n="o__n"/>
     </e>
     <e lm="triumfanta">
-      <i>triumfanta</i>
-      <par n="__invariant_n"/>
+      <i>triumfant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="tro">
       <i>tro</i>
@@ -28066,16 +28033,16 @@
       <par n="o__n"/>
     </e>
     <e lm="truizita">
-      <i>truizita</i>
-      <par n="__invariant_n"/>
+      <i>truizit</i>
+      <par n="a__adj"/>
     </e>
     <e lm="truo">
       <i>tru</i>
       <par n="o__n"/>
     </e>
     <e lm="truoza">
-      <i>truoza</i>
-      <par n="__invariant_n"/>
+      <i>truoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="tu">
       <i>tu</i>
@@ -28134,8 +28101,8 @@
       <par n="o__n"/>
     </e>
     <e lm="ubiqua">
-      <i>ubiqua</i>
-      <par n="__invariant_n"/>
+      <i>ubiqu</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ucelino">
       <i>ucelin</i>
@@ -28166,12 +28133,12 @@
       <par n="__prn"/>
     </e>
     <e lm="ulaloke">
-      <i>ulaloke</i>
-      <par n="__invariant_n"/>
+      <i>ulalok</i>
+      <par n="e__adv"/>
     </e>
     <e lm="ulasorta">
-      <i>ulasorta</i>
-      <par n="__invariant_n"/>
+      <i>ulasort</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ulcero">
       <i>ulcer</i>
@@ -28190,16 +28157,16 @@
       <par n="o__n"/>
     </e>
     <e lm="ultima">
-      <i>ultima</i>
-      <par n="__invariant_n"/>
+      <i>ultim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ultimato">
       <i>ultimat</i>
       <par n="o__n"/>
     </e>
     <e lm="ultra">
-      <i>ultra</i>
-      <par n="__invariant_n"/>
+      <i>ultr</i>
+      <par n="a__adj"/>
     </e>
     <e lm="ultramaro">
       <i>ultramar</i>
@@ -28226,8 +28193,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="unanima">
-      <i>unanima</i>
-      <par n="__invariant_n"/>
+      <i>unanim</i>
+      <par n="a__adj"/>
     </e>
     <e lm="unanimeso">
       <i>unanimes</i>
@@ -28242,8 +28209,8 @@
       <par n="o__n"/>
     </e>
     <e lm="unesma">
-      <i>unesma</i>
-      <par n="__invariant_n"/>
+      <i>unesm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="unglo">
       <i>ungl</i>
@@ -28254,16 +28221,16 @@
       <par n="o__n"/>
     </e>
     <e lm="uniforma">
-      <i>uniforma</i>
-      <par n="__invariant_n"/>
+      <i>uniform</i>
+      <par n="a__adj"/>
     </e>
     <e lm="uniformo">
       <i>uniform</i>
       <par n="o__n"/>
     </e>
     <e lm="unika">
-      <i>unika</i>
-      <par n="__invariant_n"/>
+      <i>unik</i>
+      <par n="a__adj"/>
     </e>
     <e lm="unionar">
       <i>union</i>
@@ -28282,8 +28249,8 @@
       <par n="o__n"/>
     </e>
     <e lm="unlatere">
-      <i>unlatere</i>
-      <par n="__invariant_n"/>
+      <i>unlater</i>
+      <par n="e__adv"/>
     </e>
     <e lm="uno">
       <i>un</i>
@@ -28370,8 +28337,8 @@
       <par n="o__n"/>
     </e>
     <e lm="utila">
-      <i>utila</i>
-      <par n="__invariant_n"/>
+      <i>util</i>
+      <par n="a__adj"/>
     </e>
     <e lm="utiligar">
       <i>utilig</i>
@@ -28474,8 +28441,8 @@
       <par n="o__n"/>
     </e>
     <e lm="valida">
-      <i>valida</i>
-      <par n="__invariant_n"/>
+      <i>valid</i>
+      <par n="a__adj"/>
     </e>
     <e lm="valizo">
       <i>valiz</i>
@@ -28506,8 +28473,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vana">
-      <i>vana</i>
-      <par n="__invariant_n"/>
+      <i>van</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vanadio">
       <i>vanadi</i>
@@ -28538,8 +28505,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vaporoza">
-      <i>vaporoza</i>
-      <par n="__invariant_n"/>
+      <i>vaporoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="varano">
       <i>varan</i>
@@ -28570,8 +28537,8 @@
       <par n="o__n"/>
     </e>
     <e lm="varma">
-      <i>varma</i>
-      <par n="__invariant_n"/>
+      <i>varm</i>
+      <par n="a__adj"/>
     </e>
     <e lm="varmigar">
       <i>varmig</i>
@@ -28606,8 +28573,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vasta">
-      <i>vasta</i>
-      <par n="__invariant_n"/>
+      <i>vast</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vato">
       <i>vat</i>
@@ -28670,8 +28637,8 @@
       <par n="o__n"/>
     </e>
     <e lm="velkanta">
-      <i>velkanta</i>
-      <par n="__invariant_n"/>
+      <i>velkant</i>
+      <par n="a__adj"/>
     </e>
     <e lm="velkar">
       <i>velk</i>
@@ -28710,16 +28677,16 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="venerala">
-      <i>venerala</i>
-      <par n="__invariant_n"/>
+      <i>veneral</i>
+      <par n="a__adj"/>
     </e>
     <e lm="venerdio">
       <i>venerdi</i>
       <par n="o__n"/>
     </e>
     <e lm="veniala">
-      <i>veniala</i>
-      <par n="__invariant_n"/>
+      <i>venial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="venjar">
       <i>venj</i>
@@ -28762,8 +28729,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vera">
-      <i>vera</i>
-      <par n="__invariant_n"/>
+      <i>ver</i>
+      <par n="a__adj"/>
     </e>
     <e lm="verando">
       <i>verand</i>
@@ -28774,8 +28741,8 @@
       <par n="o__n"/>
     </e>
     <e lm="verda">
-      <i>verda</i>
-      <par n="__invariant_n"/>
+      <i>verd</i>
+      <par n="a__adj"/>
     </e>
     <e lm="verdigriso">
       <i>verdigris</i>
@@ -28786,8 +28753,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vere">
-      <i>vere</i>
-      <par n="__invariant_n"/>
+      <i>ver</i>
+      <par n="e__adv"/>
     </e>
     <e lm="vergo">
       <i>verg</i>
@@ -28838,8 +28805,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vertikala">
-      <i>vertikala</i>
-      <par n="__invariant_n"/>
+      <i>vertikal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vertuo">
       <i>vertu</i>
@@ -28918,8 +28885,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="vezikigiva">
-      <i>vezikigiva</i>
-      <par n="__invariant_n"/>
+      <i>vezikigiv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="veziko">
       <i>vezik</i>
@@ -28938,8 +28905,8 @@
       <par n="ar__vblex"/>
     </e>
     <e lm="vice">
-      <i>vice</i>
-      <par n="__invariant_n"/>
+      <i>vic</i>
+      <par n="e__adv"/>
     </e>
     <e lm="vicerejio">
       <i>vicereji</i>
@@ -28950,8 +28917,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vicina">
-      <i>vicina</i>
-      <par n="__invariant_n"/>
+      <i>vicin</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vicinajo">
       <i>vicinaj</i>
@@ -28974,8 +28941,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vidva">
-      <i>vidva</i>
-      <par n="__invariant_n"/>
+      <i>vidv</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vigilar">
       <i>vigil</i>
@@ -28986,8 +28953,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vigoroza">
-      <i>vigoroza</i>
-      <par n="__invariant_n"/>
+      <i>vigoroz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="viktimo">
       <i>viktim</i>
@@ -29022,8 +28989,8 @@
       <par n="o__n"/>
     </e>
     <e lm="vinkoza">
-      <i>vinkoza</i>
-      <par n="__invariant_n"/>
+      <i>vinkoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vino">
       <i>vin</i>
@@ -29050,8 +29017,8 @@
       <par n="o__n"/>
     </e>
     <e lm="violentoza">
-      <i>violentoza</i>
-      <par n="__invariant_n"/>
+      <i>violentoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="violino">
       <i>violin</i>
@@ -29074,8 +29041,8 @@
       <par n="o__n"/>
     </e>
     <e lm="virga">
-      <i>virga</i>
-      <par n="__invariant_n"/>
+      <i>virg</i>
+      <par n="a__adj"/>
     </e>
     <e lm="virgineso">
       <i>virgines</i>
@@ -29086,16 +29053,16 @@
       <par n="o__n"/>
     </e>
     <e lm="virtuala">
-      <i>virtuala</i>
-      <par n="__invariant_n"/>
+      <i>virtual</i>
+      <par n="a__adj"/>
     </e>
     <e lm="virtuozo">
       <i>virtuoz</i>
       <par n="o__n"/>
     </e>
     <e lm="virulenta">
-      <i>virulenta</i>
-      <par n="__invariant_n"/>
+      <i>virulent</i>
+      <par n="a__adj"/>
     </e>
     <e lm="viruso">
       <i>virus</i>
@@ -29114,8 +29081,8 @@
       <par n="o__n"/>
     </e>
     <e lm="viskoza">
-      <i>viskoza</i>
-      <par n="__invariant_n"/>
+      <i>viskoz</i>
+      <par n="a__adj"/>
     </e>
     <e lm="viskozeso">
       <i>viskozes</i>
@@ -29150,16 +29117,16 @@
       <par n="o__n"/>
     </e>
     <e lm="vivaca">
-      <i>vivaca</i>
-      <par n="__invariant_n"/>
+      <i>vivac</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vivar">
       <i>viv</i>
       <par n="ar__vblex"/>
     </e>
     <e lm="vivema">
-      <i>vivema</i>
-      <par n="__invariant_n"/>
+      <i>vivem</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vivo">
       <i>viv</i>
@@ -29242,8 +29209,8 @@
       <par n="o__n"/>
     </e>
     <e lm="volkanala">
-      <i>volkanala</i>
-      <par n="__invariant_n"/>
+      <i>volkanal</i>
+      <par n="a__adj"/>
     </e>
     <e lm="volkano">
       <i>volkan</i>
@@ -29314,8 +29281,8 @@
       <par n="__invariant_n"/>
     </e>
     <e lm="vulgara">
-      <i>vulgara</i>
-      <par n="__invariant_n"/>
+      <i>vulgar</i>
+      <par n="a__adj"/>
     </e>
     <e lm="vulkanizo">
       <i>vulkaniz</i>
@@ -29378,8 +29345,8 @@
       <par n="o__n"/>
     </e>
     <e lm="xenofobiala">
-      <i>xenofobiala</i>
-      <par n="__invariant_n"/>
+      <i>xenofobial</i>
+      <par n="a__adj"/>
     </e>
     <e lm="xenofobio">
       <i>xenofobi</i>
@@ -29462,8 +29429,8 @@
       <par n="o__n"/>
     </e>
     <e lm="yuna">
-      <i>yuna</i>
-      <par n="__invariant_n"/>
+      <i>yun</i>
+      <par n="a__adj"/>
     </e>
     <e lm="yuneso">
       <i>yunes</i>
@@ -29474,8 +29441,8 @@
       <par n="o__n"/>
     </e>
     <e lm="yusta">
-      <i>yusta</i>
-      <par n="__invariant_n"/>
+      <i>yust</i>
+      <par n="a__adj"/>
     </e>
     <e lm="zebro">
       <i>zebr</i>
@@ -29613,5 +29580,11 @@
       <i>nev</i>
       <par n="e__adv"/>
     </e>
+  </section>
+  <section id="numbers" type="standard">
+    <!-- Cardinal numbers -->
+    <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/></r></p></e>
+    <!-- Ordinal numbers (with -a suffix) -->
+    <e><re>[0-9]+([.,][0-9]+)*\-a</re><p><l></l><r><s n="num"/><s n="ord"/></r></p></e>
   </section>
 </dictionary>
