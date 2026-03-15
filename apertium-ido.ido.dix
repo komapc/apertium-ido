@@ -29581,4 +29581,10 @@
       <par n="e__adv"/>
     </e>
   </section>
+  <section id="numbers" type="standard">
+    <!-- Cardinal numbers -->
+    <e><re>[0-9]+([.,][0-9]+)*</re><p><l></l><r><s n="num"/></r></p></e>
+    <!-- Ordinal numbers (with -a suffix) -->
+    <e><re>[0-9]+([.,][0-9]+)*\-a</re><p><l></l><r><s n="num"/><s n="ord"/></r></p></e>
+  </section>
 </dictionary>
