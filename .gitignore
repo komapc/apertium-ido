@@ -24,3 +24,7 @@ COPYING
 INSTALL
 
 Makefile
+
+# never commit dictionary backups
+*.backup
+*.dix.backup
