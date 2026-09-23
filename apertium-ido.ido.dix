@@ -6905,7 +6905,7 @@
     <e lm="anjelosaluto"><i>anjelosalut</i><par n="o__n"/></e>
     <e lm="Anjero-Sudjensk"><i>Anjero-Sudjensk</i><par n="o__n"/></e>
     <e lm="Anjou"><i>Anjou</i><par n="o__n"/></e>
-    <e lm="ank"><i>ank</i><par n="o__n"/></e>
+    <e lm="ank"><i>ank</i><par n="__adv"/></e>
     <e lm="anka"><i>ank</i><par n="a__adj"/></e>
     <e lm="Ankara"><i>Ankar</i><par n="a__adj"/></e>
     <e lm="ankayeskar"><i>ankayesk</i><par n="ar__vblex"/></e>
@@ -6917,7 +6917,7 @@
     <e lm="anker"><i>anker</i><par n="o__n"/></e>
     <e lm="ankilosar"><i>ankilos</i><par n="ar__vblex"/></e>
     <e lm="ankiloso"><i>ankilos</i><par n="o__n"/></e>
-    <e lm="ankor"><i>ankor</i><par n="o__n"/></e>
+    <e lm="ankor"><i>ankor</i><par n="__adv"/></e>
     <e lm="ankore"><i>ankor</i><par n="e__adv"/></e>
     <e lm="ankorfoye"><i>ankorfoy</i><par n="e__adv"/></e>
     <e lm="ankragar"><i>ankrag</i><par n="ar__vblex"/></e>
@@ -22289,7 +22289,7 @@
     <e lm="duale"><i>dual</i><par n="e__adv"/></e>
     <e lm="dualismo"><i>dualism</i><par n="o__n"/></e>
     <e lm="dualisto"><i>dualist</i><par n="o__n"/></e>
-    <e lm="dualo"><i>dual</i><par n="o__n"/></e>
+    <e lm="dualo"><i>dualo</i><par n="__prn"/></e>
     <e lm="duamil"><i>duamil</i><par n="num"/></e>
     <e lm="duane"><i>duan</i><par n="e__adv"/></e>
     <e lm="duarte"><i>duart</i><par n="e__adv"/></e>
@@ -40919,7 +40919,7 @@
     <e lm="Józefin (domaro, Bielsk Podlaski)"><i>Józefin (domaro, Bielsk Podlaski)</i><par n="o__n"/></e>
     <e lm="Józefów-Pociechana"><i>Józefów-Pociechan</i><par n="a__adj"/></e>
     <e lm="K-pop"><i>K-pop</i><par n="o__n"/></e>
-    <e lm="ka"><i>k</i><par n="a__adj"/></e>
+    <e lm="ka"><i>ka</i><par n="__cnjcoo"/></e>
     <e lm="ka ne?"><i>ka ne?</i><par n="o__n"/></e>
     <e lm="ka vu bezonas helpo?"><i>ka vu bezonas helpo?</i><par n="o__n"/></e>
     <e lm="kaarina"><i>kaarin</i><par n="a__adj"/></e>
