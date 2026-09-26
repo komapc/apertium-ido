@@ -7934,6 +7934,7 @@
     <e lm="Argonia, Kansas"><i>Argonia, Kansas</i><par n="o__n"/></e>
     <e lm="argono"><i>argon</i><par n="o__n"/></e>
     <e lm="argovia"><i>argovi</i><par n="a__adj"/></e>
+    <e lm="argumentala"><i>argumental</i><par n="a__adj"/></e>
     <e lm="argumentar"><i>argument</i><par n="ar__vblex"/></e>
     <e lm="argumentebla"><i>argumentebl</i><par n="a__adj"/></e>
     <e lm="argumentero"><i>argumenter</i><par n="o__n"/></e>
@@ -23660,7 +23661,7 @@
     <e lm="Elgin, Minnesotana"><i>Elgin, Minnesotan</i><par n="a__adj"/></e>
     <e lm="Elgin, Oklahomana"><i>Elgin, Oklahoman</i><par n="a__adj"/></e>
     <e lm="Elgin, Oregon"><i>Elgin, Oregon</i><par n="o__n"/></e>
-    <e lm="eli"><i>eli</i><par n="o__n"/></e>
+    <e lm="eli"><i>eli</i><par n="__prn"/></e>
     <e lm="elia"><i>elia</i><par n="o__n"/></e>
     <e lm="Elia Kazan"><i>Elia Kazan</i><par n="o__n"/></e>
     <e lm="eliana"><i>elian</i><par n="a__adj"/></e>
@@ -38413,6 +38414,7 @@
     <e lm="italiane"><i>italian</i><par n="e__adv"/></e>
     <e lm="Italiano"><i>Italian</i><par n="o__n"/></e>
     <e lm="italiano"><i>italian</i><par n="o__n"/></e>
+    <e lm="italie"><i>itali</i><par n="e__adv"/></e>
     <e lm="Italika lingui"><i>Italika lingui</i><par n="o__n"/></e>
     <e lm="Italiki"><i>Italiki</i><par n="o__n"/></e>
     <e lm="Italo Calvino"><i>Italo Calvin</i><par n="o__n"/></e>
@@ -43964,6 +43966,7 @@
     <e lm="komerceyo"><i>komercey</i><par n="o__n"/></e>
     <e lm="komercista"><i>komercist</i><par n="a__adj"/></e>
     <e lm="komercistachala"><i>komercistachal</i><par n="a__adj"/></e>
+    <e lm="komercistino"><i>komercistin</i><par n="o__n"/></e>
     <e lm="komercisto"><i>komercist</i><par n="o__n"/></e>
     <e lm="Komerco"><i>Komerc</i><par n="o__n"/></e>
     <e lm="komerco"><i>komerc</i><par n="o__n"/></e>
@@ -44480,6 +44483,7 @@
     <e lm="koncesionario"><i>koncesionari</i><par n="o__n"/></e>
     <e lm="koncesiono"><i>koncesion</i><par n="o__n"/></e>
     <e lm="konceso"><i>konces</i><par n="o__n"/></e>
+    <e lm="koncia"><i>konci</i><par n="a__adj"/></e>
     <e lm="konciar"><i>konci</i><par n="ar__vblex"/></e>
     <e lm="konciatajo"><i>konciataj</i><par n="o__n"/></e>
     <e lm="koncie"><i>konci</i><par n="e__adv"/></e>
@@ -44488,6 +44492,7 @@
     <e lm="koncienco"><i>koncienc</i><par n="o__n"/></e>
     <e lm="konciencoze"><i>konciencoz</i><par n="e__adv"/></e>
     <e lm="koncieskar"><i>konciesk</i><par n="ar__vblex"/></e>
+    <e lm="koncieso"><i>koncies</i><par n="o__n"/></e>
     <e lm="konciigar"><i>konciig</i><par n="ar__vblex"/></e>
     <e lm="konciliar"><i>koncili</i><par n="ar__vblex"/></e>
     <e lm="konciliebla"><i>konciliebl</i><par n="a__adj"/></e>
@@ -45405,6 +45410,7 @@
     <e lm="kontrolomarko"><i>kontrolomark</i><par n="o__n"/></e>
     <e lm="kontrolomoyeno"><i>kontrolomoyen</i><par n="o__n"/></e>
     <e lm="kontroversa"><i>kontrovers</i><par n="a__adj"/></e>
+    <e lm="kontroversala"><i>kontroversal</i><par n="a__adj"/></e>
     <e lm="kontroversar"><i>kontrovers</i><par n="ar__vblex"/></e>
     <e lm="kontroversisto"><i>kontroversist</i><par n="o__n"/></e>
     <e lm="kontroverso"><i>kontrovers</i><par n="o__n"/></e>
@@ -48610,7 +48616,7 @@
     <e lm="lazio"><i>lazi</i><par n="o__n"/></e>
     <e lm="Lazistan"><i>Lazistan</i><par n="o__n"/></e>
     <e lm="lazo"><i>laz</i><par n="o__n"/></e>
-    <e lm="le"><i>l</i><par n="e__adv"/></e>
+    <e lm="le"><i>le</i><par n="__det"/></e>
     <e lm="Le Center, Minnesota"><i>Le Center, Minnesota</i><par n="o__n"/></e>
     <e lm="Le Center, Minnesotana"><i>Le Center, Minnesotan</i><par n="a__adj"/></e>
     <e lm="Le Claire, Iowa"><i>Le Claire, Iowa</i><par n="o__n"/></e>
@@ -50725,6 +50731,7 @@
     <e lm="Logikala disjunciono"><i>Logikala disjuncion</i><par n="o__n"/></e>
     <e lm="Logikala nego"><i>Logikala neg</i><par n="o__n"/></e>
     <e lm="logikale"><i>logikal</i><par n="e__adv"/></e>
+    <e lm="logikaleso"><i>logikales</i><par n="o__n"/></e>
     <e lm="logike"><i>logik</i><par n="e__adv"/></e>
     <e lm="logikeso"><i>logikes</i><par n="o__n"/></e>
     <e lm="logikisto"><i>logikist</i><par n="o__n"/></e>
@@ -55759,6 +55766,7 @@
     <e lm="modeste"><i>modest</i><par n="e__adv"/></e>
     <e lm="modesto"><i>modest</i><par n="o__n"/></e>
     <e lm="Modibo Keïtana"><i>Modibo Keïtan</i><par n="a__adj"/></e>
+    <e lm="modifika"><i>modifik</i><par n="a__adj"/></e>
     <e lm="modifikado"><i>modifikad</i><par n="o__n"/></e>
     <e lm="modifikar"><i>modifik</i><par n="ar__vblex"/></e>
     <e lm="modifikesar"><i>modifikes</i><par n="ar__vblex"/></e>
@@ -62151,6 +62159,7 @@
     <e lm="ornilo"><i>ornil</i><par n="o__n"/></e>
     <e lm="ornitologiisto"><i>ornitologiist</i><par n="o__n"/></e>
     <e lm="ornitologio"><i>ornitologi</i><par n="o__n"/></e>
+    <e lm="ornitologisto"><i>ornitologist</i><par n="o__n"/></e>
     <e lm="ornitologo"><i>ornitolog</i><par n="o__n"/></e>
     <e lm="ornitoptero"><i>ornitopter</i><par n="o__n"/></e>
     <e lm="ornitorinko"><i>ornitorink</i><par n="o__n"/></e>
@@ -62922,6 +62931,7 @@
     <e lm="Palestinani"><i>Palestinani</i><par n="np__np"/></e>
     <e lm="Palestinano"><i>Palestinan</i><par n="o__n"/></e>
     <e lm="palestinano"><i>palestinan</i><par n="o__n"/></e>
+    <e lm="palestine"><i>palestin</i><par n="e__adv"/></e>
     <e lm="palestro"><i>palestr</i><par n="o__n"/></e>
     <e lm="paleta"><i>palet</i><par n="a__adj"/></e>
     <e lm="paleto"><i>palet</i><par n="o__n"/></e>
@@ -67726,6 +67736,7 @@
     <e lm="posedero"><i>poseder</i><par n="o__n"/></e>
     <e lm="posedeskar"><i>posedesk</i><par n="ar__vblex"/></e>
     <e lm="posedesko"><i>posedesk</i><par n="o__n"/></e>
+    <e lm="posedeso"><i>posedes</i><par n="o__n"/></e>
     <e lm="posedigar"><i>posedig</i><par n="ar__vblex"/></e>
     <e lm="posedo"><i>posed</i><par n="o__n"/></e>
     <e lm="Poseidon"><i>Poseidon</i><par n="np__np"/></e>
@@ -68760,6 +68771,7 @@
     <e lm="profitinda"><i>profitind</i><par n="a__adj"/></e>
     <e lm="profito"><i>profit</i><par n="o__n"/></e>
     <e lm="profitoquanto"><i>profitoquant</i><par n="o__n"/></e>
+    <e lm="profitoza"><i>profitoz</i><par n="a__adj"/></e>
     <e lm="profitoze"><i>profitoz</i><par n="e__adv"/></e>
     <e lm="profumo"><i>profum</i><par n="o__n"/></e>
     <e lm="Profund-falsajo"><i>Profund-falsaj</i><par n="o__n"/></e>
@@ -72024,11 +72036,13 @@
     <e lm="renfrew"><i>renfrew</i><par n="o__n"/></e>
     <e lm="Renieblas"><i>Renieblas</i><par n="np__np"/></e>
     <e lm="renio"><i>reni</i><par n="o__n"/></e>
+    <e lm="renkontra"><i>renkontr</i><par n="a__adj"/></e>
     <e lm="renkontrabis"><i>renkontrabis</i><par n="ar__vblex"/></e>
     <e lm="renkontrar"><i>renkontr</i><par n="ar__vblex"/></e>
     <e lm="renkontre"><i>renkontr</i><par n="e__adv"/></e>
     <e lm="renkontrebla"><i>renkontrebl</i><par n="a__adj"/></e>
     <e lm="renkontresar"><i>renkontres</i><par n="ar__vblex"/></e>
+    <e lm="renkontreto"><i>renkontret</i><par n="o__n"/></e>
     <e lm="renkontreyo"><i>renkontrey</i><par n="o__n"/></e>
     <e lm="Renkontri fotografala di Arles"><i>Renkontri fotografala di Arles</i><par n="o__n"/></e>
     <e lm="renkontro"><i>renkontr</i><par n="o__n"/></e>
@@ -72629,6 +72643,8 @@
     <e lm="revolucionano"><i>revolucionan</i><par n="o__n"/></e>
     <e lm="revolucionar"><i>revolucion</i><par n="ar__vblex"/></e>
     <e lm="revolucionema"><i>revolucionem</i><par n="a__adj"/></e>
+    <e lm="revolucionera"><i>revolucioner</i><par n="a__adj"/></e>
+    <e lm="revolucionerino"><i>revolucionerin</i><par n="o__n"/></e>
     <e lm="revolucionero"><i>revolucioner</i><par n="o__n"/></e>
     <e lm="Revolucioni di 1848"><i>Revolucioni di 1848</i><par n="o__n"/></e>
     <e lm="revolucionismo"><i>revolucionism</i><par n="o__n"/></e>
@@ -83250,7 +83266,9 @@
     <e lm="tendencanta"><i>tendencant</i><par n="a__adj"/></e>
     <e lm="tendencar"><i>tendenc</i><par n="ar__vblex"/></e>
     <e lm="tendencema"><i>tendencem</i><par n="a__adj"/></e>
+    <e lm="tendenceso"><i>tendences</i><par n="o__n"/></e>
     <e lm="tendenco"><i>tendenc</i><par n="o__n"/></e>
+    <e lm="tendencoza"><i>tendencoz</i><par n="a__adj"/></e>
     <e lm="tendeso"><i>tendes</i><par n="o__n"/></e>
     <e lm="tendeyo"><i>tendey</i><par n="o__n"/></e>
     <e lm="tendino"><i>tendin</i><par n="o__n"/></e>
@@ -84615,6 +84633,7 @@
     <e lm="tradicionala"><i>tradicional</i><par n="a__adj"/></e>
     <e lm="Tradicionala savo"><i>Tradicionala sav</i><par n="o__n"/></e>
     <e lm="tradicionale"><i>tradicional</i><par n="e__adv"/></e>
+    <e lm="tradicionalista"><i>tradicionalist</i><par n="a__adj"/></e>
     <e lm="tradicionalisto"><i>tradicionalist</i><par n="o__n"/></e>
     <e lm="tradicionar"><i>tradicion</i><par n="ar__vblex"/></e>
     <e lm="tradicione"><i>tradicion</i><par n="e__adv"/></e>
