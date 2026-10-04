@@ -91057,6 +91057,10 @@
     <e lm="ʻAkilisi Pōhivana"><i>ʻAkilisi Pōhivan</i><par n="a__adj"/></e>
     <e lm="esar" r="LR"><p><l>es</l><r>es<s n="vblex"/><s n="pri"/></r></p></e>
   </section>
+  <section id="apostrophes" type="postblank">
+    <e r="LR" lm="l'"><p><l>l'</l><r>la<s n="det"/></r></p></e>
+    <e r="LR" lm="l'"><p><l>L'</l><r>La<s n="det"/></r></p></e>
+  </section>
   <section id="punct" type="inconditional">
     <e><p><l>.</l><r>.<s n="sent"/></r></p></e>
     <e><p><l>?</l><r>?<s n="sent"/></r></p></e>
