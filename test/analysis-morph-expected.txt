@@ -1,0 +1,64 @@
+[C_LO39axK1lz#0] ^granda/grand<adj>$
+[/C_LO39axK1lz]
+[EgnMVm6kBbdV#0] ^havar/hav<vblex><inf>$
+[/EgnMVm6kBbdV]
+[IzlRnngkljXk#0] ^vidar/vid<vblex><inf>$
+[/IzlRnngkljXk]
+[J0TM0Qx1M71z#0] ^me/me<prn>$
+[/J0TM0Qx1M71z]
+[NMprsQNtFI17#0] ^grande/grand<adv>$
+[/NMprsQNtFI17]
+[Pwehzi-UOYWR#0] ^esez/es<vblex><imp>$
+[/Pwehzi-UOYWR]
+[RyoLFd3_f1dI#0] ^elu/elu<prn>$
+[/RyoLFd3_f1dI]
+[TEfs5ZvmFGvT#0] ^irar/ir<vblex><inf>$
+[/TEfs5ZvmFGvT]
+[TItBJMQudkv6#0] ^kati/kat<n><pl><nom>$
+[/TItBJMQudkv6]
+[TbA6J3z7nvTG#0] ^ni/ni<prn>$
+[/TbA6J3z7nvTG]
+[TkZ_KkJ4s7-_#0] ^venir/*venir$
+[/TkZ_KkJ4s7-_]
+[UgtMXGIQu5Iz#0] ^rapida/rapid<adj>$
+[/UgtMXGIQu5Iz]
+[V48y5TDGRyct#0] ^domon/*domon$
+[/V48y5TDGRyct]
+[ZG89gRhlEjDh#0] ^esus/es<vblex><cni>$
+[/ZG89gRhlEjDh]
+[_tlPa03iGRkr#0] ^bona/bon<adj>$
+[/_tlPa03iGRkr]
+[b9eSFK7oAZdO#0] ^domo/dom<n><sg><nom>$
+[/b9eSFK7oAZdO]
+[bgsy8VMdfHzC#0] ^manjar/manj<vblex><inf>$
+[/bgsy8VMdfHzC]
+[cuPkQ-oFFt5d#0] ^katin/*katin$
+[/cuPkQ-oFFt5d]
+[dkxMe3jW_Tt7#0] ^tu/tu<prn>$
+[/dkxMe3jW_Tt7]
+[gVIzMXr4GODw#0] ^domi/dom<n><pl><nom>$
+[/gVIzMXr4GODw]
+[hUdXKS8a9LOm#0] ^esos/es<vblex><fti>$
+[/hUdXKS8a9LOm]
+[jL-28YCh3adx#0] ^rapide/rapid<adv>$
+[/jL-28YCh3adx]
+[jkEcYLVXfLeI#0] ^esis/es<vblex><pii>$
+[/jkEcYLVXfLeI]
+[m1Mr4Wme0R9m#0] ^oli/oli<prn>$
+[/m1Mr4Wme0R9m]
+[mAQEs94ak9Rm#0] ^esas/es<vblex><pri>$
+[/mAQEs94ak9Rm]
+[oPuQNSXcENzK#0] ^il/il<prn>$
+[/oPuQNSXcENzK]
+[rFMn7mEJoH_P#0] ^katon/*katon$
+[/rFMn7mEJoH_P]
+[tHdkh-WhulK4#0] ^drinkar/drink<vblex><inf>$
+[/tHdkh-WhulK4]
+[wP-T6oknpzZt#0] ^vi/vi<prn>$
+[/wP-T6oknpzZt]
+[wtWdq08IjZvT#0] ^kato/kat<n><sg><nom>$
+[/wtWdq08IjZvT]
+[xTqx0bjs4g1h#0] ^domin/*domin$
+[/xTqx0bjs4g1h]
+[yNrPZX_pK2Bk#0] ^bone/bon<adv>$
+[/yNrPZX_pK2Bk]
