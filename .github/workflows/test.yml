@@ -1,0 +1,62 @@
+name: regtest
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  # Same toolchain pin as komapc/apertium-ido-epo's CI: the nightly apt repo
+  # keeps no old versions, so the projectjj .debs are cached under this key.
+  # Change the key to take a newer nightly.
+  TOOLCHAIN_KEY: apertium-nightly-noble-2026-11-17
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - name: Restore Apertium toolchain (.debs)
+        id: toolchain
+        uses: actions/cache@v6
+        with:
+          path: ~/apertium-debs
+          key: ${{ env.TOOLCHAIN_KEY }}
+
+      - name: Install Apertium toolchain
+        run: |
+          set -euo pipefail
+          if [ "${{ steps.toolchain.outputs.cache-hit }}" != true ]; then
+            wget -q https://apertium.projectjj.com/apt/install-nightly.sh -O - | sudo bash
+            mkdir -p ~/apertium-debs/partial
+            sudo apt-get install -y -q --download-only -o Dir::Cache::archives="$HOME/apertium-debs" \
+              apertium-all-dev apertium-regtest
+            # Keep only the projectjj packages (versions end in ~noble1/~sid1);
+            # Ubuntu's own come from the runner's archive.
+            find ~/apertium-debs -name '*.deb' ! -name '*~noble*' ! -name '*~sid*' -delete
+            sudo rm -rf ~/apertium-debs/partial ~/apertium-debs/lock
+            sudo chown -R "$USER" ~/apertium-debs
+          else
+            sudo apt-get update -q
+          fi
+          sudo apt-get install -y -q ~/apertium-debs/*.deb
+
+      - name: Record toolchain versions
+        run: |
+          {
+            echo "### Toolchain (cache key \`$TOOLCHAIN_KEY\`, hit: ${{ steps.toolchain.outputs.cache-hit || false }})"
+            echo '```'
+            dpkg-query -W -f='${Package} ${Version}\n' lttoolbox apertium cg3 \
+              apertium-lex-tools apertium-separable apertium-regtest
+            echo '```'
+          } | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/checkout@v7
+
+      - name: Build
+        run: |
+          touch NEWS README AUTHORS ChangeLog COPYING
+          ./autogen.sh && ./configure && make -j4
+
+      - name: Regression tests (apertium-regtest)
+        run: make test
