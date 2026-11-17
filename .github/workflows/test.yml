@@ -31,11 +31,11 @@ jobs:
             mkdir -p ~/apertium-debs/partial
             sudo apt-get install -y -q --download-only -o Dir::Cache::archives="$HOME/apertium-debs" \
               apertium-all-dev apertium-regtest
+            sudo rm -rf ~/apertium-debs/partial ~/apertium-debs/lock
+            sudo chown -R "$USER" ~/apertium-debs
             # Keep only the projectjj packages (versions end in ~noble1/~sid1);
             # Ubuntu's own come from the runner's archive.
             find ~/apertium-debs -name '*.deb' ! -name '*~noble*' ! -name '*~sid*' -delete
-            sudo rm -rf ~/apertium-debs/partial ~/apertium-debs/lock
-            sudo chown -R "$USER" ~/apertium-debs
           else
             sudo apt-get update -q
           fi
